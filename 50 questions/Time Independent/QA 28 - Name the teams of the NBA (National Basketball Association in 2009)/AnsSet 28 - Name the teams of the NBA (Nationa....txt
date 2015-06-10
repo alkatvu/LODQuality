@@ -1,0 +1,32 @@
+# 28_Name the teams of the NBA (National Basketball Association in 2009) [30/30 answers]
+QueryID	Concept	Label	HRank
+28.1	http://dbpedia.org/resource/Boston_Celtics	boston celtics	5
+28.2	http://dbpedia.org/resource/Detroit_Pistons	detroit pistons	5
+28.3	http://dbpedia.org/resource/San_Antonio_Spurs	san antonio spurs	5
+28.4	http://dbpedia.org/resource/Orlando_Magic	orlando magic	5
+28.5	http://dbpedia.org/resource/Brooklyn_Nets	brooklyn nets	5
+28.6	http://dbpedia.org/resource/Miami_Heat	miami heat	5
+28.7	http://dbpedia.org/resource/New_York_Knicks	new york knicks	5
+28.8	http://dbpedia.org/resource/Philadelphia_76ers	philadelphia 76ers	5
+28.9	http://dbpedia.org/resource/Washington_Wizards	washington wizards	5
+28.10	http://dbpedia.org/resource/Atlanta_Hawks	atlanta hawks|the hawks	5
+28.11	http://dbpedia.org/resource/New_Orleans_Hornets	new orleans hornets	5
+28.12	http://dbpedia.org/resource/Cleveland_Cavaliers	cleveland cavaliers	5
+28.13	http://dbpedia.org/resource/Chicago_Bulls	chicago bulls	5
+28.14	http://dbpedia.org/resource/Indiana_Pacers	indiana pacers	5
+28.15	http://dbpedia.org/resource/Milwaukee_Bucks	milwaukee bucks	5
+28.16	http://dbpedia.org/resource/Toronto_Raptors	toronto raptors	5
+28.17	http://dbpedia.org/resource/Denver_Nuggets	denver nuggets	5
+28.18	http://dbpedia.org/resource/Houston_Rockets	houston rockets	5
+28.19	http://dbpedia.org/resource/Dallas_Mavericks	dallas mavericks	5
+28.20	http://dbpedia.org/resource/Memphis_Grizzlies	memphis grizzlies	5
+28.21	http://dbpedia.org/resource/Minnesota_Timberwolves	minnesota timberwolves	5
+28.22	http://dbpedia.org/resource/Los_Angeles_Clippers	los angeles clippers	5
+28.23	http://dbpedia.org/resource/Utah_Jazz	utah jazz	5
+28.24	http://dbpedia.org/resource/Golden_State_Warriors	golden state warriors	5
+28.25	http://dbpedia.org/resource/Los_Angeles_Lakers	los angeles lakers	5
+28.26	http://dbpedia.org/resource/Phoenix_Suns	phoenix suns|phoenix suns|the suns gorilla|the suns gorilla	5
+28.27	http://dbpedia.org/resource/Sacramento_Kings	sacramento kings|sacramento kings|cincinnati royals|cincinnati royals	5
+28.28	http://dbpedia.org/resource/Portland_Trail_Blazers	portland trail blazers	5
+28.29	http://dbpedia.org/resource/Charlotte_Bobcats	charlotte bobcats	5
+28.30	http://dbpedia.org/resource/Oklahoma_City_Thunder	oklahoma city thunder	5

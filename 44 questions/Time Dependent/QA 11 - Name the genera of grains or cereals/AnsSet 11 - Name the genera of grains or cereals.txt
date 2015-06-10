@@ -1,0 +1,5 @@
+# 11_Name the genera of grains or cereals [3/20 answers]
+QueryID	Concept	Label	HRank
+11.1	http://dbpedia.org/resource/Secale	secale|secale|secale|secale	5
+11.2	http://dbpedia.org/resource/Wheat	wheat|wheat|wheat|wheat	5
+11.3	http://dbpedia.org/resource/Triticum	triticum|triticum|triticum|triticum	5

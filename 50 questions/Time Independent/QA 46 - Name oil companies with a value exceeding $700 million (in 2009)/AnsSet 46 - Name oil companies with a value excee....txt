@@ -1,0 +1,35 @@
+# 46_Name oil companies with a value exceeding $700 million (in 2009) [33/? answers]
+QueryID	Concept	Label	HRank
+46.1	http://dbpedia.org/resource/Imperial_Oil	imperial oil|imperial oil|imperial oil|imperial oil|imperial oil	5
+46.2	http://dbpedia.org/resource/Repsol_YPF	repsol ypf|repsol ypf|repsol ypf|repsol ypf|repsol ypf	5
+46.3	http://dbpedia.org/resource/Petronas	petronas|petronas|petronas|petronas	5
+46.4	http://dbpedia.org/resource/OMV	omv|omv|omv|omv	5
+46.5	http://dbpedia.org/resource/Sinopec	sinopec|china petroleum and chemical corporation (sinopec)|sinopec|china petroleum and chemical corporation (sinopec)|sinopec|china petroleum and chemical corporation (sinopec)|sinopec|china petroleum and chemical corporation (sinopec)	5
+46.6	http://dbpedia.org/resource/Marathon_Oil	marathon oil|marathon oil corp|marathon oil|marathon oil corp|marathon oil|marathon oil corp|marathon oil|marathon oil corp|marathon oil|marathon oil corp	5
+46.7	http://dbpedia.org/resource/Suncor_Energy	suncor energy|suncor energy|suncor energy|suncor energy	5
+46.8	http://dbpedia.org/resource/Chesapeake_Energy	chesapeake energy|chesapeake energy corporation|chesapeake energy|chesapeake energy corporation|chesapeake energy|chesapeake energy corporation|chesapeake energy|chesapeake energy corporation	5
+46.9	http://dbpedia.org/resource/Neste_Oil	neste oil|neste oil|neste oil|neste oil	5
+46.10	http://dbpedia.org/resource/Williams_Companies	williams companies|williams cos inc|williams companies|williams cos inc|williams companies|williams cos inc|williams companies|williams cos inc|williams companies|williams cos inc	5
+46.11	http://dbpedia.org/resource/Eni	eni|eni|eni|eni|eni	5
+46.12	http://dbpedia.org/resource/SBM_Offshore	sbm offshore|sbm offshore|sbm offshore|sbm offshore|sbm offshore	5
+46.13	http://dbpedia.org/resource/Galp_Energia	galp energia|galp energia|galp energia|galp energia	5
+46.14	http://dbpedia.org/resource/DNO_International	dno international|dno international|dno international|dno international|dno international	5
+46.15	http://dbpedia.org/resource/Subsea_7	subsea 7|subsea 7|subsea 7|subsea 7	5
+46.16	http://dbpedia.org/resource/Songa_Offshore	songa offshore|songa offshore|songa offshore|songa offshore|songa offshore	5
+46.17	http://dbpedia.org/resource/XTO_Energy	xto energy|xto energy|xto energy|xto energy|xto energy	5
+46.18	http://dbpedia.org/resource/Statoil	statoil|statoilhydro asa|statoil|statoilhydro asa|statoil|statoilhydro asa|statoil|statoilhydro asa	5
+46.19	http://dbpedia.org/resource/Sevan_Marine	sevan marine|sevan marine|sevan marine|sevan marine	5
+46.20	http://dbpedia.org/resource/Snam	snam|snam|snam|snam	5
+46.21	http://dbpedia.org/resource/BP	bp|bp plc|bp|bp plc|bp|bp plc|bp|bp plc|bp|bp plc	5
+46.22	http://dbpedia.org/resource/Baytex_Energy	baytex energy|baytex energy|baytex energy|baytex energy	5
+46.23	http://dbpedia.org/resource/Inter_Pipeline_Fund	inter pipeline fund|inter pipeline fund|inter pipeline fund|inter pipeline fund	5
+46.24	http://dbpedia.org/resource/Tenaris	tenaris	5
+46.25	http://dbpedia.org/resource/National_Oilwell_Varco	national oilwell varco	3
+46.26	http://dbpedia.org/resource/Technip	technip	3
+46.27	http://dbpedia.org/resource/Caixabank	caixabank	5
+46.28	http://dbpedia.org/resource/ExxonMobil	exxonmobil|exxon mobil corp|exxonmobil|exxon mobil corp	5
+46.29	http://dbpedia.org/resource/General_Cable	general cable	2
+46.30	http://dbpedia.org/resource/Valero_Energy_Corporation	valero energy corporation	5
+46.31	http://dbpedia.org/resource/Sasol	sasol	3
+46.32	http://dbpedia.org/resource/Fred._Olsen_Energy	fred. olsen energy	5
+46.33	http://dbpedia.org/resource/Western_Refining	western refining	5

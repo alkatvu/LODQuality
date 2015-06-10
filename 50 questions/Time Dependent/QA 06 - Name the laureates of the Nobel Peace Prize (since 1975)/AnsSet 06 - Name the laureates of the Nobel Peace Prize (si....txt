@@ -1,0 +1,54 @@
+# 06_Name the laureates of the Nobel Peace Prize (since 1975) [52/55 answers]
+QueryID	Concept	Label	HRank
+06.1	http://dbpedia.org/resource/Andrei_Sakharov	andrei sakharov	5
+06.2	http://dbpedia.org/resource/Aung_San_Suu_Kyi	aung san suu kyi|aung san suu kyi, daw|aung san suu kyi|aung san suu kyi, daw|aung san suu kyi|aung san suu kyi, daw|aung san suu kyi|aung san suu kyi, daw|aung san suu kyi|aung san suu kyi, daw|aung san suu kyi|aung san suu kyi, daw	5
+06.3	http://dbpedia.org/resource/Elie_Wiesel	elie wiesel|wiesel, elie|elie wiesel|wiesel, elie|elie wiesel|wiesel, elie	5
+06.4	http://dbpedia.org/resource/F._W._de_Klerk	f. w. de klerk|f. w. de klerk	5
+06.5	http://dbpedia.org/resource/Henry_Kissinger	henry kissinger|kissinger, henry a	4
+06.6	http://dbpedia.org/resource/International_Atomic_Energy_Agency	international atomic energy agency	5
+06.7	http://dbpedia.org/resource/Intergovernmental_Panel_on_Climate_Change	intergovernmental panel on climate change	5
+06.8	http://dbpedia.org/resource/Jimmy_Carter	jimmy carter|carter, jimmy|jimmy carter|carter, jimmy|jimmy carter|carter, jimmy|jimmy carter|carter, jimmy|jimmy carter|carter, jimmy|jimmy carter|carter, jimmy|jimmy carter|carter, jimmy|jimmy carter|carter, jimmy	5
+06.9	http://dbpedia.org/resource/Kofi_Annan	kofi annan|annan, kofi|kofi annan|annan, kofi|kofi annan|annan, kofi	5
+06.10	http://dbpedia.org/resource/Martin_Luther_King,_Jr.	martin luther king, jr.|martin luther king, jr.	1
+06.11	http://dbpedia.org/resource/Menachem_Begin	menachem begin	5
+06.12	http://dbpedia.org/resource/Mikhail_Gorbachev	mikhail gorbachev|gorbachev, mikhail s|mikhail gorbachev|gorbachev, mikhail s	4
+06.13	http://dbpedia.org/resource/United_Nations	united nations	5
+06.14	http://dbpedia.org/resource/United_Nations_High_Commissioner_for_Refugees	united nations high commissioner for refugees|united nations high commission for refugees	5
+06.15	http://dbpedia.org/resource/Yasser_Arafat	yasser arafat|arafat, yasir|yasser arafat|arafat, yasir|yasser arafat|arafat, yasir	5
+06.16	http://dbpedia.org/resource/Linus_Pauling	linus pauling	3
+06.17	http://dbpedia.org/resource/Yitzhak_Rabin	yitzhak rabin|rabin, yitzhak|yitzhak rabin|rabin, yitzhak	5
+06.18	http://dbpedia.org/resource/Shimon_Peres	shimon peres|peres, shimon|shimon peres|peres, shimon	5
+06.19	http://dbpedia.org/resource/Anwar_Sadat	anwar sadat	5
+06.20	http://dbpedia.org/resource/Alva_Myrdal	alva myrdal|alva myrdal	5
+06.21	http://dbpedia.org/resource/Kim_Dae-jung	kim dae-jung|kim dae jung	5
+06.22	http://dbpedia.org/resource/John_Hume	john hume|hume, john|john hume|hume, john	5
+06.23	http://dbpedia.org/resource/Martti_Ahtisaari	martti ahtisaari|ahtisaari, martti|martti ahtisaari|ahtisaari, martti	5
+06.24	http://dbpedia.org/resource/Mohamed_ElBaradei	mohamed elbaradei|elbaradei, mohamed	5
+06.25	http://dbpedia.org/resource/Rigoberta_Mench%C3%BA	rigoberta menchú	5
+06.26	http://dbpedia.org/resource/Adolfo_P%C3%A9rez_Esquivel	adolfo pérez esquivel	5
+06.27	http://dbpedia.org/resource/%C3%93scar_Arias	óscar arias	5
+06.28	http://dbpedia.org/resource/International_Physicians_for_the_Prevention_of_Nuclear_War	international physicians for the prevention of nuclear war	5
+06.29	http://dbpedia.org/resource/David_Trimble	david trimble	5
+06.30	http://dbpedia.org/resource/Norman_Borlaug	norman borlaug|norman borlaug|norman borlaug	4
+06.31	http://dbpedia.org/resource/Betty_Williams_(Nobel_laureate)	betty williams (nobel laureate)	5
+06.32	http://dbpedia.org/resource/Jody_Williams	jody williams	5
+06.33	http://dbpedia.org/resource/International_Campaign_to_Ban_Landmines	international campaign to ban landmines	4
+06.34	http://dbpedia.org/resource/Joseph_Rotblat	joseph rotblat	4
+06.35	http://dbpedia.org/resource/Alfonso_Garc%C3%ADa_Robles	alfonso garcía robles	5
+06.36	http://dbpedia.org/resource/Mairead_Maguire	mairead maguire	5
+06.37	http://dbpedia.org/resource/Shirin_Ebadi	shirin ebadi|ebadi, shirin	5
+06.38	http://dbpedia.org/resource/Mother_Teresa	mother teresa|teresa (mother)|mother teresa|teresa (mother)|mother teresa|teresa (mother)|mother teresa|teresa (mother)|mother teresa|teresa (mother)|mother teresa|teresa (mother)|mother teresa|teresa (mother)	5
+06.39	http://dbpedia.org/resource/Barack_Obama	barack obama|obama, barack|barack obama|obama, barack|barack obama|obama, barack	5
+06.40	http://dbpedia.org/resource/Grameen_Bank	grameen bank|grameen bank	5
+06.41	http://dbpedia.org/resource/Muhammad_Yunus	muhammad yunus|muhammad yunus	5
+06.42	http://dbpedia.org/resource/Wangari_Maathai	wangari maathai|wangari maathai	4
+06.43	http://dbpedia.org/resource/Ellen_Johnson_Sirleaf	ellen johnson sirleaf|ellen johnson sirleaf	5
+06.44	http://dbpedia.org/resource/Al_Gore	al gore|gore, al|al gore|gore, al|al gore|gore, al	5
+06.45	http://dbpedia.org/resource/Desmond_Tutu	desmond tutu|tutu, desmond m|desmond tutu|tutu, desmond m|desmond tutu|tutu, desmond m|desmond tutu|tutu, desmond m|desmond tutu|tutu, desmond m|desmond tutu|tutu, desmond m	5
+06.46	http://dbpedia.org/resource/Liu_Xiaobo	liu xiaobo	5
+06.47	http://dbpedia.org/resource/Amnesty_International	amnesty international|amnesty international|amnesty international	5
+06.48	http://dbpedia.org/resource/14th_Dalai_Lama	dalai lama|14th dalai lama	5
+06.49	http://dbpedia.org/resource/Nelson_Mandela	nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson|nelson mandela|mandela, nelson	5
+06.50	http://dbpedia.org/resource/Lech_Wa%C5%82%C4%99sa	lech wałęsa	5
+06.51	http://dbpedia.org/resource/Leymah_Gbowee	leymah gbowee	5
+06.52	http://dbpedia.org/resource/Tawakel_Karman	tawakel karman	5

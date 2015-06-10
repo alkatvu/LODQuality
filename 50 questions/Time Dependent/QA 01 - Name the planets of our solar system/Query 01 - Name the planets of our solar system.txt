@@ -1,0 +1,15 @@
+# 01_Name the planets of our solar system [8/8 answers]
+# TIME INDEPENDENT & COMPLETE
+PREFIX dbp-res: <http://dbpedia.org/resource/>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+select distinct ?planet (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label )
+where
+{
+  ?planet a dbp-ont:Planet ;
+          fb:base.satelites.natural_satellite.orbited_body dbp-res:Sun ;
+		  fb:astronomy.celestial_object.category dbpedia:Planet ;		  
+          rdfs:label ?labels .
+}
+GROUP BY ?planet ORDER BY ?labels

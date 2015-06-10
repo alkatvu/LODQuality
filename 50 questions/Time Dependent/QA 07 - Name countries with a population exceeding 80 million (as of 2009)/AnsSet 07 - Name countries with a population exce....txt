@@ -1,0 +1,10 @@
+# 07_Name countries with a population exceeding 80 million (as of 2009) [8/16 answers]
+QueryID	Concept	Label	HRank
+07.1	http://dbpedia.org/resource/Brazil	brazil	5
+07.2	http://dbpedia.org/resource/China	china	5
+07.3	http://dbpedia.org/resource/India	india|india	5
+07.4	http://dbpedia.org/resource/Indonesia	indonesia|indonesia	5
+07.5	http://dbpedia.org/resource/Japan	japan|japan	5
+07.6	http://dbpedia.org/resource/Pakistan	pakistan	5
+07.7	http://dbpedia.org/resource/Philippines	philippines	5
+07.8	http://dbpedia.org/resource/Mexico	mexico	5

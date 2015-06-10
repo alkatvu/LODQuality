@@ -1,0 +1,10 @@
+# 19_Name the German chancellors (Federal Republic of Germany since 1949)[8/9 answers]
+QueryID	Concept	Label	HRank
+19.1	http://dbpedia.org/resource/Konrad_Adenauer	konrad adenauer	5
+19.2	http://dbpedia.org/resource/Kurt_Georg_Kiesinger	kurt georg kiesinger|kurt georg kiesinger	5
+19.3	http://dbpedia.org/resource/Ludwig_Erhard	ludwig erhard|ludwig erhard	5
+19.4	http://dbpedia.org/resource/Helmut_Schmidt	helmut schmidt|helmut schmidt|helmut schmidt	5
+19.5	http://dbpedia.org/resource/Helmut_Kohl	helmut kohl|kohl, helmut|helmut kohl|kohl, helmut	5
+19.6	http://dbpedia.org/resource/Willy_Brandt	willy brandt|willy brandt	5
+19.7	http://dbpedia.org/resource/Angela_Merkel	angela merkel|merkel, angela|angela merkel|merkel, angela|angela merkel|merkel, angela|angela merkel|merkel, angela	5
+19.8	http://dbpedia.org/resource/Gerhard_Schr%C3%B6der	gerhard schröder|gerhard schröder|gerhard schröder|gerhard schröder	5

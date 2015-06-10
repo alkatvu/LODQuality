@@ -1,0 +1,16 @@
+# 31_Name African countries (nations) [50/54 answers]
+# TIME INDEPENDENT
+PREFIX purl: <http://purl.org/dc/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT Distinct ?countries (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?countries purl:subject dbp-cat:African_countries ;
+             a skos:Concept ;             
+             skos:prefLabel ?labels  ;
+             rdfs:comment ?comment. 
+  FILTER(lang(?labels) = "en").
+}
+GROUP BY ?countries ORDER BY ?labels

@@ -1,0 +1,66 @@
+# 05_Name Nobel laureates in literature (since 1945) [64/72 answers]
+QueryID	Concept	Label	HRank
+05.1	http://data.nytimes.com/18604353539889845963	aleksandr solzhenitsyn|solzhenitsyn, aleksandr i	5
+05.2	http://data.nytimes.com/32162926632732756783	doris lessing|lessing, doris	5
+05.3	http://data.nytimes.com/50138211639845535333	camus, albert|albert camus	5
+05.4	http://data.nytimes.com/52756563738094177893	seamus heaney|heaney, seamus	5
+05.5	http://data.nytimes.com/55430934598248194773	orhan pamuk|pamuk, orhan	5
+05.6	http://data.nytimes.com/61839875166033031593	samuel beckett|beckett, samuel	5
+05.7	http://data.nytimes.com/67318129238180331433	joseph brodsky|brodsky, joseph	5
+05.8	http://data.nytimes.com/67750942173992130293	soyinka, wole|wole soyinka	5
+05.9	http://data.nytimes.com/69059291890797543013	harold pinter|pinter, harold	5
+05.10	http://data.nytimes.com/N13588122733410370133	v. s. naipaul|naipaul, v s	5
+05.11	http://data.nytimes.com/N14277800145489779853	william faulkner|faulkner, william	5
+05.12	http://data.nytimes.com/N19690470362171951973	saul bellow|bellow, saul	5
+05.13	http://data.nytimes.com/N3288840423834144133	toni morrison|morrison, toni	5
+05.14	http://data.nytimes.com/N39589975027631193403	winston churchill|churchill, winston leonard spencer	5
+05.15	http://data.nytimes.com/N41724594533565570373	dario fo|fo, dario	5
+05.16	http://data.nytimes.com/N44985999153126612873	ernest hemingway|hemingway, ernest	5
+05.17	http://data.nytimes.com/N55542446246253584953	t. s. eliot|eliot, thomas stearns	5
+05.18	http://data.nytimes.com/N61326191273319155763	isaac bashevis singer|singer, isaac bashevis	5
+05.19	http://data.nytimes.com/N79112230747557495113	nadine gordimer|gordimer, nadine	5
+05.20	http://data.nytimes.com/N83497720136630811533	j. m. coetzee|coetzee, j m	5
+05.21	http://data.nytimes.com/N85128287073934402493	derek walcott|walcott, derek	5
+05.22	http://data.nytimes.com/N91699469465972265373	john steinbeck|steinbeck, john	5
+05.23	http://dbpedia.org/resource/Andr%C3%A9_Gide	andré gide	5
+05.24	http://dbpedia.org/resource/Bertrand_Russell	bertrand russell	5
+05.25	http://dbpedia.org/resource/Boris_Pasternak	boris pasternak	5
+05.26	http://dbpedia.org/resource/Camilo_Jos%C3%A9_Cela	camilo josé cela	5
+05.27	http://dbpedia.org/resource/Claude_Simon	claude simon	5
+05.28	http://dbpedia.org/resource/Czes%C5%82aw_Mi%C5%82osz	czesław miłosz	5
+05.29	http://dbpedia.org/resource/Elfriede_Jelinek	elfriede jelinek	5
+05.30	http://dbpedia.org/resource/Elias_Canetti	elias canetti	5
+05.31	http://dbpedia.org/resource/Eugenio_Montale	eugenio montale	5
+05.32	http://dbpedia.org/resource/Eyvind_Johnson	eyvind johnson	5
+05.33	http://dbpedia.org/resource/Fran%C3%A7ois_Mauriac	françois mauriac	5
+05.34	http://dbpedia.org/resource/G%C3%BCnter_Grass	günter grass	5
+05.35	http://dbpedia.org/resource/Gabriel_Garc%C3%ADa_M%C3%A1rquez	gabriel garcía márquez	5
+05.36	http://dbpedia.org/resource/Gabriela_Mistral	gabriela mistral	5
+05.37	http://dbpedia.org/resource/Gao_Xingjian	gao xingjian	5
+05.38	http://dbpedia.org/resource/Giorgos_Seferis	giorgos seferis	5
+05.39	http://dbpedia.org/resource/Halld%C3%B3r_Laxness	halldór laxness	5
+05.40	http://dbpedia.org/resource/Harry_Martinson	harry martinson	5
+05.41	http://dbpedia.org/resource/Heinrich_B%C3%B6ll	heinrich böll	5
+05.42	http://dbpedia.org/resource/Hermann_Hesse	hermann hesse	5
+05.43	http://dbpedia.org/resource/Imre_Kert%C3%A9sz	imre kertész	5
+05.44	http://dbpedia.org/resource/Ivo_Andri%C4%87	ivo andrić	5
+05.45	http://dbpedia.org/resource/J._M._G._Le_Cl%C3%A9zio	j. m. g. le clézio	5
+05.46	http://dbpedia.org/resource/Jaroslav_Seifert	jaroslav seifert	5
+05.47	http://dbpedia.org/resource/Jos%C3%A9_Saramago	josé saramago	5
+05.48	http://dbpedia.org/resource/Juan_Ram%C3%B3n_Jim%C3%A9nez	juan ramón jiménez	5
+05.49	http://dbpedia.org/resource/Kenzabur%C5%8D_%C5%8Ce	kenzaburō ōe	5
+05.50	http://dbpedia.org/resource/Miguel_%C3%81ngel_Asturias	miguel ángel asturias	5
+05.51	http://dbpedia.org/resource/Mikhail_Sholokhov	mikhail sholokhov	5
+05.52	http://dbpedia.org/resource/Naguib_Mahfouz	naguib mahfouz	5
+05.53	http://dbpedia.org/resource/Nelly_Sachs	nelly sachs	5
+05.54	http://dbpedia.org/resource/Octavio_Paz	octavio paz	5
+05.55	http://dbpedia.org/resource/Odysseas_Elytis	odysseas elytis	5
+05.56	http://dbpedia.org/resource/P%C3%A4r_Lagerkvist	pär lagerkvist	5
+05.57	http://dbpedia.org/resource/Pablo_Neruda	pablo neruda	5
+05.58	http://dbpedia.org/resource/Patrick_White	patrick white	5
+05.59	http://dbpedia.org/resource/Saint-John_Perse	saint-john perse	5
+05.60	http://dbpedia.org/resource/Salvatore_Quasimodo	salvatore quasimodo	5
+05.61	http://dbpedia.org/resource/Vicente_Aleixandre	vicente aleixandre	5
+05.62	http://dbpedia.org/resource/William_Golding	william golding	5
+05.63	http://dbpedia.org/resource/Wis%C5%82awa_Szymborska	wisława szymborska	5
+05.64	http://dbpedia.org/resource/Yasunari_Kawabata	yasunari kawabata	5

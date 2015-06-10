@@ -1,0 +1,56 @@
+# 32_Name American countries (nations) [54/35 answers]
+QueryID	Concept	Label	HRank
+32.1	http://dbpedia.org/resource/United_States	united states|united states|states (us)|states (us)	5
+32.2	http://dbpedia.org/resource/Aruba	aruba	3
+32.3	http://dbpedia.org/resource/Antigua_and_Barbuda	antigua and barbuda	5
+32.4	http://dbpedia.org/resource/Anguilla	anguilla	3
+32.5	http://dbpedia.org/resource/The_Bahamas	bahama islands	3
+32.6	http://dbpedia.org/resource/Brazil	brazil	5
+32.7	http://dbpedia.org/resource/Barbados	barbados	5
+32.8	http://dbpedia.org/resource/Belize	belize	5
+32.9	http://dbpedia.org/resource/Bolivia	bolivia	5
+32.10	http://dbpedia.org/resource/Bermuda	bermuda	3
+32.11	http://dbpedia.org/resource/Colombia	colombia	5
+32.12	http://dbpedia.org/resource/Cayman_Islands	cayman islands	3
+32.13	http://dbpedia.org/resource/Chile	chile	5
+32.14	http://dbpedia.org/resource/Costa_Rica	costa rica	5
+32.15	http://dbpedia.org/resource/Dominican_Republic	dominican republic	5
+32.16	http://dbpedia.org/resource/El_Salvador	el salvador	5
+32.17	http://dbpedia.org/resource/Ecuador	ecuador|ecuador	5
+32.18	http://dbpedia.org/resource/Greenland	greenland	3
+32.19	http://dbpedia.org/resource/Haiti	haiti	5
+32.20	http://dbpedia.org/resource/Honduras	honduras	5
+32.21	http://dbpedia.org/resource/Iceland	iceland	1
+32.22	http://dbpedia.org/resource/Jamaica	jamaica (west indies)	5
+32.23	http://dbpedia.org/resource/Montserrat	montserrat	3
+32.24	http://dbpedia.org/resource/Netherlands	netherlands	1
+32.25	http://dbpedia.org/resource/Nicaragua	nicaragua	5
+32.26	http://dbpedia.org/resource/Panama	panama	5
+32.27	http://dbpedia.org/resource/Puerto_Rico	puerto rico	3
+32.28	http://dbpedia.org/resource/Paraguay	paraguay|paraguay	5
+32.29	http://dbpedia.org/resource/Suriname	suriname	5
+32.30	http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines	st vincent and the grenadines	5
+32.31	http://dbpedia.org/resource/Saint_Kitts_and_Nevis	st kitts and nevis	5
+32.32	http://dbpedia.org/resource/Saint_Lucia	st lucia	5
+32.33	http://dbpedia.org/resource/Saint_Pierre_and_Miquelon	st pierre and miquelon	5
+32.34	http://dbpedia.org/resource/Turks_and_Caicos_Islands	turks and caicos islands	3
+32.35	http://dbpedia.org/resource/United_Kingdom	great britain|great britain|great britain	1
+32.36	http://dbpedia.org/resource/United_Nations	united nations	5
+32.37	http://dbpedia.org/resource/Uruguay	uruguay	5
+32.38	http://dbpedia.org/resource/Venezuela	venezuela	5
+32.39	http://dbpedia.org/resource/Denmark	denmark|denmark	1
+32.40	http://dbpedia.org/resource/Bonaire	bonaire	1
+32.41	http://dbpedia.org/resource/Saint_Martin	st martin (caribbean)|st martin (caribbean)|st maarten (caribbean)|st maarten (caribbean)	3
+32.42	http://dbpedia.org/resource/Peru	peru	5
+32.43	http://dbpedia.org/resource/Saba	saba (netherlands antilles)	3
+32.44	http://dbpedia.org/resource/Sancti_Sp%C3%ADritus,_Cuba	cuba|cuba	5
+32.45	http://dbpedia.org/resource/Trinidad_and_Tobago	trinidad and tobago	5
+32.46	http://dbpedia.org/resource/Mexico	mexico	5
+32.47	http://dbpedia.org/resource/Canada	canada	5
+32.48	http://dbpedia.org/resource/France	france	1
+32.49	http://dbpedia.org/resource/Falkland_Islands	falkland islands	3
+32.50	http://dbpedia.org/resource/State_terrorism_in_Guatemala	guatemala|guatemala	5
+32.51	http://dbpedia.org/resource/Dominica	dominica	5
+32.52	http://dbpedia.org/resource/Grenada	grenada	5
+32.53	http://dbpedia.org/resource/Guyana	guyana|guyana	5
+32.54	http://dbpedia.org/resource/Argentina	argentina	5

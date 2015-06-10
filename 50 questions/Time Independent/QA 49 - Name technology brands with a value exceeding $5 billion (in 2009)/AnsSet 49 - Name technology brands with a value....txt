@@ -1,0 +1,3 @@
+# 49_Name technology brands with a value exceeding $5 billion (in 2009) [0/? answers]
+QueryID	Concept	Label	HRank
+49.1			5

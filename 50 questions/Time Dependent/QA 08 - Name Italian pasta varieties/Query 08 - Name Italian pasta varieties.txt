@@ -1,0 +1,13 @@
+# 08_Name Italian pasta varieties [75/200 answers]
+# TIME DEPENDENT QUERIES
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX purl: <http://purl.org/dc/terms/>
+select distinct ?italianPasta  (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label) 
+where
+{
+  ?italianPasta  purl:subject dbp-cat:Pasta ;
+            rdfs:label ?labels ;
+            rdfs:comment ?comment .
+  FILTER(lang(?labels) = "en").
+}
+GROUP BY ?italianPasta ORDER BY ?labels

@@ -1,0 +1,8 @@
+# 03_Name Apple's operating systems (no version) [6/11 answers]
+QueryID	Concept	Label	HRank
+03.1	http://dbpedia.org/resource/Apple_Pascal	apple pascal	5
+03.2	http://dbpedia.org/resource/Mac_OS_8	mac os 8	5
+03.3	http://dbpedia.org/resource/Mac_OS_9	mac os 9	5
+03.4	http://dbpedia.org/resource/OS_X	os x	5
+03.5	http://dbpedia.org/resource/System_6	system 6	5
+03.6	http://dbpedia.org/resource/System_7	system 7	5

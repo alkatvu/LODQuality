@@ -1,0 +1,14 @@
+# 25_Name the signs of the Western zodiac [11/12 answers] [11 good answers]
+# TIME INDEPENDENT & COMPLETE
+PREFIX dbp-prop: <http://dbpedia.org/property/>
+PREFIX dbp-res: <http://dbpedia.org/resource/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+Select distinct ?Constellation (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label) 
+Where 
+{
+ ?Constellation	dbp-prop:family dbp-res:Zodiac ;
+ 	 	        rdfs:label ?labels ;
+                rdfs:comment ?comment .
+ FILTER (lang(?labels) = "en")
+}
+GROUP BY ?Constellation ORDER BY ?label

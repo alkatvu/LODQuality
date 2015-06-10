@@ -1,0 +1,18 @@
+# 47_Name existing fashion brands worth over $1 billion (in 2009) [10/? answers]
+# TIME INDEPENDENT & INCOMPLETE
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX dbp-prop: <http://dbpedia.org/property/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT distinct ?comp (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?comp purl:subject dbp-cat:Clothing_brands ;
+        dbp-prop:revenue ?revenue ;
+        rdfs:label ?labels ;
+        rdfs:comment ?comment .
+  FILTER(lang(?labels) = "en") . 
+  FILTER (xsd:double(str(?revenue)) > 1e9) .
+}
+GROUP BY ?comp ORDER BY ?labels

@@ -1,0 +1,16 @@
+# 34_Name the members of the pop band The Beatles [6/6 answers]
+# TIME INDEPENDENT
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+SELECT distinct ?member (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?member purl:subject dbp-cat:The_Beatles_members ;
+          a dbp-ont:Person ;
+          rdfs:label ?labels ;
+          rdfs:comment ?comment .
+  FILTER(lang(?labels) = "en").
+}
+GROUP BY ?member ORDER BY ?labels

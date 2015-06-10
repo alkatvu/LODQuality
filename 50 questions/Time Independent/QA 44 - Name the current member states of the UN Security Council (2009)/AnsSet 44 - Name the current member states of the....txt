@@ -1,0 +1,12 @@
+# 44_Name the current member states of the UN Security Council (2009) [10/15 answers]
+QueryID	Concept	Label	HRank
+44.1	http://dbpedia.org/resource/United_States	united states|united states|states (us)|states (us)	5
+44.2	http://dbpedia.org/resource/China	china	5
+44.3	http://dbpedia.org/resource/Costa_Rica	costa rica	5
+44.4	http://dbpedia.org/resource/Croatia	croatia	5
+44.5	http://dbpedia.org/resource/Russia	russia	5
+44.6	http://dbpedia.org/resource/Taiwan	taiwan|taiwan	1
+44.7	http://dbpedia.org/resource/Soviet_Union	ussr (former soviet union)	5
+44.8	http://dbpedia.org/resource/United_Kingdom	great britain|great britain|great britain	5
+44.9	http://dbpedia.org/resource/Vietnam	vietnam	5
+44.10	http://dbpedia.org/resource/France	france	5

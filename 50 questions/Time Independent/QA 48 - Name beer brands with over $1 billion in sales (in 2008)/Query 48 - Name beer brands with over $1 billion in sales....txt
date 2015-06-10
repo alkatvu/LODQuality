@@ -1,0 +1,15 @@
+# 48_Name beer brands with over $1 billion in sales (in 2008) [OK] [5/? answers]
+# TIME INDEPENDENT & INCOMPLETE
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+Select Distinct ?company (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label) 
+Where 
+{
+  ?company a dbp-ont:Company;
+           fb:food.brewery_brand_of_beer.beers_produced ?beer;
+           dbp-ont:netIncome ?income .
+  ?beer fb:type.object.name ?labels .
+  FILTER ( lang(?labels) = "en" && xsd:double(str(?income)) > 1e9) .
+}
+GROUP BY ?company ORDER BY ?labels

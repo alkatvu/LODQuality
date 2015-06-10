@@ -1,0 +1,9 @@
+# 39_Name the highest mountain (peaks) of each continent [7/7 answers]
+QueryID	Concept	Label	HRank
+39.1	http://dbpedia.org/resource/Mount_Everest	mount everest	5
+39.2	http://dbpedia.org/resource/Mont_Blanc	mont blanc	5
+39.3	http://dbpedia.org/resource/Mount_Kosciuszko	mount kosciuszko	5
+39.4	http://dbpedia.org/resource/Mount_Kilimanjaro	mount kilimanjaro	5
+39.5	http://dbpedia.org/resource/Mount_McKinley	mount mckinley|mount mckinley (alaska)	5
+39.6	http://dbpedia.org/resource/Aconcagua	aconcagua	5
+39.7	http://dbpedia.org/resource/Puncak_Jaya	puncak jaya	5

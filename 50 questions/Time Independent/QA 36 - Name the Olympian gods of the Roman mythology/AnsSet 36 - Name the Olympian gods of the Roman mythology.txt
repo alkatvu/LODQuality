@@ -1,0 +1,13 @@
+# 36_Name the Olympian gods of the Roman mythology [11/14 answers]
+QueryID	Concept	Label	HRank
+36.1	http://dbpedia.org/resource/Antheus	dionysus|antheus|dionysus|antheus|dionysus|antheus|liber|liber|bacchus|dionysus|antheus	5
+36.2	http://dbpedia.org/resource/Aphrodite	venus (mythology)|venus (mythology)	5
+36.3	http://dbpedia.org/resource/Apollo	apollo|phoebus apollo	5
+36.4	http://dbpedia.org/resource/Artemis	diana (mythology)|diana (mythology)	5
+36.5	http://dbpedia.org/resource/Athena	minerva|minerva	5
+36.6	http://dbpedia.org/resource/Hephaestus	vulcan (mythology)|vulcan (mythology)	5
+36.7	http://dbpedia.org/resource/Hera	juno (mythology)|juno (mythology)	5
+36.8	http://dbpedia.org/resource/Hermes	mercury (mythology)|mercury (mythology)	5
+36.9	http://dbpedia.org/resource/Hestia	vesta (mythology)|vesta (mythology)	5
+36.10	http://dbpedia.org/resource/Poseidon	neptune (mythology)|neptune (mythology)	5
+36.11	http://dbpedia.org/resource/Zeus	jupiter (mythology)|jupiter (mythology)	5

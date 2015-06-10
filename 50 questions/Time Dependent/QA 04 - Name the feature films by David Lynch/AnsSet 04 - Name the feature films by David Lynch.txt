@@ -1,0 +1,14 @@
+# 04_Name the feature films by David Lynch [12/11 answers]
+QueryID	Concept	Label	HRank
+04.1	http://dbpedia.org/resource/Blue_Velvet_(film)	blue velvet (film)	5
+04.2	http://dbpedia.org/resource/Mulholland_Drive_(film)	mulholland drive (film)	5
+04.3	http://dbpedia.org/resource/The_Straight_Story	the straight story	5
+04.4	http://dbpedia.org/resource/Dune_(film)	dune (film)	5
+04.5	http://dbpedia.org/resource/The_Elephant_Man_(film)	the elephant man (film)	5
+04.6	http://dbpedia.org/resource/Lost_Highway_(film)	lost highway (film)	5
+04.7	http://dbpedia.org/resource/Twin_Peaks:_Fire_Walk_with_Me	twin peaks: fire walk with me	5
+04.8	http://dbpedia.org/resource/Wild_at_Heart_(film)	wild at heart (film)	5
+04.9	http://dbpedia.org/resource/Eraserhead	eraserhead|eraserhead	5
+04.10	http://dbpedia.org/resource/Industrial_Symphony_No._1	industrial symphony no. 1	5
+04.11	http://dbpedia.org/resource/Rabbits_(film)	rabbits (film)	3
+04.12	http://dbpedia.org/resource/Inland_Empire_(film)	inland empire (film)	5

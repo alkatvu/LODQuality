@@ -1,0 +1,7 @@
+# 48_Name beer brands with over $1 billion in sales (in 2008) [OK] [5/? answers]
+QueryID	Concept	Label	HRank
+48.1	http://dbpedia.org/resource/Carlsberg_Group	carlsberg jacobsen dark lager|carls porter|carlsberg jacobsen bramley wit|carlsberg-tetley tetley bitter|carlsberg export|carlsberg elephant beer|carlsberg-tetley tetley's festival rugby ale|carlsberg-tetley sainsbury's parkin's special bitter	5
+48.2	http://dbpedia.org/resource/Heineken_International	heineken van vollenhoven's stout|heineken export|heineken zlaty bazant lager|heineken edelweiss	5
+48.3	http://dbpedia.org/resource/AmBev	serramalte|ambev skol	3
+48.4	http://dbpedia.org/resource/SABMiller	miller genuine draft	5
+48.5	http://dbpedia.org/resource/San_Miguel_Brewery	san miguel millenium cerveza de invierno|san miguel premium lager|san miguel tradición|san miguel cerveza de invierno 98/99	5

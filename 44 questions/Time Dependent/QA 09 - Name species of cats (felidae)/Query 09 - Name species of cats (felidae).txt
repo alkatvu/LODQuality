@@ -1,0 +1,13 @@
+# 09_Name species of cats (felidae) [164/162 answers]
+# TIME DEPENDENT QUERIES
+PREFIX dbp-res: <http://dbpedia.org/resource/>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+select ?animal (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label) 
+where 
+{ 
+  ?animal dbp-ont:family dbp-res:Felidae ;
+          rdfs:label ?labels  ;
+          rdfs:comment ?comment .
+  FILTER (lang(?labels) = "en")
+}
+GROUP BY ?animal ORDER BY ?animal

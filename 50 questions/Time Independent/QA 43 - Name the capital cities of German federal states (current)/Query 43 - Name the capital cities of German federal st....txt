@@ -1,0 +1,14 @@
+# 43_Name the capital cities of German federal states (current) [16/16 answers]
+# TIME DEPENDENT QUERIES
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX dbp-prop: <http://dbpedia.org/property/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?bundesland (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?bundesland purl:subject dbp-cat:States_of_Germany ;
+              dbp-prop:capital  ?labels  ;
+              rdfs:comment ?comment .
+}
+GROUP BY ?bundesland ORDER BY ?capitalLabel

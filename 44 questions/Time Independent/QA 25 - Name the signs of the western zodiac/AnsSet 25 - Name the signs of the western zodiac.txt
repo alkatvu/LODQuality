@@ -1,0 +1,13 @@
+# 25_Name the signs of the Western zodiac [11/12 answers] [11 good answers]
+QueryID	Concept	Label	HRank
+25.1	http://dbpedia.org/resource/Aquarius_(constellation)	aquarius (constellation)	5
+25.2	http://dbpedia.org/resource/Aries_(constellation)	aries (constellation)	5
+25.3	http://dbpedia.org/resource/Cancer_(constellation)	cancer (constellation)	5
+25.4	http://dbpedia.org/resource/Gemini_(constellation)	gemini (constellation)	5
+25.5	http://dbpedia.org/resource/Leo_(constellation)	leo (constellation)	5
+25.6	http://dbpedia.org/resource/Libra_(constellation)	libra (constellation)	5
+25.7	http://dbpedia.org/resource/Pisces_(constellation)	pisces (constellation)	5
+25.8	http://dbpedia.org/resource/Sagittarius_(constellation)	sagittarius (constellation)	5
+25.9	http://dbpedia.org/resource/Scorpius	scorpius	5
+25.10	http://dbpedia.org/resource/Taurus_(constellation)	taurus (constellation)	5
+25.11	http://dbpedia.org/resource/Virgo_(constellation)	virgo (constellation)	5

@@ -1,0 +1,17 @@
+# 02_Name James Bond movies (titles) [26/25 answers]
+# TIME DEPENDENT QUERIES
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX fb: <http://rdf.freebase.com/ns/>
+SELECT distinct ?film (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?film purl:subject dbp-cat:James_Bond_films ;
+        a fb:film.film ;
+        rdfs:label ?labels ;
+        rdfs:comment ?comment .
+  OPTIONAL {?film fb:film.film.initial_release_date ?date ;}
+  FILTER(lang(?labels) = "en").
+}
+GROUP BY ?film ORDER BY ?date

@@ -1,0 +1,19 @@
+# 23_Name the sites (host cities) of the modern Olympic Winter games (so far) [17/18 answers]
+QueryID	Concept	Label	HRank
+23.1	http://dbpedia.org/resource/Salt_Lake_City	salt lake city, utah|salt lake city|salt lake city (utah)|salt lake city, utah|salt lake city|salt lake city (utah)	5
+23.2	http://dbpedia.org/resource/St._Moritz	st. moritz|st. moritz|lake st. moritz|lake st. moritz|st moritz (switzerland)|st moritz (switzerland)|st. moritz|st. moritz|lake st. moritz|lake st. moritz|st moritz (switzerland)|st moritz (switzerland)|st. moritz|st. moritz|lake st. moritz|lake st. moritz|st moritz (switzerland)|st moritz (switzerland)|st. moritz|st. moritz|lake st. moritz|lake st. moritz|st moritz (switzerland)|st moritz (switzerland)	5
+23.3	http://dbpedia.org/resource/Chamonix	chamonix|chamonix (france)|chamonix|chamonix (france)	5
+23.4	http://dbpedia.org/resource/Turin	turin|turin (italy)|turin|turin (italy)|turin|turin (italy)|turin|turin (italy)|turin|turin (italy)	5
+23.5	http://dbpedia.org/resource/Nagano,_Nagano	nagano, nagano|nagano, nagano	5
+23.6	http://dbpedia.org/resource/Albertville	albertville|albertville	5
+23.7	http://dbpedia.org/resource/Lake_Placid,_New_York	lake placid, new york|lake placid (ny)|lake placid, new york|lake placid (ny)|lake placid, new york|lake placid (ny)|lake placid, new york|lake placid (ny)	5
+23.8	http://dbpedia.org/resource/Sarajevo	sarajevo|sarajevo	5
+23.9	http://dbpedia.org/resource/Oslo	oslo|oslo (norway)|oslo|oslo (norway)	5
+23.10	http://dbpedia.org/resource/Grenoble	grenoble|grenoble	5
+23.11	http://dbpedia.org/resource/Squaw_Valley,_Fresno_County,_California	squaw valley, placer county, california|squaw valley, placer county, california|squaw valley, fresno county, california|squaw valley, fresno county, california|squaw valley, california|squaw valley, california|squaw valley, placer county, california|squaw valley, placer county, california|squaw valley, fresno county, california|squaw valley, fresno county, california|squaw valley, california|squaw valley, california	5
+23.12	http://dbpedia.org/resource/Vancouver	vancouver|vancouver (british columbia)|vancouver|vancouver (british columbia)	5
+23.13	http://dbpedia.org/resource/Garmisch-Partenkirchen	garmisch-partenkirchen|garmisch-partenkirchen	5
+23.14	http://dbpedia.org/resource/Calgary	calgary|calgary (alberta)|calgary|calgary (alberta)	5
+23.15	http://dbpedia.org/resource/Innsbruck	innsbruck|innsbruck (austria)|innsbruck|innsbruck (austria)|innsbruck|innsbruck (austria)|innsbruck|innsbruck (austria)	5
+23.16	http://dbpedia.org/resource/Sapporo	sapporo|sapporo	5
+23.17	http://dbpedia.org/resource/Cortina_d'Ampezzo	cortina d'ampezzo|cortina d'ampezzo	5

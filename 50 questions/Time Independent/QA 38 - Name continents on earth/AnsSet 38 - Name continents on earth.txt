@@ -1,0 +1,9 @@
+# 38_Name continents on earth [7/7 answers]
+QueryID	Concept	Label	HRank
+38.1	http://dbpedia.org/resource/Asia	asia	5
+38.2	http://dbpedia.org/resource/Europe	europe	5
+38.3	http://dbpedia.org/resource/North_America	north america	5
+38.4	http://dbpedia.org/resource/South_America	south america	5
+38.5	http://dbpedia.org/resource/Africa	africa	5
+38.6	http://dbpedia.org/resource/Australia_(continent)	australia (continent)	5
+38.7	http://dbpedia.org/resource/Indian_subcontinent	indian subcontinent	3

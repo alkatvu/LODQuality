@@ -1,0 +1,19 @@
+# 36_Name the Olympian gods of the Roman mythology [11/14 answers]
+# TIME INDEPENDENT
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbp-prop: <http://dbpedia.org/property/>
+SELECT distinct  ?member (GROUP_CONCAT(?labels; separator="|") as ?label)
+WHERE 
+{
+ {
+      ?member dcterms:subject dbp-cat:Twelve_Olympians ;
+              dbp-prop:romanEquivalent ?romanEquivalent.
+              ?romanEquivalent rdfs:label ?labels .
+  } UNION {
+      ?member dcterms:subject dbp-cat:Roman_gods ;
+              dcterms:subject dbp-cat:Twelve_Olympians ;
+              rdfs:label ?labels .
+ }    FILTER(lang(?labels) = "en").
+} GROUP BY ?member ORDER BY ?member

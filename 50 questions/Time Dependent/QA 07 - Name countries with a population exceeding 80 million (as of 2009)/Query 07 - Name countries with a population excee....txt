@@ -1,0 +1,13 @@
+# 07_Name countries with a population exceeding 80 million (as of 2009) [8/16 answers]
+# TIME DEPENDENT QUERIES
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbp-prop: <http://dbpedia.org/property/>
+SELECT distinct  ?country (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?country dbp-prop:populationCensus ?pop ;
+           skos:prefLabel ?labels ;
+           rdfs:comment ?comment .
+  FILTER (lang(?labels) = "en" && xsd:double(?pop) > 80000000) .
+}
+GROUP BY ?country ORDER BY ?labels

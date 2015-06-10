@@ -1,0 +1,12 @@
+# 16_US American car manufacturers (current) [10/42 answers]
+QueryID	Concept	Label	HRank
+16.1	http://dbpedia.org/resource/Chrysler	chrysler|chrysler llc	5
+16.2	http://dbpedia.org/resource/General_Motors	general motors	5
+16.3	http://dbpedia.org/resource/AM_General	am general	5
+16.4	http://dbpedia.org/resource/GMC_(automobile)	gmc (automobile)	5
+16.5	http://dbpedia.org/resource/Duesenberg	duesenberg	5
+16.6	http://dbpedia.org/resource/Saleen	saleen	5
+16.7	http://dbpedia.org/resource/Stutz_Motor_Company	stutz motor company	5
+16.8	http://dbpedia.org/resource/Tesla_Motors	tesla motors	5
+16.9	http://dbpedia.org/resource/Carroll_Shelby_International	carroll shelby international	5
+16.10	http://dbpedia.org/resource/Ford_Motor_Company	ford motor company|ford motor co	5

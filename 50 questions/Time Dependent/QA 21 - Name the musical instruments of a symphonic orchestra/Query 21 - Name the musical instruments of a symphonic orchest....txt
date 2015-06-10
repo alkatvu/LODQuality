@@ -1,0 +1,13 @@
+# 21_Name the musical instruments of a symphonic orchestra [43 answers]
+# TIME DEPENDENT QUERIES
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+select distinct ?instruments (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+Where
+{ 
+  ?genre dbp-ont:genre dbpedia:Orchestra ;
+         dbp-ont:instrument ?instruments .
+  ?instruments rdfs:label ?labels ;
+               rdfs:comment ?comment .
+}
+GROUP BY ?instruments ORDER BY ?labels

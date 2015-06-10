@@ -1,0 +1,77 @@
+# 08_Name Italian pasta varieties [75/200 answers]
+QueryID	Concept	Label	HRank
+08.1	http://dbpedia.org/resource/Macaroni	macaroni	5
+08.2	http://dbpedia.org/resource/Pasta	pasta	5
+08.3	http://dbpedia.org/resource/Spaghetti	spaghetti	5
+08.4	http://dbpedia.org/resource/Lasagne	lasagne	5
+08.5	http://dbpedia.org/resource/Vermicelli	vermicelli	5
+08.6	http://dbpedia.org/resource/Tagliatelle	tagliatelle	5
+08.7	http://dbpedia.org/resource/Tortellini	tortellini	5
+08.8	http://dbpedia.org/resource/Maultasche	maultasche	5
+08.9	http://dbpedia.org/resource/Ravioli	ravioli	5
+08.10	http://dbpedia.org/resource/Fettuccine	fettuccine	5
+08.11	http://dbpedia.org/resource/Linguine	linguine	5
+08.12	http://dbpedia.org/resource/Al_dente	al dente	2
+08.13	http://dbpedia.org/resource/Farfel	farfel	3
+08.14	http://dbpedia.org/resource/Penne	penne	5
+08.15	http://dbpedia.org/resource/Pizzoccheri	pizzoccheri	5
+08.16	http://dbpedia.org/resource/Tortelloni	tortelloni	5
+08.17	http://dbpedia.org/resource/Anellini	anellini	5
+08.18	http://dbpedia.org/resource/Cannelloni	cannelloni	5
+08.19	http://dbpedia.org/resource/Agnolotti	agnolotti	5
+08.20	http://dbpedia.org/resource/Pappardelle	pappardelle	5
+08.21	http://dbpedia.org/resource/Bucatini	bucatini	5
+08.22	http://dbpedia.org/resource/Acini_di_pepe	acini di pepe	5
+08.23	http://dbpedia.org/resource/Orzo_(pasta)	orzo (pasta)	5
+08.24	http://dbpedia.org/resource/Campanelle	campanelle	5
+08.25	http://dbpedia.org/resource/Cavatelli	cavatelli	5
+08.26	http://dbpedia.org/resource/Conchiglie	conchiglie	5
+08.27	http://dbpedia.org/resource/Trenette	trenette	5
+08.28	http://dbpedia.org/resource/List_of_pasta	list of pasta	1
+08.29	http://dbpedia.org/resource/Farfalle	farfalle	5
+08.30	http://dbpedia.org/resource/Rigatoni	rigatoni	5
+08.31	http://dbpedia.org/resource/Fusilli	fusilli	5
+08.32	http://dbpedia.org/resource/Strozzapreti	strozzapreti	5
+08.33	http://dbpedia.org/resource/Cavatappi	cavatappi	5
+08.34	http://dbpedia.org/resource/Orecchiette	orecchiette	5
+08.35	http://dbpedia.org/resource/Fregula	fregula	5
+08.36	http://dbpedia.org/resource/Fu%C5%BEi	fuži	5
+08.37	http://dbpedia.org/resource/Fiori_(pasta)	fiori (pasta)	5
+08.38	http://dbpedia.org/resource/Alphabet_pasta	alphabet pasta	3
+08.39	http://dbpedia.org/resource/Bigoli	bigoli	5
+08.40	http://dbpedia.org/resource/Cencioni	cencioni	5
+08.41	http://dbpedia.org/resource/Rotelle	rotelle	5
+08.42	http://dbpedia.org/resource/Rotini	rotini	5
+08.43	http://dbpedia.org/resource/Gemelli_(pasta)	gemelli (pasta)	5
+08.44	http://dbpedia.org/resource/Lanterne	lanterne	5
+08.45	http://dbpedia.org/resource/Radiatori	radiatori	5
+08.46	http://dbpedia.org/resource/Capellini	capellini	5
+08.47	http://dbpedia.org/resource/Mafaldine	mafaldine	5
+08.48	http://dbpedia.org/resource/Al_forno	al forno	2
+08.49	http://dbpedia.org/resource/Corzetti	corzetti	5
+08.50	http://dbpedia.org/resource/Pici	pici	5
+08.51	http://dbpedia.org/resource/Croxetti	croxetti	5
+08.52	http://dbpedia.org/resource/Pastina	pastina	5
+08.53	http://dbpedia.org/resource/Passatelli	passatelli	5
+08.54	http://dbpedia.org/resource/Foglie_d'ulivo	foglie d'ulivo	5
+08.55	http://dbpedia.org/resource/T%C3%BAr%C3%B3s_csusza	túrós csusza	3
+08.56	http://dbpedia.org/resource/Ptitim	ptitim	4
+08.57	http://dbpedia.org/resource/Stringozzi	stringozzi	5
+08.58	http://dbpedia.org/resource/Casunziei	casunziei	5
+08.59	http://dbpedia.org/resource/Fagottini	fagottini	5
+08.60	http://dbpedia.org/resource/Occhi_di_Lupo	occhi di lupo	5
+08.61	http://dbpedia.org/resource/Mafalde	mafalde	5
+08.62	http://dbpedia.org/resource/Sagnarelli	sagnarelli	5
+08.63	http://dbpedia.org/resource/Anelli	anelli	5
+08.64	http://dbpedia.org/resource/Tripoline	tripoline	5
+08.65	http://dbpedia.org/resource/Casoncelli	casoncelli	5
+08.66	http://dbpedia.org/resource/Mezzelune	mezzelune	5
+08.67	http://dbpedia.org/resource/Sacchettoni	sacchettoni	5
+08.68	http://dbpedia.org/resource/Lasagnette	lasagnette	5
+08.69	http://dbpedia.org/resource/Linguettine	linguettine	5
+08.70	http://dbpedia.org/resource/Pillus	pillus	5
+08.71	http://dbpedia.org/resource/Scialatelli	scialatelli	5
+08.72	http://dbpedia.org/resource/Taglierini	taglierini	5
+08.73	http://dbpedia.org/resource/Garganelli	garganelli	5
+08.74	http://dbpedia.org/resource/Bavette_(pasta)	bavette (pasta)	5
+08.75	http://dbpedia.org/resource/Borlengo	borlengo	2

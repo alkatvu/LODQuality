@@ -1,0 +1,14 @@
+# 04_Name the feature films by David Lynch [12/11 answers]
+# TIME DEPENDENT QUERIES
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?film (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?film dbp-ont:director dbpedia:David_Lynch ;
+        dbp-ont:runtime ?runtime ;
+        rdfs:label ?labels ;
+        rdfs:comment ?comment .
+  FILTER(lang(?labels) = "en" &&  ?runtime > 2399 ).
+}
+GROUP BY ?film ORDER BY ?labels

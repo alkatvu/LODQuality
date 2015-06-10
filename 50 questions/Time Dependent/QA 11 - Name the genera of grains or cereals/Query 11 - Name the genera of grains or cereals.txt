@@ -1,0 +1,21 @@
+# 11_Name the genera of grains or cereals [3/20 answers]
+# TIME DEPENDENT QUERIES
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX purl: <http://purl.org/dc/terms/>
+select distinct ?genus (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label )
+where
+{
+  {
+    ?cereal fb:type.object.type fb:base.cerealgrains.cereal_grain;
+            dbp-prop:genus ?genus .    
+     ?genus  rdfs:label ?labels .
+  }
+  UNION
+  {
+    ?cereal purl:subject dbp-cat:Cereals ;
+            dbp-prop:genus ?genus .
+    ?genus  rdfs:label ?labels .
+  }
+}
+GROUP BY ?genus ORDER BY ?labels

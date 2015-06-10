@@ -1,0 +1,15 @@
+# 38_Name continents on earth [7/7 answers]
+# TIME DEPENDENT QUERIES
+PREFIX purl: <http://purl.org/dc/terms/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?continent (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?continent purl:subject dbp-cat:Continents ;
+             a dbp-ont:Continent;
+             rdfs:label ?labels ;
+             rdfs:comment ?comment .
+}
+GROUP BY ?continent ORDER BY ?labels

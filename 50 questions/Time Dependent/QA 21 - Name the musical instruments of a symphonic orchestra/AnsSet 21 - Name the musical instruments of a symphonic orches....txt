@@ -1,0 +1,45 @@
+# 21_Name the musical instruments of a symphonic orchestra [43 answers]
+QueryID	Concept	Label	HRank
+21.1	http://dbpedia.org/resource/Banjo	banjo|banjo|banjo	5
+21.2	http://dbpedia.org/resource/Piano	piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano|piano	5
+21.3	http://dbpedia.org/resource/Violin	violin|violin|violin|violin|violin|violin|violin|violin|violin|violin|violin|violin|violin|violin|violin|violin	5
+21.4	http://dbpedia.org/resource/Organ_(music)	organ (music)|organ (music)|organ (music)	5
+21.5	http://dbpedia.org/resource/Bouzouki	bouzouki|bouzouki|bouzouki|bouzouki|bouzouki|bouzouki	5
+21.6	http://dbpedia.org/resource/Electronic_keyboard	electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard|electronic keyboard	1
+21.7	http://dbpedia.org/resource/Harmonium	harmonium|harmonium|harmonium	5
+21.8	http://dbpedia.org/resource/Guitar	guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar|guitar	5
+21.9	http://dbpedia.org/resource/Accordion	accordion|accordion|accordion	5
+21.10	http://dbpedia.org/resource/Bass_guitar	bass guitar|bass guitar|bass guitar|bass guitar|bass guitar|bass guitar|bass guitar|bass guitar|bass guitar|bass guitar|bass guitar|bass guitar|bass guitar|bass guitar|bass guitar|bass guitar|bass guitar	5
+21.11	http://dbpedia.org/resource/Cello	cello|cello|cello|cello|cello|cello	5
+21.12	http://dbpedia.org/resource/Drum_kit	drum kit|drum kit|drum kit|drum kit|drum kit|drum kit|drum kit|drum kit|drum kit|drum kit|drum kit|drum kit|drum kit|drum kit|drum kit	5
+21.13	http://dbpedia.org/resource/Harpsichord	harpsichord|harpsichord|harpsichord	5
+21.14	http://dbpedia.org/resource/Percussion_instrument	percussion instrument|percussion instrument|percussion instrument|percussion instrument|percussion instrument|percussion instrument|percussion instrument|percussion instrument	5
+21.15	http://dbpedia.org/resource/Viola	viola|viola|viola	5
+21.16	http://dbpedia.org/resource/Drum_machine	drum machine|drum machine|drum machine	1
+21.17	http://dbpedia.org/resource/Kazoo	kazoo|kazoo|kazoo	5
+21.18	http://dbpedia.org/resource/Software_synthesizer	software synthesizer|software synthesizer|software synthesizer	1
+21.19	http://dbpedia.org/resource/Sampler_(musical_instrument)	sampler (musical instrument)|sampler (musical instrument)|sampler (musical instrument)	5
+21.20	http://dbpedia.org/resource/Synthesizer	synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer|synthesizer	5
+21.21	http://dbpedia.org/resource/Mandolin	mandolin|mandolin|mandolin|mandolin|mandolin	5
+21.22	http://dbpedia.org/resource/Human_voice	human voice|human voice|human voice|human voice|human voice	1
+21.23	http://dbpedia.org/resource/Keyboard_instrument	keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument|keyboard instrument	5
+21.24	http://dbpedia.org/resource/Musical_keyboard	musical keyboard|musical keyboard|musical keyboard	5
+21.25	http://dbpedia.org/resource/Harp	harp|harp|harp|harp	5
+21.26	http://dbpedia.org/resource/Orchestra	orchestra|orchestra|orchestra|orchestra|orchestra|orchestra	5
+21.27	http://dbpedia.org/resource/Singing	singing|singing|singing|singing|singing|singing	1
+21.28	http://dbpedia.org/resource/Sound_chip	sound chip|sound chip|sound chip	1
+21.29	http://dbpedia.org/resource/Personal_computer	personal computer|personal computer|personal computer	1
+21.30	http://dbpedia.org/resource/Electronic_musical_instrument	electronic musical instrument|electronic musical instrument|electronic musical instrument	1
+21.31	http://dbpedia.org/resource/Recorder	recorder|recorder|recorder	1
+21.32	http://dbpedia.org/resource/Double_bass	double bass|double bass	5
+21.33	http://dbpedia.org/resource/Harmonica	harmonica|mouth harp|diatonic harmonica|harmonica|mouth harp|diatonic harmonica	5
+21.34	http://dbpedia.org/resource/Fender_Jazz_Bass	fender jazz bass|fender jazz bass	5
+21.35	http://dbpedia.org/resource/Computer	computer|computer|computer|computer	1
+21.36	http://dbpedia.org/resource/Electric_guitar	electric guitar|electric guitar	5
+21.37	http://dbpedia.org/resource/Classical_guitar	classical guitar|classical guitar|classical guitar	5
+21.38	http://dbpedia.org/resource/Programming_(music)	programming (music)|programming (music)|programming (music)	1
+21.39	http://dbpedia.org/resource/Flute	flute|flute	5
+21.40	http://dbpedia.org/resource/Flugelhorn	flugelhorn|flugelhorn	5
+21.41	http://dbpedia.org/resource/Trumpet	trumpet|trumpet	5
+21.42	http://dbpedia.org/resource/Melodica	melodica|melodica	5
+21.43	http://dbpedia.org/resource/Electronic_organ	electronic organ|electronic organ|electronic organ	5

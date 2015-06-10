@@ -1,0 +1,10 @@
+# 01_Name the planets of our solar system [8/8 answers]
+QueryID	Concept	Label	HRank
+01.1	http://dbpedia.org/resource/Earth	earth|third planet	5
+01.2	http://dbpedia.org/resource/Mercury_(planet)	mercury (planet)|first planet	5
+01.3	http://dbpedia.org/resource/Venus	venus	5
+01.4	http://dbpedia.org/resource/Jupiter	jupiter	5
+01.5	http://dbpedia.org/resource/Saturn	saturn	5
+01.6	http://dbpedia.org/resource/Uranus	uranus	5
+01.7	http://dbpedia.org/resource/Mars	mars	5
+01.8	http://dbpedia.org/resource/Neptune	neptune	5

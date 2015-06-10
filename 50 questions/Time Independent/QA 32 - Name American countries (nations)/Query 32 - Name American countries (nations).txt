@@ -1,0 +1,16 @@
+# 32_Name American countries (nations) [54/35 answers]
+# TIME INDEPENDENT
+PREFIX dbpedia: <http://dbpedia.org/resource/>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?countries (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE
+{
+  dbpedia:List_of_sovereign_states_and_dependent_territories_in_the_Americas dbp-ont:wikiPageWikiLink ?countries .
+  ?countries a dbp-ont:Country ;
+             skos:prefLabel ?labels ;
+             rdfs:comment ?comment.
+  FILTER(LANG(?labels) = "en")
+}
+GROUP BY ?countries ORDER BY ?labels

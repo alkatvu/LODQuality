@@ -1,0 +1,17 @@
+# 49_Name technology brands with a value exceeding $5 billion (in 2009) [0/? answers]
+# TIME INDEPENDENT & INCOMPLETE
+PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbpedia: <http://dbpedia.org/resource/>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT DISTINCT ?company (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label) 
+WHERE 
+{
+  ?company rdf:type dbp-ont:Company ;
+           dbp-ont:industry dbpedia:Electronics ;
+           dbp-ont:netIncome ?income ;
+           rdfs:label ?labels .        
+  FILTER ( lang(?labels) = "en" && xsd:double(str(?income)) > 5e9) .
+}
+GROUP BY ?company ORDER BY ?labels

@@ -1,0 +1,12 @@
+# 47_Name existing fashion brands worth over $1 billion (in 2009) [10/? answers]
+QueryID	Concept	Label	HRank
+47.1	http://dbpedia.org/resource/H&M	h&m	5
+47.2	http://dbpedia.org/resource/Levi_Strauss_&_Co.	levi strauss & co.	5
+47.3	http://dbpedia.org/resource/Prada	prada	5
+47.4	http://dbpedia.org/resource/Gucci	gucci|gucci group nv	5
+47.5	http://dbpedia.org/resource/Diesel_(brand)	diesel (brand)	5
+47.6	http://dbpedia.org/resource/Zara_(retailer)	zara (retailer)	5
+47.7	http://dbpedia.org/resource/Christian_Dior_S.A.	christian dior s.a.	3
+47.8	http://dbpedia.org/resource/Ermenegildo_Zegna	ermenegildo zegna	5
+47.9	http://dbpedia.org/resource/PacSun	pacsun	5
+47.10	http://dbpedia.org/resource/Guess_(clothing)	guess (clothing)	5

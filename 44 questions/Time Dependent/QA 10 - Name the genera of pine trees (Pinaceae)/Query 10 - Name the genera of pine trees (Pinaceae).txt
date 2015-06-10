@@ -1,0 +1,16 @@
+# 10_Name the genera of pine trees (Pinaceae) [OK] [15/11 answers]
+# TIME DEPENDENT QUERIES
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX dbp-res: <http://dbpedia.org/resource/>
+PREFIX dbpprop: <http://dbpedia.org/property/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+Select distinct ?genus (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label) 
+Where 
+{
+  ?tree dbp-ont:family dbp-res:Pinaceae ; 
+        dbp-ont:genus ?genus .
+  ?genus rdfs:label ?labels . 
+  FILTER(LANG(?labels) = "en") .
+}
+GROUP BY ?genus ORDER BY ?labels

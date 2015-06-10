@@ -1,0 +1,14 @@
+# 35_Name the Olympian gods of the Greek mythology [12/14 answers]
+QueryID	Concept	Label	HRank
+35.1	http://dbpedia.org/resource/Antheus	dionysus|antheus	5
+35.2	http://dbpedia.org/resource/Aphrodite	aphrodite	5
+35.3	http://dbpedia.org/resource/Apollo	apollo|phoebus apollo	5
+35.4	http://dbpedia.org/resource/Artemis	artemis	5
+35.5	http://dbpedia.org/resource/Athena	athena	5
+35.6	http://dbpedia.org/resource/Demeter	demeter	5
+35.7	http://dbpedia.org/resource/Hephaestus	hephaestus	5
+35.8	http://dbpedia.org/resource/Hera	hera	5
+35.9	http://dbpedia.org/resource/Hermes	hermes	5
+35.10	http://dbpedia.org/resource/Hestia	hestia	5
+35.11	http://dbpedia.org/resource/Poseidon	poseidon	5
+35.12	http://dbpedia.org/resource/Zeus	zeus	5

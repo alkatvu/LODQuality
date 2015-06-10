@@ -1,0 +1,16 @@
+# 29_Name the main characters of the first Star Wars movie (1977) [12/12 answers]
+# TIME INDEPENDENT
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-prop: <http://dbpedia.org/property/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?character (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+where
+{
+  ?character purl:subject dbp-cat:Star_Wars_characters ,
+             dbp-cat:Fictional_characters_introduced_in_1977 ;
+             rdfs:label ?labels ;
+             rdfs:comment ?comment .
+  FILTER(lang(?labels) = "en").
+}
+GROUP BY ?character ORDER BY ?labels

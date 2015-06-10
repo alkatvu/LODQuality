@@ -1,0 +1,22 @@
+# 45_Name Coffee brands with a value exceeding $600 million (in 2009) [2/? answers]
+# TIME INDEPENDENT & INCOMPLETE
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX dbpprop: <http://dbpedia.org/property/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX purl: <http://purl.org/dc/terms/>
+SELECT DISTINCT ?brand ( GROUP_CONCAT(?labels; SEPARATOR="|") as ?label) 
+Where 
+{
+ { ?brand dbp-ont:netIncome ?income . }
+ UNION 
+ {     
+  ?brand dbpprop:currentowner ?company .
+  ?company dbp-ont:netIncome ?income .  
+ }
+ ?brand purl:subject dbp-cat:Coffee_brands ;
+        rdfs:label ?labels . 
+  FILTER (lang(?labels) = "en" && xsd:double(str(?income )) > 6e8) .
+}
+GROUP BY ?brand ORDER BY ?labels

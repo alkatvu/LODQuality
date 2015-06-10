@@ -1,0 +1,28 @@
+# 02_Name James Bond movies (titles) [26/25 answers]
+QueryID	Concept	Label	HRank
+02.1	http://dbpedia.org/resource/Die_Another_Day	die another day	5
+02.2	http://dbpedia.org/resource/Diamonds_Are_Forever_(film)	diamonds are forever (film)	5
+02.3	http://dbpedia.org/resource/The_World_Is_Not_Enough	the world is not enough	5
+02.4	http://dbpedia.org/resource/GoldenEye	goldeneye	5
+02.5	http://dbpedia.org/resource/Tomorrow_Never_Dies	tomorrow never dies	5
+02.6	http://dbpedia.org/resource/Licence_to_Kill	licence to kill	5
+02.7	http://dbpedia.org/resource/Never_Say_Never_Again	never say never again	5
+02.8	http://dbpedia.org/resource/Octopussy	octopussy	5
+02.9	http://dbpedia.org/resource/The_Living_Daylights	the living daylights	5
+02.10	http://dbpedia.org/resource/A_View_to_a_Kill	a view to a kill	5
+02.11	http://dbpedia.org/resource/Casino_Royale_(2006_film)	casino royale (2006 film)	5
+02.12	http://dbpedia.org/resource/Casino_Royale_(1967_film)	casino royale (1967 film)	5
+02.13	http://dbpedia.org/resource/Quantum_of_Solace	quantum of solace	5
+02.14	http://dbpedia.org/resource/You_Only_Live_Twice_(film)	you only live twice (film)	5
+02.15	http://dbpedia.org/resource/Thunderball_(film)	thunderball (film)	5
+02.16	http://dbpedia.org/resource/The_Man_with_the_Golden_Gun_(film)	the man with the golden gun (film)	5
+02.17	http://dbpedia.org/resource/On_Her_Majesty's_Secret_Service_(film)	on her majesty's secret service (film)	5
+02.18	http://dbpedia.org/resource/Goldfinger_(film)	goldfinger (film)	5
+02.19	http://dbpedia.org/resource/The_Spy_Who_Loved_Me_(film)	the spy who loved me (film)	5
+02.20	http://dbpedia.org/resource/Live_and_Let_Die_(film)	live and let die (film)	5
+02.21	http://dbpedia.org/resource/For_Your_Eyes_Only_(film)	for your eyes only (film)	5
+02.22	http://dbpedia.org/resource/Dr._No_(film)	dr. no (film)	5
+02.23	http://dbpedia.org/resource/Moonraker_(film)	moonraker (film)	5
+02.24	http://dbpedia.org/resource/From_Russia_with_Love_(film)	from russia with love (film)	5
+02.25	http://dbpedia.org/resource/Casino_Royale_(Climax!)	casino royale (climax!)	3
+02.26	http://dbpedia.org/resource/Skyfall	skyfall	5

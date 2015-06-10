@@ -1,0 +1,15 @@
+# 20_Name the foreign ministers of Germany (Federal Republic since 1951) [8/11 answers]
+# TIME DEPENDENT QUERIES
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:> 
+SELECT distinct ?member (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+ ?member purl:subject dbp-cat:Foreign_Ministers_of_Germany ;
+         dbp-ont:activeYearsStartDate ?date ;
+         rdfs:label ?labels ;
+         rdfs:comment ?comment .
+ FILTER ( lang(?labels) = "en" &&  ?date >= "1951-01-01"^^xsd:date)
+}
+GROUP BY ?member ORDER BY ?labels

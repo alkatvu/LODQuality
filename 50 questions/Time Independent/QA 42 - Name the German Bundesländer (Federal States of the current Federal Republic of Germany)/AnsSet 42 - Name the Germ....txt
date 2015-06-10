@@ -1,0 +1,21 @@
+# 42_Name the German Bundesl�nder (Federal States of the current Federal Republic of Germany) [19/16 answers]
+QueryID	Concept	Label	HRank
+42.1	http://data.nytimes.com/N50987186835223032381	berlin|berlin (germany)	5
+42.2	http://data.nytimes.com/N69334734064833693941	bavaria|bavaria (germany)	5
+42.3	http://data.nytimes.com/N78784173230527526471	hamburg|hamberg|hamburg (germany)	5
+42.4	http://dbpedia.org/resource/Baden-W%C3%BCrttemberg	baden-württemberg	5
+42.5	http://dbpedia.org/resource/Brandenburg	brandenburg	5
+42.6	http://dbpedia.org/resource/Bremen_(state)	bremen (state)	5
+42.7	http://dbpedia.org/resource/Hesse	hesse	5
+42.8	http://dbpedia.org/resource/Lower_Saxony	lower saxony	5
+42.9	http://dbpedia.org/resource/Mecklenburg-Vorpommern	mecklenburg-vorpommern	5
+42.10	http://dbpedia.org/resource/North_Rhine-Westphalia	north rhine-westphalia	5
+42.11	http://dbpedia.org/resource/Rhineland-Palatinate	rhineland-palatinate	5
+42.12	http://dbpedia.org/resource/Saarland	saarland	5
+42.13	http://dbpedia.org/resource/Saxony	saxony	5
+42.14	http://dbpedia.org/resource/Saxony-Anhalt	saxony-anhalt	5
+42.15	http://dbpedia.org/resource/Schleswig-Holstein	schleswig-holstein	5
+42.16	http://dbpedia.org/resource/South_Baden	south baden	5
+42.17	http://dbpedia.org/resource/Thuringia	thuringia	5
+42.18	http://dbpedia.org/resource/W%C3%BCrttemberg-Baden	württemberg-baden	5
+42.19	http://dbpedia.org/resource/W%C3%BCrttemberg-Hohenzollern	württemberg-hohenzollern	3

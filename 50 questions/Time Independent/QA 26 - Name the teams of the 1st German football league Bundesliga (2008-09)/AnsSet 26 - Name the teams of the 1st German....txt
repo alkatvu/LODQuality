@@ -1,0 +1,8 @@
+# 26_Name the teams of the 1st German football league Bundesliga (2008-09) [6/18 answers] [6 good answers]
+QueryID	Concept	Label	HRank
+26.1	http://dbpedia.org/resource/FC_Bayern_Munich	fc bayern munich|fc bayern munich	5
+26.2	http://dbpedia.org/resource/1._FFC_Turbine_Potsdam	1. ffc turbine potsdam	5
+26.3	http://dbpedia.org/resource/FC_Schalke_04	fc schalke 04	5
+26.4	http://dbpedia.org/resource/Hertha_BSC	hertha bsc	5
+26.5	http://dbpedia.org/resource/VfL_Wolfsburg	vfl wolfsburg|vfl wolfsburg	5
+26.6	http://dbpedia.org/resource/VfB_Stuttgart	vfb stuttgart|vfb stuttgart	5

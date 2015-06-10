@@ -1,0 +1,14 @@
+# 41_Name capital cities of U.S.-American states (current) [50/50 answers]
+# TIME DEPENDENT QUERIES
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?state  (GROUP_CONCAT(?labels; separator="|") as ?label)
+WHERE
+{
+   ?state dcterms:subject dbp-cat:States_of_the_United_States ;
+          dbp-ont:capital ?capital .
+   ?capital rdfs:label ?labels.
+}
+GROUP BY ?state ORDER BY ?state

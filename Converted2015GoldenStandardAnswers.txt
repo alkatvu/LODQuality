@@ -1,0 +1,1816 @@
+#01_Name the planets of our solar system[09 answers]
+mercury:mercury (planet):first planet
+venus
+earth:third planet
+mars
+jupiter:iupiter
+saturn
+uranus:uran
+neptune:neptun
+*************************************************
+
+#02_Name James Bond movies (titles)[25 answers]
+dr. no :dr no:doktor no:drno:dr. no (film):dr. no (1962)
+from russia with love:from russia with love (film):moskau:russia:from russia with love (1963)
+goldfinger:gold finger:goldfinger (film):goldfinger (1964)
+thunderball:thunderball (film):thunderball(1965)
+casino royale (1967 film)
+you only live twice:you only live twice (film):you only live twice(1967)
+on her majesty-s secret service:on her majesty's secret service (film)her majestys secret service:on her majesty-s secret service (1969)
+diamonds are forever:diamonds are forever (film):diamonds are forever (1971)
+live and let die:live and let die (film):live and let die (1973)
+the man with the golden gun:the man with the golden gun (film):der mann mit dem goldenen colt:the man with the golden gun (1974)
+the spy who loved me:the spy who loved me (film):the spy who loved me (1977)
+moonraker:streng geheim:moonraker (film):moonraker (1979)
+for your eyes only:for your eyes only (film):your eyes only:for your eyes only (1981)
+octopussy:oktopussy:octopussie:octopusy (1983)
+never say never again:never say never:niemals nie:never say never again (1983)
+a view to a kill:a view to a kill (1986)
+the living daylights:the living daylights (1987)
+licence to kill:license to kill:licence to kill (1989)
+goldeneye:golden eye:goldauge:goldeneye (1995)
+tomorrow never dies:morgen stirbt nie:tomorrow never dyes:tomorrow never dies (1997)
+the world is not enough:world is not enough:the world is not enough (1999)
+die another day:stirb einen anderen tag:dye another day:die another day (2002)
+casino royale:casino royal:casinoroyal:casino:royale:casino royale (2006 film)
+quantum of solace:quantum:solace:trost:quantum of solace (2008)
+skyfall:skyfall (2012)
+*************************************************
+
+#03_Name Apple's operating systems (no version)[11 answers]
+system 1
+system 2
+system 3
+system 4
+system software 5:system 5
+system software 6:system 6
+system 7
+mac os 8
+mac os 9
+os x
+apple pascal
+*************************************************
+
+#04_Name the feature films by David Lynch[11 answers]
+eraserhead
+the elephant man (film):the elephant man:elefantenmensch:elephant man:elephant:elefant
+dune:dune (film):der wuestenplanet
+blue velvet:blue velvet (film):bluevelvet:blauer samt
+wild at heart (film):wild at heart:die geschichte von sailor und lula (wild at heart):sailor and lula
+twin peaks:twin peaks (fire walk with me):fire walk with me:twinpeeks:twin peaks: fire walk with me:twin peaks: fire walk with me
+lost highway:lost highway (film):lost:highway
+the straight story:straight story
+mulholland drive (film):mulholland drive:mulholland drive - stra-e der finsternis:strasse der finsternis:mulholland:mullholland drive:mullholland
+inland empire (film):inland empire:inland:empire
+industrial symphony no. 1
+*************************************************
+
+#05_Name Nobel laureates in literature (since 1945)[72 answers]
+gabriela mistral:gabriela mistral (1945)
+hermann hesse:hermann hesse (1946)
+handré paul guillaume gide:andré gide:gide:gidee:gyde:handré paul guillaume gide:handre paul guillaume gide (1947)
+thomas stearns eliot:eliot, thomas stearns:stearns eliot:stearns:eliot:stearns elliot:elliot:elliott:eliott:stearns elliott:sterns:sterns eliot:steerns:steerns eliot:t. s. eliot:thomas stearns eliot (1948)
+william faulkner:faulkner, william:faulkner:falkner:folkner (1949)
+earl (bertrand arthur william) russell:earl russell:bertrand arthur william:bertrand russell:russell:russel:rusell:rusel:rassell (1950)
+pär fabian lagerkvist:pär lagerkvist:par fabian lagerkvist:par lagerkvist:lagerkvist:par:pär:lagerkwist:lagerkvis:lagerkwis:lagercvist (1951)
+françois mauriac:mauriac:françois:francois:francois mauriac:françois maurac:francois maurac:francois mauriak (1952)
+sir winston leonard spencer churchill:churchill, winston leonard spencer:winston churchill:churchill:winston:churchil:winston churchil:winson churchill:winson churchil:churtschil (1953)
+ernest miller hemingway:hemingway, ernest:ernest hemingway:hemingway:hamingway:heminway (1954)
+halldór kiljan laxness:halldór kiljan laxness:kiljan laxness:laxness:kiljan:kilian laxness:kilian:killian:killian laxness:lachsness:laxnes (1955)
+juan ramón jiménez:juan ramon jimenez:ramon jimónez:ramon:jimónez:ramon jimenez:jimenez:ramon jim-nes:ramon jimenes:jimenes (1956)
+albert camus:camus, albert:camus:camu:kamus (1957)
+boris pasternak:pasternak:pasternack:pasernak:boris leonidovich pasternak:boris leonidovich pasternak (1958)
+salvatore quasimodo:quasimodo:cuasimodo:quasimmodo:salvatore quasimodo (1959)
+saint-john perse:perse:pers:saint-john perse (1960)
+ivo andric:andric:andrick:andic:andrik:ivo andric:ivo andric (1961)
+john steinbeck:steinbeck, john:steinbeck:steinbek:stainbeck:john steinbeck (1962)
+giorgos seferis:seferis:sefferis:seferiss:seferris:sefris:giorgos seferis (1963)
+jean-paul sartre:jean paul sartre:sartre:jean-paul:satre:jean-paul sartre (1964)
+mikhail sholokhov:michail scholochow:scholochow:scholoschow:sholochow:schollochow:scholochov:scholoschov:scholloschow:michail aleksandrovich sholokhov:michail aleksandrovich sholokhov(1965)
+samuel j. agnon:agnon:anon:agnone:shmuel yosef agnon (1966)
+nelly sachs:sachs:sax:saks:sacks (1966)
+miguel ángel asturias:miguel a. asturias:asturias:asturiaz:asturas:miguel angel asturias:miguel angel asturias (1967)
+yasunari kawabata:kawabata:kavabata:kawabatta:cawabata:yasunari kawabata (1968)
+samuel beckett:beckett, samuel:beckett:becket:bekett:beket:samuel beckett(1969)
+alexander solschenizyn:solzhenitsyn, aleksandr i:solschenizyn:solschenizin:solschenitzyn:soschenizyn:aleksandr solzhenitsyn: aleksandr isayevich solzhenitsyn (1970)
+pablo neruda:neruda:neroda:nerudaa:pablo neruda (1971)
+heinrich böll:böll:boell:böl:boel:Heinrich Böll (1972)
+patrick white:white:wite:whyte:wyte:patrick white (1973)
+eyvind johnson:johnson:jonson:johnsonn:eyvind johnson (1974)
+harry martinson:martinson:matinson (1974)
+eugenio montale:montale:montal:eugenio montale (1975)
+saul bellow:bellow, saul:bellow:below:saul bellow (1976)
+vicente aleixandre:aleixandre:alexandre:alexander:vicente aleixandre (1977)
+isaac bashevis singer:singer, isaac bashevis:bashevis singer:singer:bashevis:basevis singer:basevis:isaac bashevis singer (1978)
+odysseus elytis:odysseus:elytis:elitis:odysseas elytis:odysseus elytis (1979)
+czeslaw milosz:milosz:milos:miloz:Czesław Miłosz:Czeslaw Milosz:Czesław:Miłosz:Czesław:Milosz:milosch:czeslaw milosz (1980)
+elias canetti:canetti:caneti:cannetti:canneti:kanetti:elias canetti (1981)
+gabriel garcía márquez:garcía márquez:márquez:garcia marquez:marquez:garcia marques:márques:marques:gabriel garcía márquez:gabriel garcia marquez:gabriel garcía márquez (1982)
+william golding:golding:william golding (1983)
+jaroslav seifert:seifert:saifert:jaroslav seifert(1984)
+claude simon:simon:claude simon (1985)
+soyinka, wole:wole soyinka:soyinka:soynka:soinka:wole soyinka (1986)
+joseph brodsky:brodsky, joseph:brodsky:brodski:brozky:brozki:prodsky:joseph brodsky (1987)
+naguib mahfouz:nagib mahfus:mahfus:mafus:mahfuss:naguib mahfouz (1988)
+camilo José cela:cela:zela:cella:zella:José cela:jose cela:José zela:José zella:jose zela:jose zella:José cella:jose cella:Camilo José Cela (1989)
+octavio paz:paz:pas:octavio paz (1990)
+nadine gordimer:gordimer:gordymer:gordimer, nadine:nadine gordimer (1991)
+derek walcott:walcott, derek:walcott:walkott:walcot:walkot:derek walcott (1992)
+toni morrison:morrison:morison:morrisson:morisson:morrison, toni:toni morrison (1993)
+kenzaburo oe:Kenzaburō:kenzaburo oe:oe:Ōe:kenzaburo oe:Kenzaburo Oe:Kenzaburō Ōe (1994)
+seamus heaney:heaney:heeney:haney:heany:heeny:hany:heaney, seamus:seamus heaney (1995)
+wislawa szymborska:szymborska:szimborska:symborska:zymborska:szymborscawislawa szymborska:wislawa szymborska (1996)
+dario fo:fo:fo, dario:foo:dario fo (1997)
+josé saramago:saramago:zaramago:sarammago:sarramago:zarramago:zarammago:sarrammago:josé saramago (1998)
+günter grass:grass:gras:crass:cras:krass:kras:günter grass(1999)
+gao xingjian:xingjian:xingjan:xingjang:xinjian:xingian:gao xingjian (2000)
+sir vidiadhar surajprasad naipaul:v. s. naipaul:naipaul, v s:v.s. naipaul:naipaul:naypaul:nypaul:naipol:naipal:neipaul:sir vidiadhar surajprasad naipaul (2001)
+imre kertesz:imre kertész:kertész:kertesz:kertésch:kertesch:kertez:kertész:imre kertész (2002)
+j.m. coetzee:j. m. coetzee:coetzee, j m:coetzee:coetze:coezee:coeze:c-tzee:koetzee:cotzee:coetzea:cozee:cotzee:cotze:jm coetzee:john m. coetzee (2003)
+elfriede jelinek:jelinek:jellinek:jelineck:jellineck:yelinek:elfriede jelinek (2004)
+harold pinter:pinter, harold:pinter:pinta:pinnter:harold pinter (2005)
+orhan pamuk:pamuk, orhan:pamuk:bamuk:pamuck:pammuk:pamuc:orhan pamuk (2006)
+doris lessing:lessing, doris:lessing:lesing:l-ssing:lessin:doris lessing (2007)
+jean-marie gustave le clézio:le clézio:le clezio:leclézio:leclezio:jean-marie gustave:le clésio:le clesio:leclésio:leclesio:le clézo:le clezo:leclézo:leclezo:jean marie gustave le clézio:jean marie gustave le clézio:jean-marie gustave le clezio:jean-marie gustave le clézio:j. m. g. le clézio:jean-marie gustave le clézio (2008)
+herta muller:müller:herta müller (2009)
+mario vargas llosa:mario vargas llosa (2010)
+tomas transtromer:tomas tranströmer:tomas tranströmer (2011)
+mo yan (2012)
+alice munro(2013)
+patrick modiano 2014)
+*************************************************
+
+#06_Name the laureates of the Nobel Peace Prize (since 1975)[55 answers]
+andrei dmitrievich sakharov:andrei dmitrijewitsch sacharow:sacharow:sacharov:andrei:dmitrijewitsch:andrei sakharov:andrei dmitrievich sakharov (1975)
+betty williams:williams:betty williams:betty williams (nobel laureate):betty williams (1976)
+mairead corrigan maguire:mairead maguire:mairead corrigan:mairead:corrigan:mairead corrigan (1976)
+amnesty international:amnesty international:amnesty:ai (1977)
+mohamed anwar al-sadat:anwar as-sadat:anwar:as-sadat:anwar sadat:mohamed anwar al-sadat (1978)
+menachem begin:menachem begin:menachem:begin:menachem begin (1978)
+mother teresa:mutter teresa:teresa:mother teresa:teresa (mother):mother teresa (1979)
+adolfo pérez esquivel:adolfo maria p-rez esquivel:adolfo:maria:perez:pérez:esquivel:perezéesquivel:adolfo pérez esquivel:adolfo perez esquivel (1980)
+united nations high commission for refugees:united nations high commissioner for refugees:un high commissioner:office of the united nations high commissioner for refugees (1981)
+alva myrdal:alva:myrdal:alva myrdal (1982)
+alfonso garcía robles:alfonso:garcía:robles:alfonso garcia robles:alfonso garcía robles (1982)
+lech walesa:lech:walesa:lech walesa:walesa:lech walesa:lech wałęsa:lech walesa:lech wałęsa (1983)
+desmond tutu:tutu, desmond m:desmond:tutu:bischof desmond tutu:bischof tutu:bishop tutu:desmond tutu (1984)
+international physicians for the prevention of nuclear war:ippnw:international physicians for the prevention of nuclear war(1985)
+elie wiesel:elie:wiesel, elie:wiesel:elie wiesel (1986)
+óscar arias s-nchez:óscar:arias:s-nchez:óscar arias (1987)
+die friedenstruppen der vereinten nationen:friedenstruppen der vereinten nationen:un peace troops:united nations peace-keeping forces (1988)
+dalai lama:tenzin gyatso:14. dalai lama:dalailama:14th dalai lama:tenzin gyatso,14th dalai lama (1989)
+mikhail gorbachev:michail sergejewitsch gorbatschow:michail gorbatschow:gorbatschow:gorbatschov:michael gorbatschow:gorbachev, mikhail s:mikhail sergeyevich gorbachev (1990)
+aung san suu kyi:aung san suu kyi, daw:aung:san:suu:kyi:aung san suu kyi (1991)
+rigoberta menchu:rigoberta mench- tum:rigoberta:mench-:tum:rigoberta menchú (1992)
+nelson mandela:nelson:mandela:mandela, nelson:nelson mandela (1993)
+frederik willem de klerk:de klerk:deklerk:f. w. de klerk:frederik willem de klerk (1993)
+jassir arafat:jassir:arafat:arrafat:araffat:yasser arafat:arafat, yasir:yasser arafat (1994)
+jitzhak rabin:jitzhak:rabin:yitzhak rabin:rabin, yitzhak:yitzhak rabin(1994)
+schimon peres:schimon:peres:shimon peres:peres, shimon:shimon peres (1994)
+jozef rotblat:rotblat:jozef:josef rotblat:rotblatt:joseph rotblat:joseph rotblat (1995)
+pugwash conferences on science and World affairs:die pugwash conferences on science and world affairs:pugwash conferences on science and world affairs:pugwash:pugwash conferences:pugwash conferences on science and World affairs (1995)
+carlos filipe ximenes belo:ximenes:belo:carlos ximenes belo:ximines:ximines belo:carlos filipe ximenes belo (1996)
+josé ramos-horta:josé:ramos-horta:jose ramos:jose horta:ramoshorta:josé ramos-horta (1996)
+internationale kampagne f-r das verbot von landminen:international campaign to ban landmines:international campaign to ban landmines (1997)
+jody williams (1997)
+john hume:hume:hume, john:john hume (1998)
+david trimble:trimble:david trimble (1998)
+doctors without borders:medecins sans frontieres:médecins sans frontières aka doctors without borders (1999)
+kim dae jung:kim dae-jung:dae-jung:daejung:daeyoung:kim dae-jung (2000)
+united nations organization:uno:vereinte nationen:united nations (2001)
+kofi annan:kofi:annan:annan, kofi:kofi annan (2001)
+jimmy carter:jimmy:carter:carter, jimmy:jimmy carter (2002)
+schirin ebadi:schirin:ebadi:shirin ebadi:ebadi, shirin:shirin ebadi (2003)
+wangari muta maathai:wangari:muta:maathai:wangari maathai:wangari muta maathai (2004)
+international atomic energy agency (2005)
+mohammed el-baradei:el-baradei:mohamed elbaradei:elbaradei, mohamed:mohamed elBaradei (2005)
+muhammad yunus:yunus:die internationale atomenergieorganisation:internationale atomenergieorganisation:iaeo:muhammad yunus (2006)
+grameen bank:grameen ban:grameen bank (2006)
+intergovernmental panel on climate change:intergovernmental panel on climate change:ipcc:weltklimarat:intergovernmental panel on climate change (2007)
+al gore:gore:algore:gore, al:al gore (2007)
+martti ahtisaari:martti:ahtisaari:ahtisaari, martti:martti ahtisaari (2008)
+barack obama:obama, barack:barack obama (2009)
+liu xiaobo (2010)
+ellen johnson sirleaf (2011)
+leymah gbowee (2011)
+tawakel karman:tawakkul karman:tawakkul karman (2011)
+european union:eu:european union (eu)(2012)
+organisation for the prohibition of chemical weapons (2013)
+*************************************************
+
+#07_Name countries with a population exceeding 80 million (as of 2009)[16 answers]
+china:cina:people's republic of china
+india:indien
+usa:united states of america:us:united states:u.s.a.:u.s.:vereinigte staaten:vereinigte staaten von amerika
+indonesia:indonesien
+brazil:brasilien:brasil:br-sil
+pakistan:packistan
+nigeria
+bangladesh:bangladesch
+russia:russland:udssr:sowjetunion:soviet union
+japan
+mexico:mexiko:m-xico
+philippines:philippinen:phillipinen:phillipinen:filipinen:filippinen:fillipinen:fillippinen:filippines
+vietnam
+ethiopia:-thiopien:ethiopien:-tiopien:aethiopien:-thyopien
+egypt:-gypten:-gipten:egypten
+germany:deutschland:schland
+*************************************************
+
+#08_Name Italian pasta varieties[200 answers]
+long round pasta:bigołi
+long round pasta:capellini
+long round pasta:fidelini:fidei
+long round pasta:fusilli lunghi
+long round pasta:pici:bigoli
+long round pasta:spaghetti
+long round pasta:spaghettoni
+long round pasta:spaghettini:spilloncini
+long round pasta:troccoli
+long round pasta:vermicelloni
+long round pasta:vermicelli
+long square pasta:spaghetti alla chitarra:tonnarelli:chitarrine:scialatielli
+long square pasta:ciriole:manfricoli
+long rectangular pasta:bavette
+long rectangular pasta:bavettine
+long rectangular pasta:linguine
+long rectangular pasta:linguettine
+long rectangular pasta:mafalde
+long rectangular pasta:mafaldine
+long rectangular pasta:reginette
+long rectangular pasta:trenette
+long rectangular pasta:tripoline
+ribbon-cut pasta:barbine
+ribbon-cut pasta:capelli d'angelo:capelvenere
+ribbon-cut pasta:fettucce:fettuce
+ribbon-cut pasta:fettuccine:fettucelle
+ribbon-cut pasta:fregnacce
+ribbon-cut pasta:lagane
+ribbon-cut pasta:lasagne:lasagna
+ribbon-cut pasta:lasagnette
+ribbon-cut pasta:lasagnotte
+ribbon-cut pasta:manghiri
+ribbon-cut pasta:paglia e fieno
+ribbon-cut pasta:pappardelle
+ribbon-cut pasta:pillus
+ribbon-cut pasta:pizzoccheri
+ribbon-cut pasta:scialatelli:scialatielli
+ribbon-cut pasta:stringozzi:strangozzi:strongozzi
+ribbon-cut pasta:tagliatelle:paglia
+ribbon-cut pasta:tagliolini
+ribbon-cut pasta:taglierini
+short-cut extruded pasta:bucatini
+short-cut extruded pasta:calamarata
+short-cut extruded pasta:calamaretti
+short-cut extruded pasta:cannelloni
+short-cut extruded pasta:cavatappi:cellentani:amori:spirali:tortiglioni:fusilli rigati:scoobi do
+short-cut extruded pasta:cellentani
+short-cut extruded pasta:chifferi
+short-cut extruded pasta:chilofta
+short-cut extruded pasta:fideuà
+short-cut extruded pasta:elicoidali:eliche
+short-cut extruded pasta:fagioloni
+short-cut extruded pasta:garganelli
+short-cut extruded pasta:maccheroni:maniche da frate:macaroni
+short-cut extruded pasta:maccheroncini
+short-cut extruded pasta:maccheroncelli
+short-cut extruded pasta:manicotti
+short-cut extruded pasta:mezze penne
+short-cut extruded pasta:mezzi bombardoni
+short-cut extruded pasta:paccheri
+short-cut extruded pasta:pasta al ceppo
+short-cut extruded pasta:penne
+short-cut extruded pasta:penne zita
+short-cut extruded pasta:pennette
+short-cut extruded pasta:pennoni
+short-cut extruded pasta:perciatelli
+short-cut extruded pasta:rigatoncini
+short-cut extruded pasta:rigatoni
+short-cut extruded pasta:sagne 'ncannulate
+short-cut extruded pasta:sedani:sedanini:chiocciolini
+short-cut extruded pasta:trenne
+short-cut extruded pasta:trennette
+short-cut extruded pasta:torchietti
+short-cut extruded pasta:tortiglioni
+short-cut extruded pasta:tuffoli
+short-cut extruded pasta:ziti
+short-cut extruded pasta:mezzi ziti o mezzani
+short-cut extruded pasta:zitoni
+decorative cuts:campanelle
+decorative cuts:casarecce
+decorative cuts:castellane
+decorative cuts:cataneselle
+decorative cuts:cavatelli
+decorative cuts:cechetti
+decorative cuts:cencioni
+decorative cuts:conchiglie
+decorative cuts:conchiglioni
+decorative cuts:creste di gallo
+decorative cuts:farfalle:nastrini a galano:colzetti
+decorative cuts:farfalline
+decorative cuts:farfallone
+decorative cuts:fiorentine
+decorative cuts:fiori:fiori (pasta)
+decorative cuts:fisarmoniche
+decorative cuts:fricelli
+decorative cuts:fusilli
+decorative cuts:fusilli bucati
+decorative cuts:gemelli
+decorative cuts:gigli
+decorative cuts:girandole
+decorative cuts:gnocchi:gnocchetti sardi:gnocchetti romani:malloreddus
+decorative cuts:gramigna
+decorative cuts:lanterne
+decorative cuts:lumache
+decorative cuts:lumaconi
+decorative cuts:maltagliati:malfatti
+decorative cuts:maniche:mezze maniche
+decorative cuts:orecchiette
+decorative cuts:passatelli
+decorative cuts:pipe
+decorative cuts:quadrefiore
+decorative cuts:radiatori:radiatore
+decorative cuts:riccioli
+decorative cuts:ricciolini
+decorative cuts:ricciutelle
+decorative cuts:rotelle:ruote
+decorative cuts:rotini
+decorative cuts:sagnarelli
+decorative cuts:spighe
+decorative cuts:spirali
+decorative cuts:spiralini
+decorative cuts:strozzapreti
+decorative cuts:trofie
+minute pasta:acini di pepe
+minute pasta:alfabeto
+minute pasta:anelli
+minute pasta:anellini
+minute pasta:conchigliette
+minute pasta:corallini
+minute pasta:ditalini:ditali:ditaloni:fischietti
+minute pasta:farfalline
+minute pasta:filini
+minute pasta:fregula
+minute pasta:funghini
+minute pasta:gramigna
+minute pasta:grattini:grattoni
+minute pasta:gobbetti
+minute pasta:lancette:cestine
+minute pasta:midolline
+minute pasta:occhi di pernice
+minute pasta:orzo
+minute pasta:pastina
+minute pasta:perline
+minute pasta:puntine
+minute pasta:quadretti
+minute pasta:quadrettini
+minute pasta:risi:risoni:frumentone
+minute pasta:seme di melone
+minute pasta:sorprese:gigine
+minute pasta:stelle
+minute pasta:stelline
+minute pasta:stortini
+minute pasta:trachana
+minute pasta:treccine
+minute pasta:tempestini:grandine:tempestina:tempesta
+stuffed pasta:agnolotti
+stuffed pasta:anolini
+stuffed pasta:cannelloni
+stuffed pasta:cappelletti
+stuffed pasta:casoncelli:casonsèi:casunziei
+stuffed pasta:jiaozi
+stuffed pasta:kreplach
+stuffed pasta:lunette
+stuffed pasta:marubini
+stuffed pasta:maultaschen
+stuffed pasta:mezzelune
+stuffed pasta:pelmeni
+stuffed pasta:pierogi
+stuffed pasta:ravioli:culurgiones di sardegna
+stuffed pasta:sacchettini:sacchettoni
+stuffed pasta:tortelli:tortellini:tortelloni:tortellacci
+stuffed pasta:varenichi
+stuffed pasta:wonton
+irregular shapes:canederli:knödel
+irregular shapes:cuscus:maftul:bulgur:tabuleh
+irregular shapes:gnocchi
+irregular shapes:spätzle
+others:abachini
+others:canalini
+others:cavalline
+others:chilopites
+others:cocci di sicilia
+others:corzetti:croxetti
+others:cotelli
+others:dumplings
+others:fagottini
+others:foglie d’ulivo:foglie di ulivo
+others:limoncini
+others:noodles
+others:occhi di lupo
+others:pireneri
+others:schlutzkrapfen
+others:sospetti
+others:spaccatelle
+others:strangolapreti
+others:strangulapriévete
+others:stringoli
+others:testaroli
+others:tripolini
+others:tirtlen
+*************************************************
+
+#09_Name species of cats (felidae)[162 answers]
+liger
+ocelot:leopardus pardalis
+serval:leptailurus serval
+tiglon
+marozi
+margay
+leopon
+kotiya
+kodkod
+karakal
+oncilla::leopardus tigrinus
+caracal:caracal caracal
+litigon
+nigripes
+colocolo
+pardofelis
+xenosmilus
+nimravides
+dinobastis
+cape serval
+miomachairodus
+machairodontini
+acinonyx kurteni
+pratifelis martini
+dinofelis paleoonca
+gulf coast jaguarundi
+cave lion
+cape lion
+masai lion
+barbary lion
+tuscany lion
+asiatic lion
+american lion
+transvaal lion
+african lion:north east congo lion
+african lion:southwest african lion
+african lion:west african lion:panthera leo
+american african lion
+european lion
+mountain lion:puma concolor 
+north-eastern pleistocene china cave lion
+panthera leo vereshchagini:panthera leo spelaea:european  cave lion:eurasian cave lion:panthera leo fossilis
+sri lanka lion
+tiger:panthera tigris 
+tiger:bali tiger
+tiger:javan tiger
+tiger:trinil tiger
+tiger:bengal tiger
+tiger:maltese tiger
+tiger:malayan tiger
+tiger:caspian tiger
+tiger:siberian tiger
+tiger:sumatran tiger
+tiger:sardinian lynx
+tiger:indochinese tiger
+tiger:south china tiger
+tiger:black tiger (animal)
+leopard:panthera pardus 
+leopard:leopard cat:prionailurus bengalensis
+leopard:snow leopard:panthera uncia
+leopard:amur leopard
+leopard:sinai leopard
+leopard:javan leopard
+leopard:indian leopard
+leopard:barbary leopard
+leopard:arabian leopard
+leopard:african leopard
+leopard:persian leopard
+leopard:zanzibar leopard
+leopard:anatolian leopard
+leopard:sri lankan leopard
+leopard:visayan leopard cat
+leopard:leopardus jacobitus
+leopard:north china leopard
+leopard:indochinese leopard
+leopard:clouded leopard: neofelis nebulosa:sunda clouded leopard:Neofelis diardi
+leopard:clouded leopard: neofelis nebulosa:formosan clouded leopard
+wildcat:wild cat:Felis silvestris
+wildcat:asiatic wildcat
+wildcat:asian golden cat:asiatic golden cat:pardofelis temminckii 
+wildcat:african wildcat:african wild cat
+wildcat:african golden cat
+wildcat:saber-toothed:felis silvestris reyi
+wildcat:european wildcat:cretan wildcat
+bay cat:pardofelis badia 
+borneo bay cat:pardofelis badia 
+sand cat:felis margarita
+jungle cat:felis chaus 
+pampas cat::leopardus colocolo
+fishing cat:Prionailurus viverrinus
+marbled cat:pardofelis marmorata 
+pantanal cat
+iriomote cat
+flat-headed cat:flat headed cat:prionailurus planiceps
+black-footed cat:felis nigripes
+rusty-spotted cat:rusty spotted cat:prionailurus rubiginosus
+chinese mountain cat
+bobcat:Lynx rufus:mexican bobcat
+pallas's cat:pallas cat:Otocolobus manul
+geoffroys cat:geoffroy's cat::leopardus geoffroyi
+andean cat : leopardus jacobita
+andean mountan cat:andean mountain cat
+pantherinae
+panthera
+black panther
+panthera youngi
+panthera crassidens
+panthera leo spelaea
+panthera onca augusta
+blue mountains panther
+panthera onca mesembrina
+panthera palaeosinensis
+puma
+puma:puma (genus)
+puma:puma concolor couguar
+asiatic cheetah
+american cheetah
+northwest african cheetah
+giant cheetah
+balkan lynx
+iberian lynx:Lynx pardinus 
+eurasian lynx:lynx lynx 
+lynx issiodorensis
+canada lynx:canadian lynx:lynx canadensis
+cougar:costa rican cougar
+cougar:eastern cougar
+cougar:northern south american cougar
+cougar:florida panther:puma concolor
+jaguar:jaguarundi:panthera onca:Puma yagouaroundi
+jaguar:european jaguar
+felis silvestris caucasica
+felis margarita thinobia
+felis margarita scheffeli
+felis margarita meinertzhageni
+felis margarita margarita
+felis margarita harrisoni
+felis margarita airensis
+felis lunensis
+felis chaus prateri
+felis chaus oxiana
+felis chaus nilotica
+felis chaus maimanah
+felis chaus kelaarti
+felis chaus furax
+felis chaus fulvidina
+felis chaus chaus
+felis chaus affinis
+felis chaus kutas
+felis attica
+saber-toothed:corsican wildcat
+saber-toothed:megantereon
+saber-toothed:metailurini
+saber-toothed:pontosmilus
+saber-toothed:pseudaelurus
+saber-toothed:smilodontini
+saber-toothed:homotherium
+saber-toothed:machairodontinae
+guigna:leopardus guigna
+margay:leopardus wiedii
+paramachairodus
+metailurus
+proailurus
+*************************************************
+
+#10_Name the genera of pine trees (Pinaceae)[11 answers]
+abies:tanne:tannen:thanen
+cathaya:taubenbaum:taubennbaum:tauben baum
+cedrus:cedar:zeder:zedern:zederrn
+keteleeria:keteleria:kateleria
+larix:larch:l-rche:l-rchen:lerchen
+nothotsuga:notosuga:nothotsuga longibracteata:longibracteata
+picea
+pinus:pine:pineoideae:pinus classification
+pseudolarix:goldl-rche:goldlaerche:goldlerchen
+pseudotsuga:douglasie:douglasien:duglasien
+tsuga:hemlocktanne:hemlocktannen:hemloktannen:hemlocktanen
+*************************************************
+
+#11_Name the genera of grains or cereals[20 answers]
+artocarpus
+avena
+chenopodium
+coix
+echinochloa
+eleusine
+eragrostis
+fagopyrum
+hordeum
+oryza
+panicum
+pennisetum
+secale
+setaria
+sorghum
+thinopyrum
+triticale:× triticosecale
+triticum:triticeae
+zea
+zizania
+*************************************************
+
+#12_Name the genera of European broadleaf trees[42 answers]
+acer
+aesculus
+alnus:alder
+arbutus
+argania spinosa
+betula
+carpinus
+carya
+castanea: castana
+celtis
+citrus
+cornus
+corylus
+crataegus
+fagus
+ficus
+fraxinus
+ilex
+juglans
+laburnum
+lamiales
+larix
+laurus
+ligustrum
+malus
+morus
+myrica
+myrtus
+nothofagus
+olea
+pistacia
+platanus
+populus
+prunus
+pyrus
+quercus
+salix
+sorbus
+tilia
+ulmus:ulme:ulmen
+vachellia
+zelkova
+*************************************************
+
+#13_Name countries with McDonald's restaurants[127 answers]
+american samoa
+andorra
+argentina
+aruba
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+belarus
+belgium
+bosnia and herzegovina
+brazil
+brunei
+bulgaria
+canada
+chile
+china
+colombia
+costa rica
+croatia
+cuba
+curacao
+cyprus
+czech republic
+czechoslovakia
+denmark
+dominican republic
+ecuador
+egypt
+el salvador
+england
+estonia
+fiji islands
+finland
+france
+french guiana
+french polynesia
+georgia
+germany
+gibraltar
+greece
+guadeloupe
+guam
+guatemala
+honduras
+hong kong
+hong kong
+hungary
+india
+indonesia
+iraq
+ireland
+isle of man
+israel
+italy
+japan
+jersey
+jordan
+kuwait
+latvia
+lebanon
+liechtenstein
+lithuania
+luxembourg
+macau
+macau, china
+malaysia
+malta
+martinique
+mauritius
+mayotte
+mexico
+moldova
+monaco
+morocco
+netherlands
+new caledonia
+new zealand
+nicaragua
+northern ireland
+northern marianas
+norway
+oman
+pakistan
+panama
+paraguay
+peru
+philippines
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russia
+samoa
+san marino
+saudi arabia
+scotland
+serbia
+singapore
+sint maarten
+slovakia
+slovenia
+south africa
+south korea
+soviet union
+spain
+sri lanka
+suriname
+sweden
+switzerland
+taiwan
+thailand
+trinidad and tobago
+turkey
+u.s. virgin islands
+ukraine
+united arab emirates
+united kingdom:great britain
+united states
+uruguay
+venezuela
+vietnam
+wales
+yugoslavia
+*************************************************
+
+#14_Name the Microsoft Office's Suites[25 answers]
+Microsoft Office 3.0:Microsoft Office 3.0 (1992)
+Microsoft Office 4:Microsoft Office 4 (1993)
+microsoft office 4.2.1
+Microsoft Office 95:Microsoft Office 95 (1995)
+Microsoft Office 97:Microsoft Office 97 (1997)
+Microsoft Office 2000:Microsoft Office 2000 (2000)
+Microsoft Office XP:Microsoft Office XP (2002)
+Microsoft Office 2003:Microsoft Office 2000 (2003)
+Microsoft Office 2007:Microsoft Office 007
+Microsoft Office 2010:Microsoft Office 2000 (2010)
+Microsoft Office 2013:Microsoft Office 2013 (2012)
+microsoft office 2013 RT
+Microsoft Office 2016
+microsoft office 1.4
+Microsoft Office 1.5 for Mac:Microsoft Office 1.5 for Mac (1991)
+Microsoft Office 3.0 for Mac:Microsoft Office 3.0 for Mac (1992)
+Microsoft Office 4.2 for Mac:Microsoft Office 4.2 for Mac (1994)
+Microsoft Office 98 Macintosh Edition:Microsoft Office 98 Macintosh Edition (1998)
+Microsoft Office 2001:Microsoft Office 2001 (2000)
+Microsoft Office v. X:Microsoft Office v. X (2001)
+Microsoft Office 2004 for Mac:Microsoft Office 2004 for Mac (2004)
+Microsoft Office 2008 for Mac:Microsoft Office 2008 for Mac (2008)
+Microsoft Office for Mac 2011:Microsoft Office for Mac 2011 (2010)
+Microsoft Office 2016 for Mac
+Mobile	microsoft office mobile
+*************************************************
+
+#15_Name the U.S.-American presidents (since 1945).S.-American presidents (since 1945) [13 answers]
+franklin d roosevelt:franklin delano roosevelt:f d roosevelt:roosevelt:rooseweld:franklin d. roosevelt(april 12, 1945)
+harry s. truman:truman, harry s:harry truman:harry:truman:harry s truman:harry s. truman (january 20, 1953)
+dwight d eisenhower:eisenhower, dwight david:dwight d. eisenhower:dwight david eisenhower:dwight:eisenhower:dwight d eisenhower (January 20, 1961)
+john f kennedy:kennedy, john fitzgerald:john kennedy:john fitzgerald kennedy:jfk:j f kennedy:kennedy:john f kennedy (November 22, 1963)
+lyndon b johnson:johnson, lyndon baines:lyndon b. johnson:lyndon johnson:lyndon:johnson:lyndon b johnson (January 20, 1969)
+richard nixon:nixon, richard milhous:richard m nixon:richard milhous nixon:richard:nixon:richard nixon:richard nixon (August 9, 1974)
+gerald r ford:ford, gerald rudolph jr:gerald ford:gerald r ford:gerald rudolph ford:ford:gerald:gerald ford (January 20, 1977)
+jimmy carter:carter, jimmy:carter:jimmy:jimmy e carter:james earl carter jr:james earl carter:james e carter:jimmy carter (January 20, 1981)
+ronald reagan:reagan, ronald wilson:ronald wilson reagan:ronald w reagan:ronald:reagan:ronald reagan (January 20, 1989)
+george h w bush:bush, george w:bush, george:george h. w. bush:george herbert walker bush:george hw bush:george h bush:bush senior:bush sr:george bush senior:george h w bush (January 20, 1993)
+bill clinton:clinton, bill:william clinton:william j clinton:bill:clinton:bill clinton (January 20, 2001)
+george w bush:george w. bush:george bush:george:bush:w:bush junior:george bush junior:bush jr:george w bush (January 20, 2009)
+barack obama:barack h obama:obama:barack hussein obama:barack:hussein:barack obama
+*************************************************
+
+#16_Name US-American car manufacturers (current)[42 answers]
+chrysler llc:chrysler
+ford:ford motor co:ford motor company
+general motors:gm:gmc:gmc (automobile)
+am general
+carroll shelby international:Shelby American
+saleen
+stutz motor company
+tesla:tesla motors
+ac propulsion
+am general
+mobility ventures
+anteros
+aurica
+avanti
+bxr
+cllaway
+commuter
+deLorean
+detroit electric
+dragon
+e-z-go
+falcon motorsports
+fisker
+hennessey
+lucra
+lyons
+mosler
+niama-reisser:niama reisser
+panoz
+polaris
+ssc
+tesla
+zimmer
+berrien buggy
+local:local motors
+next autoworks
+rossion:rossion automotive
+rezvani:rezvani automotive
+vector:vector automotive
+tanom:tanom automotive
+ransom-duesenberg-continental:ransom duesenberg continental:rdc
+blast:blast automotive
+*************************************************
+
+#17_Name Japanese car manufacturers (current)[12 answers]
+daihatsu:daihatzu
+dome
+honda:honda motor co ltd
+isuzu:isutsu:isuzu motors
+mazda:matzda:madzda
+mitsubishi:mitsubischi:mitshubishi:mitsubishi motors
+mitsuoka
+nissan:nisan:nissan motor company
+subaru
+suzuki
+toyota
+tsubakimoto Chain 
+*************************************************
+
+#18_Name German car manufacturers (current)[24 answers]
+audi
+bmw:bayerische motorenwerke ag
+ford germany
+mercedes-benz:mercedes benz:mercedes
+opel
+porsche:porsche ag
+volkswagenvolkswagen ag:volkswagen group
+alpina
+apal
+bitter
+cityel
+gumpert
+hartge
+isdera
+jetcar
+keinath
+lotec
+mansory
+melkus
+pegasus
+ruf automobile
+smart
+wiesmann
+yes!
+*************************************************
+
+#19_Name the German chancellors (Federal Republic of Germany since 1949)[9 answers]
+konrad adenauer:adenauer:konrad
+ludwig erhard:erhard:ludwig
+kurt georg kiesinger:kiesinger:kurt kiesinger:kurt
+willy brandt:brandt:willy
+walter scheel
+helmut schmidt:schmidt:schmitt
+helmut kohl:kohl, helmut:kohl
+gerhard schr-der:schr-der:schroeder:gerhard
+angela merkel:merkel, angela:merkel:angela
+*************************************************
+
+#20_Name the foreign ministers of Germany (Federal Republic since 1951)[11 answers]
+konrad adenauer:adenauer:konrad
+heinrich von brentano:von brentano:brentano:heinrich
+gerhard schröder:schröder:schroeder:gerhard schroeder:gerhard
+willy brandt:willy brant:brandt:brant:willy
+walter scheel:scheel:walter
+hans-dietrich genscher:hans dietrich genscher:genscher:hans dietrich genscher:hans genscher:dietrich genscher:hans-dietrich
+helmut schmidt:helmut schmitt:schmidt:schmitt:helmut
+klaus kinkel:kinkel:klaus
+joschka fischer:fischer, joschka:fischer:joschka
+frank-walter steinmeier:steinmeier:frank walter steinmeier:frank steinmeier:walter steinmeier:frank-walter
+guido westerwelle
+*************************************************
+
+#21_Name the musical instruments of a symphonic orchestra[83 answers]
+brass:brass family
+brass instruments:trumpet:trumpets
+brass instruments:trumpet in f :trumpets in f 
+brass instruments:trumpet in c :trumpets in c 
+brass instruments:trumpet in b♭:trumpet in bb:trumpets in b♭:Trumpets in b♭
+brass instruments:trombone:trombones
+brass instruments:tenor trombone
+brass instruments:bass trombone:basstrombone:bass trombones
+brass instruments:cornet
+brass instruments:tuba:tubas
+brass instruments:tuba tenor:tubas tenors
+brass instruments:tuba bass:tubas basses
+brass instruments:wagner tubas:wagner tubas
+brass instruments:horn:horns
+brass instruments:flugelhorn
+brass instruments:euphonium 
+brass instruments:french horn:french horns:horn (instrument)
+brass instruments:french horn in f:french horns in f
+brass instruments:english horn:englishhorn:english horns:Cor Anglais:cor anglais
+brass instruments:baritone horn:baritone horns:euphoniums:baritone horns:euphoniumss
+string:strings:strings family
+string instruments:violin:violins
+string instruments:violins 1:violins I:vviolin Is:ioline:erste violine
+string instruments:second violine 2:Violins II:Violin IIs:geige:zweite geige:zweite violine
+string instruments:viola:violen:violas
+string instruments:cello:violoncello:celli:violoncelli:violoncellos:cellos
+string instruments:double bass:double basses:contrabass:bass
+string instruments:string basse
+string instruments:mandoline:gitarre:balalaika:zither
+string instruments:harp:harps:concert harp
+string instruments:mouth harp
+string instruments:banjo
+woodwind:woodwind family:woodwinds:woodwinds family
+woodwinds instruments:flute:flutes
+woodwinds instruments:piccolo flute:picollo:piccolo
+woodwinds instruments:oboe:oboen:oboes
+woodwinds instruments:saxophone:saxophones
+woodwinds instruments:clarinet:clarinett:clarinets
+woodwinds instruments:bass clarinet
+woodwinds instruments:clarinet in e-flat:e-flat clarinets
+woodwinds instruments:bassoon:bassoons
+woodwinds instruments:contrabassoon:contrabassoons
+woodwinds instruments:Clarinets in  b♭:Clarinet in  b♭:Clarinets in  bb:Clarinet in  bb
+woodwinds instruments:Clarinets in  a:Clarinet in  a  
+woodwinds instruments:e♭ Clarinet:e♭ Clarinets:eb Clarinet:eb Clarinets
+woodwinds instruments:D Clarinet:D Clarinets
+percussion:percussions:percussion family:percussions family
+percussion instruments:gong:gongs
+percussion instruments:triangle:triangles
+percussion instruments:cymbal:crash cymbals:cymbal:zymbal
+percussion instruments:bass drum
+percussion instruments:snare drum
+percussion instruments:orchestra bells
+percussion instruments:marimba:Marimbas
+percussion instruments:chimes:tubular bells
+percussion instruments:xylophone:xylophones:xylofon:chimes:ksylophone
+percussion instruments:tympani
+percussion instruments:drum:drums
+percussion instruments:tenor drum
+percussion instruments:tambourine:tambourines
+percussion instruments:timpani:Timpanis:timbal
+percussion instruments:glockspiel:glockenspiel:Glockenspiels
+percussion instruments:percussion:perkussion:maracas:eggshaker:conga:clave:castanetten:castanets:congas:bongos
+percussion instruments:vibraphone;vibraphones
+percussion instruments:mallets:wood block:wood blocks
+percussion instruments:tam-tam:tam-tams
+keyboard:keyboards:keyboard family:keyboards family
+keyboard instrument:piano
+keyboard instrument:harpsichord:harpsichords:cembalo
+keyboard instrument:organ:organ (music)
+keyboard instrument:celesta:celestas
+keyboard instrument:sampler (musical instrument)
+keyboard instrument:synthesizer
+keyboard instrument:pipe organ:pipe organs
+keyboard instrument:electronic organ
+keyboard instrument:harmonium
+box-shaped musical instruments:accordion:accordeon:bandoneon:acordeon
+classical guitar
+heckelphone
+guitar:electric guitar
+guitar:bass guitar
+guitar:classical guitar
+diatonic harmonica:harmonica
+*************************************************
+
+#22_Name Wimbledon winners for women’s or men’s singles (since 1980)’s or men’s singles (since 1980) [28 answers]
+novak djokovic:novak djokovic (2011)
+roger federer:federer, roger:rogerfederer:federer:roger federrer:federrer:roger:roger federer (2003)
+rafael nadal:nadal, rafael:rafaelnadal:nadal:rafael:rafael nadal (2008)
+andre agassi:agassi, andre:andreagassi:andre agasi:andre agassi:andre:agassi:agasi:andre agassi (1992)
+bjorn borg:björn borg:björnborg:bjoern borg:björn:borg:bjoern:björn borg (1980)
+boris becker:borisbecker:becker, boris:boris:becker:boris becker (1985)
+lleyton hewitt:hewitt, lleyton:lleytonhewitt:lleyton hewit:lleyton:hewitt:lleyton hewitt (2002)
+goran ivanišević:goran ivanisevic:goran:ivanisevic:iwanisewic:goran ivanišević (2001)
+pete sampras:sampras, pete:pete sampres:sampras:pete:sampres:pete sampras (1997)
+richard krajicek:krajcek:krajikec:richard:krajicek, richard::richard krajicek (1996)
+michael stich:michaelstich:michael:stich:michael stich (1991)
+stefan edberg:stefanedberg:stefan:edberg:edberg, stefan:stefan edberg (1991)
+john mcenroe:mcenroe, john:johnmcenroe:john:mcenroe:john mcenro:mcenro:john mcEnroe (1981)
+pat cash:pat:cash:pat cash (1987)
+jimmy connors:connors, jimmy:jimmyconnors:jimmy conners:jimmy:connors:conners:jimmy connors (1982)
+petra kvitova:petra kvitová:kvitova:kvitová:petra kvitová (2011)
+serena williams:williams, serena:serena:williams:serena williams (2012)
+venus williams:williams, venus:venus:venus williams (2000)
+amélie mauresmo:amelie mauresmo:amelie:mauresmo:amélie mauresmo (2006)
+maria sharapova:sharapova, maria:maria:sharapova:maria sharapowa:sharapowa:maria sharapova (2004)
+lindsay davenport:davenport, lindsay:lindsay:davenport:lindsay davenport (1999)
+jana novotná:jana:novotna:jana nowotna:nowotna:novotna:jana novotna:jana novotná (1998)
+martina hingis:hingis, martina:hingis:martina hingis (1997)
+steffi graf:graf, steffi:graf:steffi:steffi graf (1988)
+conchita martínez:conchita martinez:conchita:martinez:Conchita Martínez (1994)
+martina navratilova:navratilova:nawratilowa:navratilova, martina:martina navratilova (1982)
+chris evert:evert, chris:evert:chris evert (1981)
+evonne goolagong cawley:cawley:evonne cawley:ivonne goolagong cawley:ivonne cawley:evonne goolagong cawley (1980)
+*************************************************
+
+#23_Name the sites (host cities) of the modern Olympic Winter games (so far)[18 answers]
+chamonix:charmonix:charmonix:chamonie:chamoni:schamonix:schamoni:chamonix-mont-blanc:chamonix, france
+st. moritz:st moritz (switzerland):sankt moritz:san moritz:st moritz:st. moriz:sankt moriz:san moriz:st moriz:stmoritz:sanktmoritz:st. moritz, Switzerland
+lake placid:placid:lake placid (ny):lake placid, new york:lake placid, united states
+garmisch-partenkirchen, germany:garmisch-partenkirchen:garmisch:gamisch:garmisch-patenkirchen
+oslo:oslo (norway):oslo, norway
+cortina d'ampezzo:cortina:hayden:cortina d'ampezo:cortina d'ampezzo, italy
+squaw valley:squaw:sqaw valley:sqaw vally:squaw vally:squaw valey:squaw valley, california:squaw valley, united states
+innsbruck:insbruck:innsbruck (austria):innsbruck, austria
+grenoble:grenoble, france
+sapporo:saporo:saporro:sapporo, japan
+sarajevo:sarajewo:sarajevo, yugoslavia
+calgary:calgari:kalgary:calgary (alberta):calgary, ccanada
+albertville:albertwill:albert ville:allbertville:albertville, france
+lillehammer:lilehammer:lillehamer:lillehammer, norway
+nagano:nagano, nagano:nagano, Japan
+salt lake city:slc:salt lake, utah:salt lake city, utah:salt lake city (utah):salt lake city, united states
+turin:torino:turin (italy):turin, italy
+vancouver:vancouver (british columbia):vancouver, canada
+*************************************************
+
+#24_Name the sites (host cities) of the modern Olympic Summer games (so far)[23 answers]
+athens:athen:atens:athens (greece):athens, greece
+paris:paris (france):paris, france
+st. louis:saint louis:st louis:st.luis:saint luis:st luis:louis:st. louis, missouri:st. louis, united states
+london:london (england):london, united kingdom
+stockholm:stokholm:stockolm:stockholm (sweden):stockholm, sweden
+antwerpen:antwerp:antwerp (belgium):antwerp, belgium
+amsterdam:amsterdam, netherlands
+los angeles:la:losangeles:l a:l.a.:los angeles, california:los angeles, united states
+berlinberlin (germany):berlin, germany
+helsinki:helsinkey:helsinki (finland):helsinki, finland
+melbourne (australia):melbourne:melbourn:melbourne, australia
+rome:rom:roma:rome (italy):rome, italy
+tokio:tokyo:tokeyo:tokyo (japan):tokyo, japan
+mexiko city:mexico city:mexico-city:mexikocity:mexico city (mexico):mexico city, mexico
+munich:m-nchen:munchen:munic:munich (germany):munich, west germany
+montreal:montreal:monreal:monreal:montreal (quebec):montreal, canada
+moscow:moscau:moskau:moscow (russia):moscow, soviet union
+seoul:soul:seul:seoul (south korea):seoul, south korea
+barcelona:barcelona:barcelona (spain):barcelona, spain
+atlanta (ga):atlanta, georgia:atlanta, united states
+sydney:sidney:sydnee:sydney (australia):sydney, australia
+beijing:bejing:peking:beijing (china):beijing, china
+rio de janeiro:rio de janeiro (state):rio de janeiro (brazil)
+*************************************************
+
+#25_Name the signs of the western zodiac[12 answers]
+virgo:virgo (constellation)
+taurus:taurus (constellation)
+scorpio:scorpio (astronomy):scorpius
+sagittarius:sagittarius (constellation)
+pisces:pisces (constellation)
+libra:libra (constellation)
+leo:leo (constellation)
+gemini:gemini (constellation)
+capricornus:capricorno
+cancer:cancer (constellation)
+aries:aries (constellation)
+aquarius:aquarius (constellation)
+*************************************************
+
+#26_Name the teams of the 1st German football league Bundesliga (2008-09)[18 answers]
+vfl wolfsburg:wolfsburg
+bayern munich:fc bayern munich:bayern m-nchen:bayern:m-nchen:muenchen:bayern muenchen
+vfb stuttgart:vfb:stuttgart:stutgart:vfb stutgart
+hertha bsc:berlin:hertha
+hamburger sv:hsv:hamburg
+borussia dortmund:dortmund
+1899 hoffenheim:tsg 1899 hoffenheim:1899 hoffenheim:tsg hoffenheim:hoffenheim
+schalke 04:fc schalke 04:schalke
+bayer leverkusen:bayer 04 leverkusen:bayer leverkusen:leverkusen
+werder bremen:werder:bremen
+hannover 96:hannover
+1. fc köln:1. fc koln:1 fc koeln:fc köln:fc koeln:köln:koeln
+eintracht frankfurt:eintracht:frankfurt
+vfl bochum:bochum
+borussia mönchengladbach:borussia monchengladbach:borussia moenchengladbach:m-nchengladbach:gladbach:moenchengladbach
+energie cottbus:energie:cottbus
+karlsruher sc:ksc:karlsruhe
+arminia bielefeld:bielefeld
+*************************************************
+
+#27_Name the teams of the 2nd German football league 2. Bundesliga (2008-09). Bundesliga (2008-09) [18 answers]
+vfl wolfsburg
+bayern munich:fc bayern munich
+vfb stuttgart
+hertha bsc
+hamburger sv
+borussia dortmund
+1899 hoffenheim:tsg 1899 hoffenheim
+schalke 04:fc schalke 04
+bayer leverkusen:bayer 04 leverkusen
+werder bremen:sv werder bremen
+hannover 96
+1. fc köln
+eintracht frankfurt
+vfl bochum
+borussia mönchengladbach
+energie cottbus:fc energie cottbus
+karlsruher sc
+arminia bielefeld
+*************************************************
+
+#28_Name the teams of the NBA (National Basketball Association in 2009)[30 answers]
+los angeles lakers:la lakers:l.a. lakers:lakers
+denver nuggets:denver:nuggets
+san antonio spurs:san antonio:spurs
+portland trail blazers:portland:trail blazers:blazers
+houston rockets:houston:rockets
+dallas mavericks:dallas:mavericks
+new orleans hornets:new orleans:hornets
+utah jazz:utah:jazz
+phoenix suns:phoenix:suns
+golden state warriors:golden state:warriors
+minnesota timberwolves:minnesota:timberwolves
+memphis grizzlies:memphis:grizzlies
+oklahoma city thunder:oklahoma city:thunder:oklahoma:city thunder
+los angeles clippers:la clippers:l.a. clippers:clippers
+sacramento kings:sacramento:kings
+cleveland cavaliers:cleveland:cavaliers
+boston celtics:boston:celtics
+orlando magic:orlando:magic
+atlanta hawks:atlanta:hawks:the hawks
+miami heat:miami:heat
+philadelphia 76ers:philadelphia:76ers
+chicago bulls:chicago:bulls
+detroit pistons:detroit:pistons
+indiana pacers:indiana:pacers
+charlotte bobcats:charlotte:bobcats
+new jersey nets:new jersey:nets
+milwaukee bucks:milwaukee:bucks
+toronto raptors:toronto:raptors
+new york knicks:new york:knicks
+washington wizards:washington:wizards
+*************************************************
+
+#29_Name the main characters of the first Star Wars movie (1977)[12 answers]
+luke skywalker:luke:skywalker
+han solo:hansolo:han:solo
+princess leia:princess leia organa:leia:prinzessin:princess:lea
+grand moff tarkin:tarkin:grossmoff tarkin:grossmoff:grand moff
+ben obi-ban kenobi:obi-wan kenobi:owiwan kenobi:obiwan:obi wan:obiwan:kenobi
+c-3po:c3po:c3p0:c drei p o:c drei p zero:c drei p null
+r2-d2:r2d2:r zwei d zwei:r two d two:rzwo dzwo
+chewbacca:chubacca:chewbaca:wookiee
+darth vader:darthvader:vader:darth wader:anakin skywalker
+wedge antilles:wedge:antilles
+imperial stormtrooper:stormtrooper (star wars)
+greedo
+*************************************************
+
+#30_Name the types of chess-pieces[6 answers]
+king:king (chess)
+queen:kween:queen (chess)
+rook:rock:castles:rook (chess)
+bishop:bishop (chess)
+knight:night:knight (chess)
+pawn:paun:pawn (chess)
+*************************************************
+
+#31_Name African countries (nations)[54 answers]
+algeria
+angola
+benin
+botswana
+burkina faso
+burundi
+cameroon
+Cape Verde:republic of vabo verde
+central african republic
+chad
+comoros
+côte d'ivoire:cote d'ivoire:jvory coast:republic of côte d'ivoire
+democratic republic of the congo:congo (formerly zaire):republic of zaire
+republic of congo:republic of the congo:congo republic:congo-brazzaville:congo brazzaville
+djibouti
+egypt
+equatorial guinea:guinea:republic of equatorial guinea:Republic of Guinea
+eritrea
+ethiopia
+gabon
+Gambia:Republic of the Gambia
+ghana
+guinea:republic of guinea
+guinea-bissau:guinea bissau:republic of guinea-bissau
+kenya
+Lesotho:Kingdom of Lesotho
+liberia
+libya
+madagascar:republic of madagascar
+malawi:republic of malawi
+mali
+Mauritania:Islamic Republic of Mauritania
+mauritius
+morocco
+mozambique
+namibia
+niger
+nigeria
+rwanda
+são tomé:são tomé and principe:sao tomé and principe:sao tome and principe
+senegal
+seychelles:seychelles islands
+sierra leone
+somalia
+south africa:republic of south africa
+south sudan:republic of south sudan
+sudan:republic of the sudan
+swaziland
+tanzania
+togo
+tunisia:tunisian republic
+uganda
+zambia
+zimbabwe
+*************************************************
+
+#32_Name American countries (nations)[35 answers]
+united states
+brazil
+mexico
+colombia
+argentina
+canada
+peru
+venezuela
+chile
+guatemala
+ecuador
+cuba
+haiti
+bolivia
+dominican republic
+honduras
+paraguay
+nicaragua
+el salvador
+costa rica
+panama
+uruguay
+jamaica
+trinidad and tobago
+guyana
+suriname
+bahamas
+belize
+barbados
+saint lucia
+saint vincent and the grenadines
+grenada
+antigua and barbuda
+dominica
+saint kitts and nevis
+*************************************************
+
+#33_Name the members of the pop band ABBA[4 answers]
+benny andersson:benny:andersson:bennie: anderson
+björn ulvaeus:bjorn ulvaeus:björn:ulvaeus:bjoern ulvaeus:bjoern:björn ulvaeus
+anni-frid lyngstad:frida lyngstad:anni-frid:lyngstad:annifried:annifrid
+agnetha fältskog:agnetha faltskogagnetha:fältskog:agneta: faeltskog:agneta faeltskog
+*************************************************
+
+#34_Name the members of the pop band The Beatles[6 answers]
+john lennon:lennon, john:john lenon:lennon:lenonn:john
+paul mccartney:mccartney, paul:paul mc cartney:paul maccartney:paul mac cartney:mccartney:mc cartney:maccartney:mac cartney:paul
+george harrison:harrison, george:george harison:george harreson:george:harrison:harison:harreson
+ringo starr:ringo star:ringo:starr:star:starr, ringo"
+pete best:peter best:pete:best
+stuart sutcliffe:sutcliffe:stuart sutcliff:steward sutcliffe:stu sutcliffe:stuart:steward:sutcliff:sutcliffe
+*************************************************
+
+#35_Name the Olympian gods of the Greek mythology[14 answers]
+poseidon:posaidon:god of the sea
+aphrodite:afrodite:goddess of love:goddess of beauty
+apollon:apollo:apolon:appollo:appolo:apolo:phoebus apollo:God of the sun, music, medicine and healing, archery and prophecy
+ares:aries:god of war:war god
+artemis:artemisia:Goddess of Hunting
+atena:athene:athena:atene:goddess of wisdom
+dionysus:dionysus:dionisus:thracian god of wine
+hepphaestus:hephaistos:hephaistos:hefaistos:hephaestus:god of fire
+hera:goddess of marriage
+hermes:hermess:god of boundaries:Messenger of the Gods and Finance
+hestia:hesta:goddess of the hearth
+demeter:demmeter:demetter::Goddess of Agriculture
+zeus:leader of the gods
+hades
+*************************************************
+
+#36_Name the Olympian gods of the Roman mythology[14 answers]
+neptune:neptune (mythology):neptun:ruler of the sea
+venus:venus (mythology):goddess of love:goddess of beauty and love
+apollo:apollon:apolon:appollo:appolo:apolo:God of the sun, music, medicine and healing, archery and prophecy
+mars:mars (mythology):god of war:war god
+diana:diana (mythology):Goddess of Hunting
+minerva:Goddess of Wisdom
+bacchus:Liber:thracian god of wine
+vulcanus:vulcan:vulcan (mythology):God of Fire, the Forge and Blacksmiths
+juno:juno (mythology):iuno:Goddess of Marriage
+mercury:mercury (mythology):mercurius:mercur:mercure:Messenger of the Gods and Finance
+vesta:vesta (mythology):festa:westa:Goddess of the Hearth, the Home and the Roman state
+ceres:zeres:ceres (mythology):Goddess of Agriculture
+jupiter:jupiter (mythology):iupiter:The King of the Gods and the God of the sky
+pluto:pluto (mythology):ruler of the underworld and the dead
+*************************************************
+
+#37_Name the operas by Wolfgang Amadeus Mozart[23 answers]
+Die Schuldigkeit des ersten Gebots:Die Schuldigkeit des 1. Gebots:Schuldigkeit:Erstes Gebot:1. Gebot
+Apollo und Hyacinth:Apollo et Hyacinthus:Apollo:Hyacinth
+Bastien und Bastienne:Bastien & Bastienne:Bastien:Bastienne
+La finta giardiniera:Die Gärtnerin aus Liebe:Gaertnerin aus Liebe:giardiniera
+Mithridates König von Pontos:Mitridate, re di Ponto:Mithridate:Mithridates:Pontos
+Ascanio in Alba:Ascanio:Alba:Askanio
+Il sogno di Scipione:Der Traum Scipios:Scipio:Sogno:Der Traum des Scipio:Traum:Scipione
+Lucio Silla:Lucius Sulla:Lucius:Sulla:Silla:Lucio
+La finta semplice:Die verstellte Einfalt:semplice:Einfalt
+Il re pastore:Der König als Hirte:Koenig als Hirte:Der Hirtenkoenig
+Thamos, König in Ägypten
+Zaide:Das Serail
+Idomeneo:Idomeneo Rè di Creta:Idomeno:Idomenio:Koenig von Kreta:Kreta
+Die Entführung aus dem Serail:Serail:Entfuehrung aus dem Serail
+L'oca del Cairo:Cairo
+Lo sposo deluso ossia:La rivalità di tre donne per un solo amante:Lo sposo deluso
+Der Schauspieldirektor:Schauspieldirektor
+Le nozze di Figaro:Die Hochzeit des Figaro:The Marriage of Figaro:Figaros Hochzeit:Figaro
+Don Giovani:Der bestrafte Wüstling oder Don Giovanni:Il dissoluto punito ossia il Don Giovanni:Don Giovanni:Giovanni:Der bestrafte Wüstling:DonGiovanni:Wüstling
+Così fan tutte ossia:La scuola degli amanti:Cosi fan tutte:So machen es alle Frauen:So machen es alle:Die Schule der Liebenden:Schule der Liebenden:Cosi Fan Tute
+Der Stein der Weisen
+La clemenza di Tito:Die Milde des Titus:Der Großmut des Titus:Titus:Tito
+Die Zauberflöte:Die Zauberfloete:Zauberflöte:Zauberfloete:The Magic Flute:Magic flute
+*************************************************
+
+#38_Name continents on earth[7 answers]
+africa:afrika
+antarctica:antarktis:arktis:antarktika:antarktica
+asia:asien
+australia:australia (continent):Oceania:Oceanica:australien/ozeanien:australien:ozeaniennordamerika
+europe:europa
+north america:north-america:nord amerika
+south america:s-damerika:suedamerika:s-d amerika
+*************************************************
+
+#39_Name the highest mountain (peaks) of each continent[7 answers]
+kilimanjaro:mount kilimanjaro:mt kilimanjaro:Kibo Summit:kilimandscharo:kibo:killimantscharo:kilimanjaro:uhuru peak:uhuru
+vinson:mount vinson:mt vinson:vinson:winson:mt winson:vinson massif:vinson massive
+carstensz Pyramid:puncak jaya:carstensz-pyramide/puncak jaya:carstensz-pyramide:carstensz:carstens:punjak jaia:mount kosciuszko:mt kosciuszko:kosciuszko
+mount everest:everest:mt everest:sagarmatha:chomolungma
+elbrus:mont blanc/elbrus:mont blanc:mount elbrus:mt elbrus:montblanc:mt blanc:mtblanc:moblanc
+mount mckinley:mount mckinley (alaska):mckinley:denali:mt mckinley:mtmckinlie:mckinlie:mackinley
+aconcagua:akonkagua
+*************************************************
+
+#40_Name U.S.-American states (current).S.-American states (current) [50 answers]
+alabama:al
+alaska:ak
+arizona:az
+arkansas:ar
+California:kalifornien:ca
+colorado:co
+connecticut:conneticut:coneticut:ct
+delaware:de
+florida:floridas:fl
+georgia:georgia (state):georgia (u.s. state):ga
+hawaii:hawai:hi
+idaho:id
+illinois:ilinois:il
+indiana:in
+iowa:ia
+kansas:ks
+kentucky:ky
+louisiana:louisianna:la
+maine:main:me
+maryland:md
+massachusetts:massachusets:masachusets:ma
+michigan:mi
+minnesota:minesota:mn
+mississippi:misisipi:missesippi:misesippi:ms
+missouri:missuri:mo
+montana:mt
+nebraska:ne
+nevada:nv
+new hampshire:newhampshire:nh
+new jersey:newjersey:nj
+new mexico:newmexico:nm
+new york:newyork:ny
+north carolina:northcarolina:nc
+north dakota:northdakota:nd
+ohio:oh
+oklahoma:oclahoma:ok
+oregon:or
+pennsylvania:pensylvania:pennsilvania:pa
+rhode island:rhodeisland:ri
+south carolina:southcarolina:sc
+south dakota:southdakota:sd
+tennessee:tenessee:tennesee:tn
+texas:tx
+utah:uta:ut
+vermont:vt
+virginia:virgina:va
+washington:washington, united states:washington (state):wa
+west virginia:westvirginia:west virgina:wv
+wisconsin:wi
+wyoming:wy
+*************************************************
+
+#41_Name capital cities of U.S.-American states (current).S.-American states (current) [50 answers]
+montgomery:montgomry:montgomery, alabama:montgomery (ala)
+juneau:juno:juneo:juneau, alaska
+phoenix:phenix:phoenics:phoenix, arizona:phoenix (ariz)
+little rock:littlerock:little rock, arkansas
+sacramento:sakramento:sacramento, california:sacrament:sacramento (calif)
+denver:denver (colo)
+hartford:hartfort:hartford, connecticut:hartford (conn)
+dover:dower:dover, delaware
+tallahassee:talahasee:tallahasee:talahassee:tallahassee, florida:tallahassee (fla)
+atlanta:atlanta, georgia:atlanta (ga)
+honolulu:honululu:honolulu, hawaii:honolulu (hawaii)
+boise:boisee:idaho:boise (idaho)
+springfield:springfield, illinois:springfield (ill)
+indianapolis:indinapolis:indianapolis, indiana:indianapolis (ind)
+des moines:desmoines:des moines, iowa
+topeka:topeca:topeka, kansas
+frankfort:frankfurt:frankfort, kentucky
+baton rouge:batonrouge:baton rouge, louisiana:baton rouge (la)
+augusta:augusta, maine
+annapolis:anapolis:annapolis, maryland:annapolis (md)
+boston:boston (mass):boston, massachusetts
+lansing:lansing, michigan
+saint paul:st paul:stpaul:saint paul, minnesota:st paul (minn)
+jackson:jackson, mississippi:jackson (miss)
+jefferson city:jeffersoncity:jefferson city, missouri
+helena:helenna:helena, montana
+lincoln:lincon:lincoln, nebraska
+carson city:carsoncity:carson city, nevada
+concord:concorde:concord, new hampshire
+trenton:trenton, new jersey:trenton (nj)
+santa fe:santafe:santa fe, new mexico:santa fe (nm)
+albany:albany, new york:albany (ny)
+raleigh:raleigh:raleigh, north carolina:raleigh (nc)
+bismarck:bismark:bismarck, north dakota
+columbus:kolumbus:columbus (ohio):columbus, ohio
+oklahoma city:oklahomacity:oklahoma city, oklahoma:oklahoma city (okla)
+salem:salem, oregon
+harrisburg:harisburg:harrisburg, pennsylvania
+providence:prowidence:providence, rhode island:providence (ri)
+columbia:kolumbia:columbia, south carolina
+pierre:piere:pierre, south dakota
+nashville:nashvile:nashville, tennessee:nashville (tenn)
+austin:austin, texas:austin (tex)
+salt lake city:saltlakecity:salt lake city, utah:salt lake city (utah)
+montpelier:montpelir:montpelier, vermont
+richmond:richmond, virginia:richmond (va)
+olympia:olympia, washington
+charleston:charlston:charleston, west virginia
+madison:maddison:madison, wisconsin:madison (wis)
+cheyenne:cayenne:cheyenne, wyoming:cheyenne (wyo)
+*************************************************
+
+#42_Name the German Bundesländer (Federal States of the current Federal Republic of Germany)[16 answers]
+baden-württemberg:Württemberg-Baden:baden württemberg:baden-wurttemberg:south baden
+bavaria:bayern:freistaat bayern:bayern:bavaria (germany)
+berlin:berlin (germany)
+brandenburg
+bremen:freie hansestadt bremen
+hamburg:freie und hansestadt hamburg:hamburg (germany):hamberg
+hesse:hessia:hessen
+lower saxony:niedersachsen:bremen (state)
+mecklenburg-vorpommern:mecklenburg-vorpomern:mecklenburg:vorpommern
+north rhine-westphalia:north rhine westphalia:nordrhein-westfalen:nrw:nordrhein:westfalen
+rhineland-palatinate:rhineland:palatinate:rheinland-pfalz:rheinland:pfalz
+saarland:sarland
+saxony:sachsen:saxonia
+saxony-anhalt:sachsen-anhalt:anhalt
+schleswig-holstein:schleswig:holstein
+thuringia:freistaat thüringen:freistaat thuringen:thuringen:thüringen:thueringen
+*************************************************
+
+#43_Name the capital cities of German federal states (current)[16 answers]
+munich:m-nchen:muenchen
+bremen:bremen
+hamburg:hamburg
+wiesbaden
+hannover:hanover
+düsseldorf:duesseldorf
+mainz
+kiel
+stuttgart:stutgart:stuttgard
+saarbrucken:saarbr-cken:saarbruecken
+potsdam:potzdam
+schwerin
+dresden
+magdeburg
+erfurt
+berlin:berlin
+*************************************************
+
+#44_Name the current member states of the UN Security Council (2009)[15 answers]
+china:cina:people's republic of china
+france:frankreich
+russia:russian federation:russland:udssr:sowjetunion:soviet union:ussr (former soviet union)
+great britain:united kingdom:united kindom:grossbritannien:gro-britannien:vereinigtes k-nigreich:uk:england:nordirland
+united states of america:usa:us:united states:u.s.a.:u.s.:vereinigte staaten:vereinigte staaten von amerika
+australia:australia (2009–2010)
+burkina faso:burkina faso (2008–2009):burkinafaso:burcina faso:burcinafaso
+costa rica:costarica (2008–2009):costarika:costa rika
+croatia:kroatien:croatia (2008–2009)
+japan:japan (2009–2010)
+libyan arab jamahiriya:libya:libya (2008-2009):libyen:lybien:lybia:libiya:ljamahiriya:libysch-arabische dschamahirija
+mexico:mexico(2009–2010):mexiko
+turkey:turkey (2009–2010):t-rkei:tuerkei
+uganda:uganda(2009–2010)
+vietnam:viet nam:vietnam (2008-2009)
+*************************************************
+
+#45_Name Coffee brands with a value exceeding $600 million (in 2009)[04 answers]
+nescafe:nescafé
+starbucks
+tim hortons
+caribou coffee
+*************************************************
+
+#46_Name oil companies with a value exceeding $700 million (in 2009)[47 answers]
+british petroleum:bp:british petrol:bp plc
+shell:shel:schell:royal dutch shell
+mobil:mobile:exxon:exon:exxon mobil corporation:exxonmobil corporation
+petrochina:petro china:petrochina company limited
+texaco:texxaco:texacco
+chevron corporation:chevronn corporation
+esso:eso
+repsol:repsohl
+aral:arral
+apache corporation
+total s.a.:total
+gazprom
+halliburton
+imperial oil
+indian oil corporation
+marathon oil:Marathon Oil Company
+petronas
+plains exploration & production
+sun oil
+unocal corporation
+valero
+western refining
+xto energy
+baytex energy
+caixabank
+chesapeake energy:chesapeake energy corporation
+sinopec:china petroleum and chemical corporation (sinopec)
+dno international
+eni
+fred. olsen energy
+galp energia
+inter pipeline fund
+marathon oil corp
+neste oil
+omv
+repsol ypf
+sbm offshore
+sevan marine
+snam
+songa offshore
+statoil
+statoilhydro asa
+subsea 7
+suncor energy
+tenaris
+valero energy corporation
+williams cos inc
+*************************************************
+
+#47_Name existing fashion brands worth over $1 billion (in 2009)[20 answers]
+h&m:hm:h+m:h & m:h + m:h und m:hennes & mauritz:hennes und mauritz:hennes mauritz:hennes:mauritz
+nike:nice
+zara:tsara:zarra:zara (retailer)
+esprit:essprit
+adidas:addidas:adiddas
+ralph lauren:ralf lauren:ralphlauren
+puma:pumma
+next
+gap:gab
+columbia sportswear co.
+guess (clothing)
+hollister co.
+hugo boss
+pacific sunwear
+prada
+diesel (brand)
+ermenegildo zegna
+gucci:gucci group nv
+levi strauss & co.
+pacsun
+*************************************************
+
+#48_Name beer brands with over $1 billion in sales (in 2008)[32 answers]
+budweiser:budveise
+bud light:bud lite:budlight:budlite
+heineken:heiniken:heinicken:heinecken:heineken export
+corona:korona:coronna:corrona
+stella artois:stela artoise:stella
+guinness:guinisse:guinnise:giness:guines
+miller lite:miller:miler lite:millerlite
+skol:sckol:scol
+amstel:amsstel:amstell
+beck-s:becks:beks
+cruzcampo:crucampo
+kronenbourg 1664:kronenbourg:kronenburg:cronenburg:1664
+coors light:coorslight:coors lite:coors
+labatt-s:labatts
+baltika:baltica
+carlsberg group:karlsberg:carlsberg export
+obolon zhigul
+miller genuine draft
+San Miguel Brewery, Inc.
+*************************************************
+
+#49_Name technology brands with a value exceeding $5 billion (in 2009)[27 answers]
+google:googl:googel
+microsoft:micro soft
+ibm:international business machines:international business machines corporation
+apple:apple computers:apple inc.
+nokia:nocia
+blackberry:black berry
+hewlett packard:hp:hewlettpackard
+sap:systemanalyse und programmentwicklung:systeme anwendungen und produkte in der datenverarbeitung
+intel:intell
+oracle:oracel:oracle corporation
+cisco:cisco systems
+dell:dell computers
+accenture:accenturre
+siemens:simens
+canon:cannon
+yahoo!:yahoo:yahou
+samsung:samsun:samsong
+sony:sonie:sonny
+baidu:baiduh
+emc corporation
+foxconn
+fujitsu
+hewlett-packard
+vodafone
+samsung electronics
+agilent technologies:agilent technologies inc
+philips
+*************************************************
+
+#50_Name existing brands worth over $20 billion (in 2009)[93 answers]
+amazon.com:amazon
+apple:apple (company):apple inc.:apple computers
+bank of china
+china construction bank:ccb
+china mobile:chinamobile
+industrial and commercial bank of china:icbc
+bank of america
+deutsche bank
+nanto bank
+blackberry:black berry
+bmw:bayrische motoren werke:bavarian motor works
+coca-cola:the coca-cola company:cocacola:coca cola co.
+disney:disney company:the walt disney company
+gillette:gilette:gillete
+google:googl:googel
+hewlett packard:hp:hewlettpackard:hewlett-packard
+marlboro:malboro
+mcdonald-s:mcdonalds:mac donalds:macdonald
+microsoft:micro soft
+nokia:nocia:nokia:nocia
+sap:systemanalyse und programmentwicklung:systeme anwendungen und produkte in der datenverarbeitung
+tesco:tesko
+toyota:toiota
+united parcel service:ups
+walmart:wal-mart:wal mart
+aeg:aeg
+american international group
+arcelormittal
+central japan railway company:west japan railway company
+citigroup
+comcast
+total sa:total s.a.
+deutsche telekom
+ericsson
+fannie mae
+freddie mac
+gazprom
+goldman sachs
+honda
+ing group
+jpmorgan chase
+johnson & johnson
+marathon oil
+verizon communications
+nestlé:nestle
+petrochina
+petronas
+pfizer
+samsung group
+royal dutch shell
+siemens
+sony
+time warner
+visa inc.
+wells fargo
+volvo:ab volvo
+skanska ab
+bas f se:bas f se
+the royal bank of scotland group plc
+vodafone:vodaphone:vodafone group plc
+sandvik ab
+atlas copco ab
+assa abloy ab
+united services automobile association
+credit suisse group ag
+novo nordisk a/s
+repsol ypf, s.a.
+marathon oil corporation:marathon oil
+denso corporation:denso corporation
+general motors company
+general electric:ge:general electric company
+intel corporation:intell
+oracle corporation:oracel:orakel
+cisco systems:cisco systems, inc.
+morgan stanley
+novartis international ag
+qualcomm inc.
+chevron corporation
+the dow chemical company
+berkshire hathaway inc.
+hsbc holdings plc
+abbott laboratories
+state farm insurance
+metlife, inc.
+capital one financial corporation
+pnc financial services group, inc.
+at&t:at&t inc.:att:at+t:at & t
+ibm:international business machines:international business machines corporation
+exxon mobil corporation:exxon mobil corporation
+bp:bp p.l.c.
+anheuser-busch inbev n.v.
+ubs ag
+merck sharp & dohme:msd:merck sharp & dohme (msd):merck & co., inc.
+bas    f se
+*************************************************
+

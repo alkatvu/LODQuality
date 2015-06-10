@@ -1,0 +1,20 @@
+# 18_Name German car manufacturers (current) [18/24 answers]
+QueryID	Concept	Label	HRank
+18.1	http://dbpedia.org/resource/Audi	audi	5
+18.2	http://dbpedia.org/resource/BMW	bmw|bayerische motorenwerke ag	5
+18.3	http://dbpedia.org/resource/Bugatti	bugatti	5
+18.4	http://dbpedia.org/resource/Opel	opel	5
+18.5	http://dbpedia.org/resource/Porsche	porsche|porsche ag	5
+18.6	http://dbpedia.org/resource/Volkswagen	volkswagen	5
+18.7	http://dbpedia.org/resource/Volkswagen_Group	volkswagen group|volkswagen ag	5
+18.8	http://dbpedia.org/resource/Daimler_AG	daimler ag	5
+18.9	http://dbpedia.org/resource/MAN_SE	man se	3
+18.10	http://dbpedia.org/resource/Maybach	maybach	5
+18.11	http://dbpedia.org/resource/Isdera	isdera	5
+18.12	http://dbpedia.org/resource/Wiesmann	wiesmann	5
+18.13	http://dbpedia.org/resource/Ruf_Automobile	ruf automobile	5
+18.14	http://dbpedia.org/resource/Gumpert	gumpert	5
+18.15	http://dbpedia.org/resource/HQM_Sachsenring_GmbH	hqm sachsenring gmbh	4
+18.16	http://dbpedia.org/resource/Industrieverband_Fahrzeugbau	industrieverband fahrzeugbau	5
+18.17	http://dbpedia.org/resource/Mercedes-Benz	mercedes-benz	5
+18.18	http://dbpedia.org/resource/Artega_Automobile	artega automobile	5

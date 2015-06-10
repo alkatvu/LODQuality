@@ -1,0 +1,16 @@
+# 19_Name the German chancellors (Federal Republic of Germany since 1949)[8/9 answers]
+# TIME DEPENDENT QUERIES
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?member (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?member purl:subject dbp-cat:Chancellors_of_Germany ;
+          dbp-ont:activeYearsStartDate ?date ;
+          rdfs:label ?labels ;
+          rdfs:comment ?comment .
+  FILTER (lang(?labels) = "en" && ?date > "1949-12-31"^^xsd:date)
+}
+GROUP BY ?member ORDER BY ?labels

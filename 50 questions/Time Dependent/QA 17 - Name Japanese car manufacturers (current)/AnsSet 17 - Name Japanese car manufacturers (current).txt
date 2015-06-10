@@ -1,0 +1,12 @@
+# 17_Name Japanese car manufacturers (current) [10/12 answers]
+QueryID	Concept	Label	HRank
+17.1	http://dbpedia.org/resource/Daihatsu	daihatsu	5
+17.2	http://dbpedia.org/resource/Honda	honda|honda motor co ltd	5
+17.3	http://dbpedia.org/resource/Isuzu_Motors	isuzu motors	5
+17.4	http://dbpedia.org/resource/Mazda	mazda|zoom zoom	5
+17.5	http://dbpedia.org/resource/Mitsubishi_Motors	mitsubishi motors	5
+17.6	http://dbpedia.org/resource/Mitsuoka	mitsuoka	5
+17.7	http://dbpedia.org/resource/Nissan_Motor_Company	nissan motor company	5
+17.8	http://dbpedia.org/resource/Prince_Motor_Company	prince motor company	4
+17.9	http://dbpedia.org/resource/Subaru	subaru	5
+17.10	http://dbpedia.org/resource/Suzuki	suzuki	5

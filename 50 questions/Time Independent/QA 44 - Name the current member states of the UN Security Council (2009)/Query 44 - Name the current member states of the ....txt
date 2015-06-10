@@ -1,0 +1,16 @@
+# 44_Name the current member states of the UN Security Council (2009) [10/15 answers]
+# TIME DEPENDENT QUERIES
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dbpedia: <http://dbpedia.org/resource/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?member (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  dbpedia:United_Nations_Security_Council fb:base.unitednations.united_nations_body.members ?overmember .
+  ?overmember fb:base.unitednations.united_nations_body_membership.member ?member .
+  ?member skos:prefLabel ?labels ;
+          rdfs:comment ?comment .
+  FILTER(lang(?labels) = "en").
+}
+GROUP BY ?member ORDER BY ?labels

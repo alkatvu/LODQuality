@@ -1,0 +1,16 @@
+# 17_Name Japanese car manufacturers (current) [10/12 answers]
+# TIME DEPENDENT QUERIES
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX purl: <http://purl.org/dc/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+select distinct ?company (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label) 
+where
+{
+  ?company  purl:subject dbp-cat:Motor_vehicle_manufacturers_of_Japan ;
+		    a fb:automotive.company ; 
+            rdfs:label ?labels ;
+            rdfs:comment ?comment .
+  FILTER(lang(?labels) = "en").
+}
+GROUP BY ?company ORDER BY ?label

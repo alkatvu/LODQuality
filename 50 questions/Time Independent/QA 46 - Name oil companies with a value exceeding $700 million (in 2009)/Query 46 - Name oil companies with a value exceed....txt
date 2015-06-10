@@ -1,0 +1,17 @@
+# 46_Name oil companies with a value exceeding $700 million (in 2009) [33/? answers]
+# TIME INDEPENDENT & INCOMPLETE
+# (2009)[ 42 solutions but it is more because the equity
+# filtering is not using eqtity of Total that is �68.03
+# billion ] => equity formatting issue
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX dbp-pro: <http://dbpedia.org/property/>
+SELECT DISTINCT ?company (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label) 
+Where 
+{
+  ?company  ?pro dbpedia:Petroleum_industry  ;
+            dbp-ont:equity ?equity ; 
+            rdfs:label ?labels . 
+  FILTER ( lang(?labels) = "en" && xsd:double(str(?equity)) > 7e8 ) 
+}
+GROUP BY ?company ORDER BY ?labels

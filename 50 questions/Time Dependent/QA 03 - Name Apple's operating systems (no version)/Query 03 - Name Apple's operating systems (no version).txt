@@ -1,0 +1,14 @@
+# 03_Name Apple's operating systems (no version) [6/11 answers]
+# TIME INDEPENDENT
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX fb: <http://rdf.freebase.com/ns/>
+SELECT DISTINCT ?product ?label
+where
+{
+    ?product dc:subject dbp-cat:Apple_Inc._software ;
+                  fb:common.topic.notable_types fb:computer.operating_system ;
+                  rdfs:label ?label ;
+				  rdfs:comment ?comment .
+}
+ORDER BY ?product

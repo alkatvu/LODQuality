@@ -1,0 +1,7 @@
+# 33_Name the members of the pop band ABBA [5/4 answers]
+QueryID	Concept	Label	HRank
+33.1	http://dbpedia.org/resource/Bj%C3%B6rn_Ulvaeus	björn ulvaeus	5
+33.2	http://dbpedia.org/resource/Benny_Andersson	benny andersson	5
+33.3	http://dbpedia.org/resource/Frida_Lyngstad	frida lyngstad	5
+33.4	http://dbpedia.org/resource/Agnetha_F%C3%A4ltskog	agnetha fältskog	5
+33.5	http://dbpedia.org/resource/Ola_Brunkert	ola brunkert	2

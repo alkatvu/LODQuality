@@ -1,0 +1,10 @@
+# 30_Name the types of chess pieces [8/8 answers]
+QueryID	Concept	Label	HRank
+30.1	http://dbpedia.org/resource/King_(chess)	king (chess)	5
+30.2	http://dbpedia.org/resource/Queen_(chess)	queen (chess)	5
+30.3	http://dbpedia.org/resource/Rook_(chess)	rook (chess)	5
+30.4	http://dbpedia.org/resource/Bishop_(chess)	bishop (chess)	5
+30.5	http://dbpedia.org/resource/Chess_piece	chess piece	5
+30.6	http://dbpedia.org/resource/Knight_(chess)	knight (chess)	5
+30.7	http://dbpedia.org/resource/Pawn_(chess)	pawn (chess)	5
+30.8	http://dbpedia.org/resource/Chess_piece_relative_value	chess piece relative value	2

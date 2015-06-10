@@ -1,0 +1,14 @@
+# 33_Name the members of the pop band ABBA [5/4 answers]
+# TIME INDEPENDENT
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?member (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+ ?member purl:subject dbp-cat:ABBA_members ;
+         rdfs:label ?labels ;
+         rdfs:comment ?comment .
+ FILTER(lang(?labels) = "en").
+}
+GROUP BY ?member ORDER BY ?labels

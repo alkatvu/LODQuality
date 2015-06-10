@@ -1,0 +1,14 @@
+# 14_Name the Microsoft Office's Suites [12/25 answers]
+QueryID	Concept	Label	HRank
+14.1	http://dbpedia.org/resource/Microsoft_Office	microsoft office	5
+14.2	http://dbpedia.org/resource/Microsoft_Office_2000	microsoft office 2000	5
+14.3	http://dbpedia.org/resource/Microsoft_Office_2001	microsoft office 2001	5
+14.4	http://dbpedia.org/resource/Microsoft_Office_2003	microsoft office 2003	5
+14.5	http://dbpedia.org/resource/Microsoft_Office_2007	microsoft office 2007|o07	5
+14.6	http://dbpedia.org/resource/Microsoft_Office_2008_for_Mac	microsoft office 2008 for mac	5
+14.7	http://dbpedia.org/resource/Microsoft_Office_2010	microsoft office 2010	5
+14.8	http://dbpedia.org/resource/Microsoft_Office_95	microsoft office 95	5
+14.9	http://dbpedia.org/resource/Microsoft_Office_98_Macintosh_Edition	microsoft office 98 macintosh edition	5
+14.10	http://dbpedia.org/resource/Microsoft_Office_Mobile	microsoft office mobile	5
+14.11	http://dbpedia.org/resource/Microsoft_Office_XP	microsoft office xp	5
+14.12	http://dbpedia.org/resource/Microsoft_Office_for_Mac_2011	microsoft office for mac 2011	5

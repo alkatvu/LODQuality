@@ -1,0 +1,14 @@
+# 42_Name the German Bundesl�nder (Federal States of the current Federal Republic of Germany) [19/16 answers]
+# TIME DEPENDENT QUERIES
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+select distinct ?bundesland (GROUP_CONCAT(?labels; separator="|") as ?label) 
+WHERE 
+{
+  ?bundesland dcterms:subject dbp-cat:States_of_Germany ;
+              a <http://schema.org/Place> ;
+              rdfs:label ?labels  .
+    FILTER(lang(?labels) = "en" ) .
+}
+GROUP BY ?bundesland ORDER BY ?bundesland

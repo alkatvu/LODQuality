@@ -1,0 +1,14 @@
+# 28_Name the teams of the NBA (National Basketball Association in 2009) [30/30 answers]
+# TIME INDEPENDENT
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?team (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?team purl:subject dbp-cat:National_Basketball_Association_teams ;
+        rdfs:label ?labels ;
+        rdfs:comment ?comment .
+  FILTER(lang(?labels) = "en").
+}
+GROUP BY ?team ORDER BY ?labels

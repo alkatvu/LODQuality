@@ -1,0 +1,37 @@
+# 13_Name countries with McDonald's restaurants [35/127 answers]
+QueryID	Concept	Label	HRank
+13.1	http://dbpedia.org/resource/Australia	australia|australia|australia|australia|australia|australia|australia	5
+13.2	http://dbpedia.org/resource/Rohrau,_Austria	austria|austria|austria|austria|austria|austria|austria|austria|austria	5
+13.3	http://dbpedia.org/resource/Azerbaijan	azerbaijan|azerbaijan|azerbaijan	5
+13.4	http://dbpedia.org/resource/Belarus	belarus|belarus|belarus	5
+13.5	http://dbpedia.org/resource/Brazil	brazil|brazil|brazil|brazil|brazil|brazil|brazil|brazil|brazil	5
+13.6	http://dbpedia.org/resource/Colombia	colombia|colombia|colombia|colombia|colombia|colombia|colombia	5
+13.7	http://dbpedia.org/resource/Costa_Rica	costa rica|costa rica|costa rica|costa rica|costa rica|costa rica|costa rica|costa rica	5
+13.8	http://dbpedia.org/resource/Croatia	croatia|croatia|croatia|croatia|croatia|croatia	5
+13.9	http://dbpedia.org/resource/East_Germany	east germany	4
+13.10	http://dbpedia.org/resource/Estonia	estonia|estonia|estonia|estonia|estonia|estonia|estonia	5
+13.11	http://dbpedia.org/resource/United_Kingdom	great britain|great britain|great britain|great britain|great britain|great britain|great britain|great britain|great britain|great britain|great britain|great britain|great britain|great britain|great britain|great britain|great britain|great britain|great britain	5
+13.12	http://dbpedia.org/resource/Hungary	hungary|hungary|hungary|hungary|hungary|hungary	5
+13.13	http://dbpedia.org/resource/India	india|india|india|india|india|india|india|india|india|india|india	5
+13.14	http://dbpedia.org/resource/Iraq	iraq|iraq|iraq|iraq|iraq|iraq	5
+13.15	http://dbpedia.org/resource/Republic_of_Ireland	ireland|ireland|ireland|ireland|ireland|ireland|ireland|ireland	5
+13.16	http://dbpedia.org/resource/Shlomi,_Israel	israel|israel|israel|israel|israel|israel|israel|israel|israel|israel|israel	5
+13.17	http://dbpedia.org/resource/Lebanon	lebanon	5
+13.18	http://dbpedia.org/resource/Mauritius	mauritius|mauritius|mauritius|mauritius	5
+13.19	http://dbpedia.org/resource/Moldova	moldova|moldova|moldova	5
+13.20	http://dbpedia.org/resource/Morocco	morocco|morocco|morocco|morocco|morocco|morocco	5
+13.21	http://dbpedia.org/resource/Netherlands	netherlands|netherlands|netherlands	5
+13.22	http://dbpedia.org/resource/Northern_Ireland	northern ireland|northern ireland|northern ireland|northern ireland|northern ireland|northern ireland|northern ireland	5
+13.23	http://dbpedia.org/resource/Norway	norway|norway|norway|norway|norway|norway	5
+13.24	http://dbpedia.org/resource/Pakistan	pakistan	5
+13.25	http://dbpedia.org/resource/Philippines	philippines|philippines|philippines|philippines|philippines|philippines|philippines|philippines|philippines	5
+13.26	http://dbpedia.org/resource/Portugal	portugal	5
+13.27	http://dbpedia.org/resource/Russia	russia|russia|russia|russia|russia|russia|russia|russia	5
+13.28	http://dbpedia.org/resource/San_Marino	san marino|san marino	5
+13.29	http://dbpedia.org/resource/Scotland	scotland|scotland|scotland|scotland|scotland|scotland	5
+13.30	http://dbpedia.org/resource/Korea	south korea|south korea|south korea|south korea|south korea|south korea	5
+13.31	http://dbpedia.org/resource/Sweden	sweden|sweden|sweden|sweden|sweden|sweden	5
+13.32	http://dbpedia.org/resource/Switzerland	switzerland|switzerland|switzerland|switzerland|switzerland|switzerland|switzerland|switzerland|switzerland	5
+13.33	http://dbpedia.org/resource/Turkey	turkey|turkey|turkey|turkey|turkey|turkey|turkey|turkey|turkey|turkey	5
+13.34	http://dbpedia.org/resource/Ukraine	ukraine|ukraine|ukraine	5
+13.35	http://dbpedia.org/resource/United_States	united states|states (us)|united states|states (us)|united states|states (us)|united states|states (us)|united states|states (us)|united states|states (us)|united states|states (us)|united states|states (us)	5

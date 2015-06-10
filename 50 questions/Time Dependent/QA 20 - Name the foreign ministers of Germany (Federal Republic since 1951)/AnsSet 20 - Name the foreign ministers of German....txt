@@ -1,0 +1,10 @@
+# 20_Name the foreign ministers of Germany (Federal Republic since 1951) [8/11 answers]
+QueryID	Concept	Label	HRank
+20.1	http://dbpedia.org/resource/Hans-Dietrich_Genscher	hans-dietrich genscher|hans-dietrich genscher|hans-dietrich genscher	5
+20.2	http://dbpedia.org/resource/Konrad_Adenauer	konrad adenauer	5
+20.3	http://dbpedia.org/resource/Willy_Brandt	willy brandt|willy brandt	5
+20.4	http://dbpedia.org/resource/Guido_Westerwelle	guido westerwelle|guido westerwelle	5
+20.5	http://dbpedia.org/resource/Joschka_Fischer	joschka fischer|joschka fischer|joschka fischer|fischer, joschka|fischer, joschka|fischer, joschka	5
+20.6	http://dbpedia.org/resource/Walter_Scheel	walter scheel|walter scheel	5
+20.7	http://dbpedia.org/resource/Frank-Walter_Steinmeier	frank-walter steinmeier|frank-walter steinmeier|frank-walter steinmeier	5
+20.8	http://dbpedia.org/resource/Heinrich_von_Brentano	heinrich von brentano	5

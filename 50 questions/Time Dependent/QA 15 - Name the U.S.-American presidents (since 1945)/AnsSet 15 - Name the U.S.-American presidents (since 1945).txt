@@ -1,0 +1,13 @@
+# 15_US_Name the U.S.-American presidents (since 1945) [11/13 answers]
+QueryID	Concept	Label	HRank
+15.1	http://dbpedia.org/resource/Bill_Clinton	clinton, bill|clinton, bill|clinton, bill|clinton, bill|clinton, bill|clinton, bill|clinton, bill|clinton, bill	5
+15.2	http://dbpedia.org/resource/Dwight_D._Eisenhower	eisenhower, dwight david|eisenhower, dwight david|eisenhower, dwight david|eisenhower, dwight david	5
+15.3	http://dbpedia.org/resource/George_H._W._Bush	bush, george|bush, george|bush, george|bush, george|bush, george	5
+15.4	http://dbpedia.org/resource/Jimmy_Carter	carter, jimmy|carter, jimmy|carter, jimmy	5
+15.5	http://dbpedia.org/resource/Richard_Nixon	nixon, richard milhous|nixon, richard milhous|nixon, richard milhous|nixon, richard milhous	5
+15.6	http://dbpedia.org/resource/Ronald_Reagan	reagan, ronald wilson|reagan, ronald wilson	5
+15.7	http://dbpedia.org/resource/Lyndon_B._Johnson	johnson, lyndon baines|johnson, lyndon baines|johnson, lyndon baines|johnson, lyndon baines|johnson, lyndon baines|johnson, lyndon baines	5
+15.8	http://dbpedia.org/resource/George_W._Bush	bush, george w|bush, george w	5
+15.9	http://dbpedia.org/resource/Harry_S._Truman	truman, harry s|truman, harry s	5
+15.10	http://dbpedia.org/resource/Gerald_Ford	ford, gerald rudolph jr|ford, gerald rudolph jr|ford, gerald rudolph jr|ford, gerald rudolph jr	5
+15.11	http://dbpedia.org/resource/John_F._Kennedy	kennedy, john fitzgerald|kennedy, john fitzgerald|kennedy, john fitzgerald	5

@@ -1,0 +1,13 @@
+# 12_Name the genera of European broadleaf trees [17/42 answers]
+# TIME DEPENDENT QUERIES
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX dbp-prop: <http://dbpedia.org/property/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?plant  (GROUP_CONCAT(?genus; SEPARATOR="|") as ?label)
+WHERE
+{
+  ?plant ?predicate dbp-cat:Trees_of_Europe ;       
+          dbp-prop:genus ?genus ;
+          rdfs:comment ?comment .
+}
+GROUP BY ?plant  ORDER BY ?genus

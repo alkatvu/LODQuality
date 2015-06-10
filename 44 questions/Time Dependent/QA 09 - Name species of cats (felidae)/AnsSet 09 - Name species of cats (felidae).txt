@@ -1,0 +1,166 @@
+# 09_Name species of cats (felidae) [164/162 answers]
+QueryID	Concept	Label	HRank
+09.1	http://dbpedia.org/resource/Acinonyx_kurteni	acinonyx kurteni	5
+09.2	http://dbpedia.org/resource/Adelphailurus	adelphailurus	3
+09.3	http://dbpedia.org/resource/African_golden_cat	african golden cat	5
+09.4	http://dbpedia.org/resource/African_leopard	african leopard	5
+09.5	http://dbpedia.org/resource/African_wildcat	african wildcat	5
+09.6	http://dbpedia.org/resource/American_cheetah	american cheetah	5
+09.7	http://dbpedia.org/resource/American_lion	american lion	5
+09.8	http://dbpedia.org/resource/Amur_leopard	amur leopard	5
+09.9	http://dbpedia.org/resource/Anatolian_leopard	anatolian leopard	5
+09.10	http://dbpedia.org/resource/Andean_mountain_cat	andean mountain cat	5
+09.11	http://dbpedia.org/resource/Arabian_leopard	arabian leopard	5
+09.12	http://dbpedia.org/resource/Asian_golden_cat	asian golden cat	5
+09.13	http://dbpedia.org/resource/Asiatic_Cheetah	asiatic cheetah	5
+09.14	http://dbpedia.org/resource/Asiatic_Lion	asiatic lion	5
+09.15	http://dbpedia.org/resource/Asiatic_Wildcat	asiatic wildcat	5
+09.16	http://dbpedia.org/resource/Bali_tiger	bali tiger	5
+09.17	http://dbpedia.org/resource/Balkan_Lynx	balkan lynx	5
+09.18	http://dbpedia.org/resource/Barbary_leopard	barbary leopard	5
+09.19	http://dbpedia.org/resource/Barbary_lion	barbary lion	5
+09.20	http://dbpedia.org/resource/Bay_cat	bay cat	5
+09.21	http://dbpedia.org/resource/Bengal_tiger	bengal tiger	5
+09.22	http://dbpedia.org/resource/Black-footed_cat	black-footed cat	5
+09.23	http://dbpedia.org/resource/Bobcat	bobcat	5
+09.24	http://dbpedia.org/resource/Canada_lynx	canada lynx	5
+09.25	http://dbpedia.org/resource/Cape_Lion	cape lion	5
+09.26	http://dbpedia.org/resource/Cape_serval	cape serval	5
+09.27	http://dbpedia.org/resource/Caracal	caracal	5
+09.28	http://dbpedia.org/resource/Caspian_tiger	caspian tiger	5
+09.29	http://dbpedia.org/resource/Cat	cat	5
+09.30	http://dbpedia.org/resource/Catopuma	catopuma	1
+09.31	http://dbpedia.org/resource/Cave_lion	panthera leo spelaea|cave lion	5
+09.32	http://dbpedia.org/resource/Cheetah	cheetah	5
+09.33	http://dbpedia.org/resource/Chinese_mountain_cat	chinese mountain cat	5
+09.34	http://dbpedia.org/resource/Clouded_leopard	clouded leopard	5
+09.35	http://dbpedia.org/resource/Colocolo	colocolo	5
+09.36	http://dbpedia.org/resource/Corsican_Wildcat	corsican wildcat	5
+09.37	http://dbpedia.org/resource/Costa_Rican_cougar	costa rican cougar	5
+09.38	http://dbpedia.org/resource/Cougar	cougar	5
+09.39	http://dbpedia.org/resource/Cretan_Wildcat	cretan wildcat	5
+09.40	http://dbpedia.org/resource/Dinobastis	dinobastis	5
+09.41	http://dbpedia.org/resource/Dinofelis_paleoonca	dinofelis paleoonca	5
+09.42	http://dbpedia.org/resource/Eastern_Cougar	eastern cougar	5
+09.43	http://dbpedia.org/resource/Endangered_subspecies_of_tiger	endangered subspecies of tiger	2
+09.44	http://dbpedia.org/resource/Eurasian_lynx	eurasian lynx	5
+09.45	http://dbpedia.org/resource/European_Lion	european lion	5
+09.46	http://dbpedia.org/resource/European_Wildcat	european wildcat	5
+09.47	http://dbpedia.org/resource/European_jaguar	european jaguar	5
+09.48	http://dbpedia.org/resource/Felinae	felinae	1
+09.49	http://dbpedia.org/resource/Felis	felis	5
+09.50	http://dbpedia.org/resource/Felis_attica	felis attica	5
+09.51	http://dbpedia.org/resource/Felis_chaus_affinis	felis chaus affinis	5
+09.52	http://dbpedia.org/resource/Felis_chaus_chaus	felis chaus chaus	5
+09.53	http://dbpedia.org/resource/Felis_chaus_fulvidina	felis chaus fulvidina	5
+09.54	http://dbpedia.org/resource/Felis_chaus_furax	felis chaus furax	5
+09.55	http://dbpedia.org/resource/Felis_chaus_kelaarti	felis chaus kelaarti	5
+09.56	http://dbpedia.org/resource/Felis_chaus_kutas	felis chaus kutas	5
+09.57	http://dbpedia.org/resource/Felis_chaus_maimanah	felis chaus maimanah	5
+09.58	http://dbpedia.org/resource/Felis_chaus_nilotica	felis chaus nilotica	5
+09.59	http://dbpedia.org/resource/Felis_chaus_oxiana	felis chaus oxiana	5
+09.60	http://dbpedia.org/resource/Felis_chaus_prateri	felis chaus prateri	5
+09.61	http://dbpedia.org/resource/Felis_lunensis	felis lunensis	5
+09.62	http://dbpedia.org/resource/Felis_margarita_airensis	felis margarita airensis	5
+09.63	http://dbpedia.org/resource/Felis_margarita_harrisoni	felis margarita harrisoni	5
+09.64	http://dbpedia.org/resource/Felis_margarita_margarita	felis margarita margarita	5
+09.65	http://dbpedia.org/resource/Felis_margarita_meinertzhageni	felis margarita meinertzhageni	5
+09.66	http://dbpedia.org/resource/Felis_margarita_scheffeli	felis margarita scheffeli	5
+09.67	http://dbpedia.org/resource/Felis_margarita_thinobia	felis margarita thinobia	5
+09.68	http://dbpedia.org/resource/Felis_silvestris_caucasica	felis silvestris caucasica	5
+09.69	http://dbpedia.org/resource/Fishing_cat	fishing cat	5
+09.70	http://dbpedia.org/resource/Flat-headed_cat	flat-headed cat	5
+09.71	http://dbpedia.org/resource/Florida_panther	florida panther	5
+09.72	http://dbpedia.org/resource/Formosan_clouded_leopard	formosan clouded leopard	5
+09.73	http://dbpedia.org/resource/Geoffroy's_cat	geoffroy's cat	5
+09.74	http://dbpedia.org/resource/Giant_cheetah	giant cheetah	5
+09.75	http://dbpedia.org/resource/Gulf_Coast_Jaguarundi	gulf coast jaguarundi	5
+09.76	http://dbpedia.org/resource/Homotherium	homotherium	5
+09.77	http://dbpedia.org/resource/Iberian_lynx	iberian lynx	5
+09.78	http://dbpedia.org/resource/Indian_leopard	indian leopard	5
+09.79	http://dbpedia.org/resource/Indochinese_leopard	indochinese leopard	5
+09.80	http://dbpedia.org/resource/Indochinese_tiger	indochinese tiger	5
+09.81	http://dbpedia.org/resource/Iriomote_cat	iriomote cat	5
+09.82	http://dbpedia.org/resource/Jaguar	jaguar	5
+09.83	http://dbpedia.org/resource/Jaguarundi	jaguarundi	5
+09.84	http://dbpedia.org/resource/Javan_leopard	javan leopard	5
+09.85	http://dbpedia.org/resource/Javan_tiger	javan tiger	5
+09.86	http://dbpedia.org/resource/Jungle_cat	jungle cat	5
+09.87	http://dbpedia.org/resource/Kodkod	kodkod	5
+09.88	http://dbpedia.org/resource/Kotiya	kotiya|sri lankan leopard	5
+09.89	http://dbpedia.org/resource/Leopard	leopard	5
+09.90	http://dbpedia.org/resource/Leopard_cat	leopard cat	5
+09.91	http://dbpedia.org/resource/Leopardus	leopardus	5
+09.92	http://dbpedia.org/resource/Leopon	leopon	5
+09.93	http://dbpedia.org/resource/Liger	liger	5
+09.94	http://dbpedia.org/resource/Lion	lion	5
+09.95	http://dbpedia.org/resource/Litigon	litigon	5
+09.96	http://dbpedia.org/resource/Lynx	lynx	5
+09.97	http://dbpedia.org/resource/Lynx_issiodorensis	lynx issiodorensis	5
+09.98	http://dbpedia.org/resource/Machairodontinae	machairodontinae	5
+09.99	http://dbpedia.org/resource/Machairodontini	machairodontini	5
+09.100	http://dbpedia.org/resource/Machairodus	machairodus	5
+09.101	http://dbpedia.org/resource/Malayan_tiger	malayan tiger	5
+09.102	http://dbpedia.org/resource/Marbled_cat	marbled cat	5
+09.103	http://dbpedia.org/resource/Margay	margay	5
+09.104	http://dbpedia.org/resource/Marozi	marozi	5
+09.105	http://dbpedia.org/resource/Masai_lion	masai lion	5
+09.106	http://dbpedia.org/resource/Megantereon	megantereon	5
+09.107	http://dbpedia.org/resource/Metailurini	metailurini	5
+09.108	http://dbpedia.org/resource/Metailurus	metailurus	5
+09.109	http://dbpedia.org/resource/Mexican_Bobcat	mexican bobcat	5
+09.110	http://dbpedia.org/resource/Miomachairodus	miomachairodus	5
+09.111	http://dbpedia.org/resource/Neofelis	neofelis	5
+09.112	http://dbpedia.org/resource/Nimravides	nimravides	5
+09.113	http://dbpedia.org/resource/North_American_Cougar	north american cougar|puma concolor couguar	5
+09.114	http://dbpedia.org/resource/North_China_leopard	north china leopard	5
+09.115	http://dbpedia.org/resource/North_East_Congo_lion	north east congo lion	5
+09.116	http://dbpedia.org/resource/Northern_South_American_cougar	northern south american cougar	5
+09.117	http://dbpedia.org/resource/Northwest_African_Cheetah	northwest african cheetah	5
+09.118	http://dbpedia.org/resource/Ocelot	ocelot	5
+09.119	http://dbpedia.org/resource/Oncilla	oncilla	5
+09.120	http://dbpedia.org/resource/Pallas's_cat	pallas's cat	5
+09.121	http://dbpedia.org/resource/Pampas_cat	pampas cat	5
+09.122	http://dbpedia.org/resource/Pantanal_cat	pantanal cat	5
+09.123	http://dbpedia.org/resource/Panthera	panthera	5
+09.124	http://dbpedia.org/resource/Panthera_crassidens	panthera crassidens	5
+09.125	http://dbpedia.org/resource/Panthera_leo_fossilis	panthera leo fossilis	5
+09.126	http://dbpedia.org/resource/Panthera_leo_vereshchagini	panthera leo vereshchagini	5
+09.127	http://dbpedia.org/resource/Panthera_onca_augusta	panthera onca augusta	5
+09.128	http://dbpedia.org/resource/Panthera_onca_mesembrina	panthera onca mesembrina	5
+09.129	http://dbpedia.org/resource/Panthera_palaeosinensis	panthera palaeosinensis	5
+09.130	http://dbpedia.org/resource/Panthera_youngi	panthera youngi	5
+09.131	http://dbpedia.org/resource/Pantherinae	pantherinae	5
+09.132	http://dbpedia.org/resource/Paramachairodus	paramachairodus	5
+09.133	http://dbpedia.org/resource/Pardofelis	pardofelis	5
+09.134	http://dbpedia.org/resource/Persian_leopard	persian leopard	5
+09.135	http://dbpedia.org/resource/Pontosmilus	pontosmilus	5
+09.136	http://dbpedia.org/resource/Pratifelis_martini	pratifelis martini	5
+09.137	http://dbpedia.org/resource/Prionailurus	prionailurus	5
+09.138	http://dbpedia.org/resource/Proailurus	proailurus	5
+09.139	http://dbpedia.org/resource/Pseudaelurus	pseudaelurus	5
+09.140	http://dbpedia.org/resource/Puma_(genus)	puma (genus)	5
+09.141	http://dbpedia.org/resource/Rusty-spotted_cat	rusty-spotted cat	5
+09.142	http://dbpedia.org/resource/Sand_cat	sand cat	5
+09.143	http://dbpedia.org/resource/Sardinian_lynx	sardinian lynx	5
+09.144	http://dbpedia.org/resource/Serval	serval	5
+09.145	http://dbpedia.org/resource/Siberian_tiger	siberian tiger	5
+09.146	http://dbpedia.org/resource/Sinai_leopard	sinai leopard	5
+09.147	http://dbpedia.org/resource/Smilodon	smilodon	5
+09.148	http://dbpedia.org/resource/Smilodontini	smilodontini	5
+09.149	http://dbpedia.org/resource/Snow_leopard	snow leopard	5
+09.150	http://dbpedia.org/resource/South_China_tiger	south china tiger	5
+09.151	http://dbpedia.org/resource/Southwest_African_Lion	southwest african lion	5
+09.152	http://dbpedia.org/resource/Sri_Lanka_Lion	sri lanka lion	5
+09.153	http://dbpedia.org/resource/Sumatran_tiger	sumatran tiger	5
+09.154	http://dbpedia.org/resource/Sunda_clouded_leopard	sunda clouded leopard	5
+09.155	http://dbpedia.org/resource/Tiger	tiger	5
+09.156	http://dbpedia.org/resource/Tiglon	tiglon	5
+09.157	http://dbpedia.org/resource/Transvaal_Lion	transvaal lion	5
+09.158	http://dbpedia.org/resource/Trinil_tiger	trinil tiger	5
+09.159	http://dbpedia.org/resource/Tuscany_Lion	tuscany lion	5
+09.160	http://dbpedia.org/resource/Visayan_leopard_cat	visayan leopard cat	5
+09.161	http://dbpedia.org/resource/West_African_lion	west african lion	5
+09.162	http://dbpedia.org/resource/Wildcat	wildcat	5
+09.163	http://dbpedia.org/resource/Xenosmilus	xenosmilus	5
+09.164	http://dbpedia.org/resource/Zanzibar_leopard	zanzibar leopard	5

@@ -1,0 +1,17 @@
+# 06_Name the laureates of the Nobel Peace Prize (since 1975) [52/55 answers]
+# Nobel Peace Prize laureates since 1975
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:> 
+PREFIX fb: <http://rdf.freebase.com/ns/>
+SELECT distinct ?laureate (GROUP_CONCAT(?labels; separator="|") as ?label)
+WHERE 
+{
+  ?laureate purl:subject dbp-cat:Nobel_Peace_Prize_laureates ;
+            fb:award.award_winner.awards_won ?award ;
+            rdfs:label ?labels ;
+            rdfs:comment ?comment .
+  ?award fb:award.award_honor.year ?year.
+    FILTER (?year >= "1975")
+  FILTER(lang(?labels) = "en").
+}
+GROUP BY ?laureate ORDER BY asc(?year)

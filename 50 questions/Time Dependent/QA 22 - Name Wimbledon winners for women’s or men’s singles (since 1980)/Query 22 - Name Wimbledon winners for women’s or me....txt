@@ -1,0 +1,21 @@
+# 22_ Wimbledon winners for women's or men's singles (since 1980) [28/28 answers]
+# TIME DEPENDENT QUERIES
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX fb: <http://rdf.freebase.com/ns/>
+SELECT distinct ?player  (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+ ?player purl:subject dbp-cat:Wimbledon_champions .
+ ?player fb:tennis.tennis_tournament_champion.tennis_titles ?title .
+ ?title  fb:tennis.tennis_tournament_championship.tournament ?championships.
+ ?title fb:tennis.tennis_tournament_championship.event_type ?event_type .
+ ?event_type fb:type.object.name ?event_type_name.
+ ?title fb:tennis.tennis_tournament_championship.year ?year .
+ ?player rdfs:label ?labels ;
+         rdfs:comment ?comment . 
+ filter regex( str(?championships), "Wimbledon", "i") 
+ FILTER regex( str(?event_type_name), "single" , "i") .
+ FILTER ( lang(?labels) = "en" && xsd:double(?year) > 1979) .        
+}
+GROUP BY ?player  ORDER BY ?labels

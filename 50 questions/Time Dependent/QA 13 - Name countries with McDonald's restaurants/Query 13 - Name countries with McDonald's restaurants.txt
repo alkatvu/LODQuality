@@ -1,0 +1,20 @@
+# 13_Name countries with McDonald's restaurants [35/127 answers]
+# TIME DEPENDENT QUERIES
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+select distinct  ?country (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label ) 
+WHERE
+{
+  {
+   <http://dbpedia.org/resource/List_of_countries_with_McDonald's_restaurants> dbp-ont:wikiPageWikiLink ?object .
+   ?object a fb:location.citytown ;
+         dbp-ont:country ?country .  
+    ?country skos:prefLabel ?labels.
+   } union {
+    <http://dbpedia.org/resource/List_of_countries_with_McDonald's_restaurants> dbp-ont:wikiPageWikiLink ?object .
+   ?object a dbp-ont:Country ;
+        skos:prefLabel ?labels.
+    BIND(?object AS ?country)
+  } FILTER(Lang(?labels) = "en")
+} GROUP BY ?country ORDER BY ?label

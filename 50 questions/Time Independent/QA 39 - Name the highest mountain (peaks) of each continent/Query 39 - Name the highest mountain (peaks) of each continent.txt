@@ -1,0 +1,17 @@
+# 39_Name the highest mountain (peaks) of each continent [7/7 answers]
+# TIME DEPENDENT QUERIES
+PREFIX purl: <http://purl.org/dc/terms/>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?summits (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label) 
+WHERE
+{
+   ?summits purl:subject dbp-cat:Seven_Summits ;
+              a dbp-ont:Place ;             
+              rdfs:label ?labels ;
+              rdfs:comment ?summitst ;
+  			  geo-ont:parentCountry ?country.
+  FILTER(lang(?labels) = "en" || lang(?labels) = "") .
+}
+GROUP BY?summits ?country ORDER BY ?labels

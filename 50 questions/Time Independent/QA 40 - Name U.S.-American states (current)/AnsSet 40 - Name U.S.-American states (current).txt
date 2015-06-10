@@ -1,0 +1,52 @@
+# 40_Name U.S. American states (current) [50/50 answers]
+QueryID	Concept	Label	HRank
+40.1	http://dbpedia.org/resource/Alabama	alabama	5
+40.2	http://dbpedia.org/resource/Alaska	alaska	5
+40.3	http://dbpedia.org/resource/Arkansas	arkansas	5
+40.4	http://dbpedia.org/resource/Colorado	colorado	5
+40.5	http://dbpedia.org/resource/California	california|kalifornien	5
+40.6	http://dbpedia.org/resource/Connecticut	connecticut	5
+40.7	http://dbpedia.org/resource/Delaware	delaware	5
+40.8	http://dbpedia.org/resource/Hawaii	hawaii	5
+40.9	http://dbpedia.org/resource/Idaho	idaho	5
+40.10	http://dbpedia.org/resource/Illinois	illinois	5
+40.11	http://dbpedia.org/resource/Kansas	kansas	5
+40.12	http://dbpedia.org/resource/Kentucky	kentucky|middlesboro, kentucky	5
+40.13	http://dbpedia.org/resource/Louisiana	louisiana|pointe à la hache, louisiana	5
+40.14	http://dbpedia.org/resource/Michigan	michigan	5
+40.15	http://dbpedia.org/resource/Maryland	maryland|brooklandville, maryland	5
+40.16	http://dbpedia.org/resource/Missouri	missouri|missourian|glen allen, missouri	5
+40.17	http://dbpedia.org/resource/Minnesota	minnesota	5
+40.18	http://dbpedia.org/resource/Maine	maine|bucksport, maine	5
+40.19	http://dbpedia.org/resource/Montana	montana	5
+40.20	http://dbpedia.org/resource/New_Hampshire	new hampshire	5
+40.21	http://dbpedia.org/resource/Nevada	nevada	5
+40.22	http://dbpedia.org/resource/North_Carolina	north carolina|collettsville, north carolina	5
+40.23	http://dbpedia.org/resource/North_Dakota	north dakota|omemee, north dakota	5
+40.24	http://dbpedia.org/resource/New_Mexico	new mexico	5
+40.25	http://dbpedia.org/resource/Nebraska	nebraska	5
+40.26	http://dbpedia.org/resource/New_Jersey	new jersey	5
+40.27	http://dbpedia.org/resource/Ohio	ohio	5
+40.28	http://dbpedia.org/resource/Oklahoma	oklahoma|oklahoma city|oklahoma city, oklahoma|east duke, oklahoma|oklahoma city (okla)	5
+40.29	http://dbpedia.org/resource/Pennsylvania	pennsylvania|crime in pennsylvania|nanty glo, pennsylvania	5
+40.30	http://dbpedia.org/resource/Rhode_Island	rhode island	5
+40.31	http://dbpedia.org/resource/South_Dakota	south dakota	5
+40.32	http://dbpedia.org/resource/South_Carolina	south carolina	5
+40.33	http://dbpedia.org/resource/Texas	texas|aldine, texas	5
+40.34	http://dbpedia.org/resource/Tennessee	tennessee	5
+40.35	http://dbpedia.org/resource/Utah	utah	5
+40.36	http://dbpedia.org/resource/Virginia	virginia|cherrydale, arlington, virginia	5
+40.37	http://dbpedia.org/resource/Vermont	vermont|fair haven, vermont|fair haven (cdp), vermont	5
+40.38	http://dbpedia.org/resource/West_Virginia	west virginia|mineralwells, west virginia	5
+40.39	http://dbpedia.org/resource/Wisconsin	wisconsin	5
+40.40	http://dbpedia.org/resource/Wyoming	wyoming	5
+40.41	http://dbpedia.org/resource/Georgia_(U.S._state)	georgia (u.s. state)	5
+40.42	http://dbpedia.org/resource/Constantia_(town),_New_York	new york|new york state|constantia (town), new york	5
+40.43	http://dbpedia.org/resource/Massachusetts	massachusetts	5
+40.44	http://dbpedia.org/resource/Buenaventura_Lakes,_Florida	florida|buenaventura lakes, florida|floridas	5
+40.45	http://dbpedia.org/resource/Washington_(state)	washington (state)|washington, united states|politics of washington	5
+40.46	http://dbpedia.org/resource/Mississippi	mississippi	5
+40.47	http://dbpedia.org/resource/Arizona	arizona	5
+40.48	http://dbpedia.org/resource/Indiana	indiana	5
+40.49	http://dbpedia.org/resource/Iowa	iowa	5
+40.50	http://dbpedia.org/resource/Oregon	oregon	5

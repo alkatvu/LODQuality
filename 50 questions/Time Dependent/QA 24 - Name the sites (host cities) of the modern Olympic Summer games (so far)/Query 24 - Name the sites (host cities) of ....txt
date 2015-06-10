@@ -1,0 +1,15 @@
+# 24_Name the sites (host cities) of the modern Olympic Summer games (so far) [23/23 answers]
+# TIME DEPENDENT QUERIES
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?city (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?city fb:olympics.olympic_host_city.olympics_hosted ?olympics ;
+        rdfs:label ?labels ;
+        rdfs:comment ?comment .
+  ?olympics rdfs:label ?olympics_label .
+  FILTER(lang(?labels) = "en") .
+  FILTER regex(str(?olympics_label), "summer", "i")
+}
+GROUP BY ?city ORDER BY ?labels

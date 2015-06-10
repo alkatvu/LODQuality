@@ -1,0 +1,15 @@
+# 16_US American car manufacturers (current) [10/42 answers]
+# TIME DEPENDENT QUERIES
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX purl: <http://purl.org/dc/terms/>
+select distinct ?company (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label) 
+where
+{
+  ?company a fb:automotive.company ; 
+           purl:subject  dbp-cat:Car_manufacturers_of_the_United_States ;
+           rdfs:label ?labels;
+           rdfs:comment ?comment .
+  Filter(lang(?labels) = "en")
+}
+GROUP BY ?company ORDER BY ?labels

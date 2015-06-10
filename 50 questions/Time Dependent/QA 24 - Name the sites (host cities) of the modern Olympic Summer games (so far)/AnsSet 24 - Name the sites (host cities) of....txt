@@ -1,0 +1,25 @@
+# 24_Name the sites (host cities) of the modern Olympic Summer games (so far) [23/23 answers]
+QueryID	Concept	Label	HRank
+24.1	http://dbpedia.org/resource/Berlin	berlin|berlin (germany)|berlin|berlin (germany)	5
+24.2	http://dbpedia.org/resource/London	london|london (england)|london|london (england)|london|london (england)|london|london (england)|london|london|london (england)|london (england)|london|london|london (england)|london (england)|london|london|london (england)|london (england)	5
+24.3	http://dbpedia.org/resource/Athens	athens|athens (greece)|athens|athens (greece)|athens|athens (greece)|athens|athens (greece)	5
+24.4	http://dbpedia.org/resource/Sydney	sydney|sydney|climate of sydney|climate of sydney|sydney (australia)|sydney (australia)|sydney|sydney|climate of sydney|climate of sydney|sydney (australia)|sydney (australia)	5
+24.5	http://dbpedia.org/resource/Atlanta	atlanta|atlanta, georgia|atlanta (ga)|atlanta|atlanta, georgia|atlanta (ga)	5
+24.6	http://dbpedia.org/resource/Montreal	montreal|montreal (quebec)|montreal|montreal (quebec)	5
+24.7	http://dbpedia.org/resource/Xuanwu_District,_Beijing	beijing|beijing|xuanwu district, beijing|xuanwu district, beijing|beijing (china)|beijing (china)|beijing|beijing|xuanwu district, beijing|xuanwu district, beijing|beijing (china)|beijing (china)|beijing|beijing|xuanwu district, beijing|xuanwu district, beijing|beijing (china)|beijing (china)|beijing|beijing|xuanwu district, beijing|xuanwu district, beijing|beijing (china)|beijing (china)|beijing|beijing|xuanwu district, beijing|xuanwu district, beijing|beijing (china)|beijing (china)	5
+24.8	http://dbpedia.org/resource/Barcelona	barcelona|barcelona (spain)|barcelona|barcelona (spain)	5
+24.9	http://dbpedia.org/resource/Seoul	seoul|seoul (south korea)|seoul|seoul (south korea)	5
+24.10	http://dbpedia.org/resource/Los_Angeles	los angeles|los angeles, california|los angeles (calif)|los angeles|los angeles, california|los angeles (calif)|los angeles|los angeles, california|los angeles (calif)|los angeles|los angeles, california|los angeles (calif)	5
+24.11	http://dbpedia.org/resource/Moscow	moscow|muscovites|moscow (russia)|moscow|muscovites|moscow (russia)	5
+24.12	http://dbpedia.org/resource/Munich	munich|munich (germany)|munich|munich (germany)	5
+24.13	http://dbpedia.org/resource/Mexico_City	mexico city|distrito federal|mexico city (mexico)|mexico city|distrito federal|mexico city (mexico)	5
+24.14	http://dbpedia.org/resource/Rome	rome|rome (italy)|rome|rome (italy)	5
+24.15	http://dbpedia.org/resource/Tokyo	tokyo|tokyo (japan)|tokyo|tokyo (japan)	5
+24.16	http://dbpedia.org/resource/Melbourne	melbourne|melbourne (australia)|melbourne|melbourne (australia)	5
+24.17	http://dbpedia.org/resource/Helsinki	helsinki|helsinki (finland)|helsinki|helsinki (finland)	5
+24.18	http://dbpedia.org/resource/Amsterdam	amsterdam|amsterdam|voc ship amsterdam|voc ship amsterdam|3x|3x|amsterdam (netherlands)|amsterdam (netherlands)|amsterdam|amsterdam|voc ship amsterdam|voc ship amsterdam|3x|3x|amsterdam (netherlands)|amsterdam (netherlands)	5
+24.19	http://dbpedia.org/resource/Paris	paris|capital of france|greater paris|paris (france)|paris|capital of france|greater paris|paris (france)|paris|capital of france|greater paris|paris (france)|paris|capital of france|greater paris|paris (france)	5
+24.20	http://dbpedia.org/resource/Antwerp	antwerp|antwerp (belgium)|antwerp|antwerp (belgium)	5
+24.21	http://dbpedia.org/resource/Stockholm	stockholm|stockholm (sweden)|stockholm|stockholm (sweden)	5
+24.22	http://dbpedia.org/resource/St._Louis,_Missouri	st. louis, missouri|st. louis, missouri	5
+24.23	http://dbpedia.org/resource/Rio_de_Janeiro	rio de janeiro (state)|rio de janeiro (state)|rio de janeiro|rio de janeiro|rio de janeiro (brazil)|rio de janeiro (brazil)|rio de janeiro (state)|rio de janeiro (state)|rio de janeiro|rio de janeiro|rio de janeiro (brazil)|rio de janeiro (brazil)	5

@@ -1,0 +1,40 @@
+# 50_Name existing brands worth over $20 billion (in 2009)[OK] [38/? answers]
+QueryID	Concept	Label	HRank
+50.1	http://dbpedia.org/resource/Volvo	ab volvo	5
+50.2	http://dbpedia.org/resource/BASF	bas    f se	5
+50.3	http://dbpedia.org/resource/Skanska	skanska ab	5
+50.4	http://dbpedia.org/resource/The_Royal_Bank_of_Scotland_Group	the royal bank of scotland group plc	5
+50.5	http://dbpedia.org/resource/Vodafone	vodafone group plc	5
+50.6	http://dbpedia.org/resource/Sandvik	sandvik ab	5
+50.7	http://dbpedia.org/resource/Atlas_Copco	atlas copco ab	5
+50.8	http://dbpedia.org/resource/Assa_Abloy	assa abloy ab	5
+50.9	http://dbpedia.org/resource/USAA	united services automobile association	5
+50.10	http://dbpedia.org/resource/Credit_Suisse	credit suisse group ag	5
+50.11	http://dbpedia.org/resource/Novo_Nordisk	novo nordisk a/s	5
+50.12	http://dbpedia.org/resource/Repsol_YPF	repsol ypf, s.a.	5
+50.13	http://dbpedia.org/resource/Marathon_Oil	marathon oil corporation	5
+50.14	http://dbpedia.org/resource/Denso	denso corporation	5
+50.15	http://dbpedia.org/resource/General_Motors	general motors company	5
+50.16	http://dbpedia.org/resource/General_Electric	general electric company	5
+50.17	http://dbpedia.org/resource/Intel	intel corporation	5
+50.18	http://dbpedia.org/resource/Oracle_Corporation	oracle corporation	5
+50.19	http://dbpedia.org/resource/Cisco_Systems	cisco systems, inc.	5
+50.20	http://dbpedia.org/resource/Morgan_Stanley	morgan stanley	5
+50.21	http://dbpedia.org/resource/Novartis	novartis international ag	5
+50.22	http://dbpedia.org/resource/Qualcomm	qualcomm inc.	5
+50.23	http://dbpedia.org/resource/Chevron_Corporation	chevron corporation	5
+50.24	http://dbpedia.org/resource/Dow_Chemical_Company	the dow chemical company	5
+50.25	http://dbpedia.org/resource/Berkshire_Hathaway	berkshire hathaway inc.	5
+50.26	http://dbpedia.org/resource/HSBC	hsbc holdings plc	5
+50.27	http://dbpedia.org/resource/Abbott_Laboratories	abbott laboratories	5
+50.28	http://dbpedia.org/resource/State_Farm_Insurance	state farm insurance	5
+50.29	http://dbpedia.org/resource/MetLife	metlife, inc.	5
+50.30	http://dbpedia.org/resource/Capital_One	capital one financial corporation	5
+50.31	http://dbpedia.org/resource/PNC_Financial_Services	pnc financial services group, inc.	5
+50.32	http://dbpedia.org/resource/AT&T	at&t inc.	5
+50.33	http://dbpedia.org/resource/IBM	international business machines corporation	5
+50.34	http://dbpedia.org/resource/ExxonMobil	exxon mobil corporation	5
+50.35	http://dbpedia.org/resource/BP	bp p.l.c.	5
+50.36	http://dbpedia.org/resource/Anheuser-Busch_InBev	anheuser-busch inbev n.v.	5
+50.37	http://dbpedia.org/resource/UBS	ubs ag	5
+50.38	http://dbpedia.org/resource/Merck_&_Co.	merck & co., inc.|(merck sharp & dohme (msd) outside the united states and canada)	5

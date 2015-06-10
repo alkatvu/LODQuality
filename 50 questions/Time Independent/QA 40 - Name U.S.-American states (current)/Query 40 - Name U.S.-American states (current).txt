@@ -1,0 +1,14 @@
+# 40_Name U.S. American states (current) [50/50 answers]
+# TIME DEPENDENT QUERIES
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?state  (GROUP_CONCAT(?labels; separator="|") as ?label)
+WHERE
+{ 
+  ?state dcterms:subject dbp-cat:States_of_the_United_States ;
+         a <http://schema.org/Place> ;
+         rdfs:label ?labels .
+  FILTER(lang(?labels) = "en" || lang(?labels) = "") .
+}
+GROUP BY ?state ORDER BY ?labels

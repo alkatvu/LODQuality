@@ -1,0 +1,8 @@
+# 34_Name the members of the pop band The Beatles [6/6 answers]
+QueryID	Concept	Label	HRank
+34.1	http://dbpedia.org/resource/George_Harrison	george harrison|harrison, george	5
+34.2	http://dbpedia.org/resource/John_Lennon	john lennon|lennon, john	5
+34.3	http://dbpedia.org/resource/Pete_Best	pete best	5
+34.4	http://dbpedia.org/resource/Ringo_Starr	ringo starr|starr, ringo	5
+34.5	http://dbpedia.org/resource/Stuart_Sutcliffe	stuart sutcliffe	5
+34.6	http://dbpedia.org/resource/Paul_McCartney	paul mccartney|mccartney, paul|paul mccartney's musical career|paul mccartney|mccartney, paul|paul mccartney's musical career	5

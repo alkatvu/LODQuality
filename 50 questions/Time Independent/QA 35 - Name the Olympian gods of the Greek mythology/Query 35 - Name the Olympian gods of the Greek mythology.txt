@@ -1,0 +1,16 @@
+# 35_Name the Olympian gods of the Greek mythology [12/14 answers]
+# TIME INDEPENDENT
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?member (GROUP_CONCAT(?labels; separator="|") as ?label)
+WHERE 
+{
+  ?member dcterms:subject dbp-cat:Twelve_Olympians ;
+          fb:type.object.type fb:religion.deity ;
+          rdfs:label ?labels ;
+          rdfs:comment ?comment .
+ FILTER(lang(?labels) = "en").
+}
+GROUP BY ?member ORDER BY ?member

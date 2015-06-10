@@ -1,0 +1,17 @@
+# 15_US_Name the U.S.-American presidents (since 1945) [11/13 answers]
+# TIME DEPENDENT QUERIES
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX dbp-prop: <http://dbpedia.org/property/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?member (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+ ?member purl:subject dbp-cat:Presidents_of_the_United_States ;
+         dbp-ont:activeYearsStartDate ?date ;
+         skos:prefLabel ?labels ;
+         rdfs:comment ?comment .
+ FILTER (lang(?labels) = "en" && ?date >= "1945-01-01"^^xsd:date)
+}
+GROUP BY ?member ORDER BY ?labels

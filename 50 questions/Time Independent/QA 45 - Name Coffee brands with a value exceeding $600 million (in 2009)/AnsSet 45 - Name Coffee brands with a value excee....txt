@@ -1,0 +1,4 @@
+# 45_Name Coffee brands with a value exceeding $600 million (in 2009) [2/? answers]
+QueryID	Concept	Label	HRank
+45.1	http://dbpedia.org/resource/Tim_Hortons	tim hortons	5
+45.2	http://dbpedia.org/resource/Nescaf%C3%A9	nescafé|nescafé	5

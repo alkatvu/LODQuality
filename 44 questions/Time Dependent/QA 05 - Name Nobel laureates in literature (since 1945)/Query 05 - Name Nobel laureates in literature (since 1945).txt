@@ -1,0 +1,16 @@
+# 05_Name Nobel laureates in literature (since 1945) [64/72 answers]
+# TIME DEPENDENT QUERIES
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX dbp-prop: <http://dbpedia.org/property/>
+SELECT ?laureate  (GROUP_CONCAT(?labels; separator="|") as ?label) 
+WHERE 
+{
+  ?laureate dcterms:subject dbp-cat:Nobel_laureates_in_Literature ;
+            rdfs:label ?labels ;
+            fb:base.nobelprizes.nobel_prize_winner.nobel_honor ?prize .
+  ?prize    fb:award.award_honor.year ?year.
+  FILTER(lang(?labels) = "en").
+  BIND( AVG(xsd:integer(?year)) AS ?avgYear) 
+}
+GROUP BY ?laureate ?year HAVING( AVG(xsd:integer(?year))> 1944) ORDER BY ?laureate

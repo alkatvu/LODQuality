@@ -1,0 +1,16 @@
+# 14_Name the Microsoft Office's Suites [12/25 answers]
+# TIME DEPENDENT QUERIES
+PREFIX purl: <http://purl.org/dc/terms/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX dbp-prop: <http://dbpedia.org/property/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+Select  Distinct ?software ( GROUP_CONCAT(?labels; SEPARATOR="|") as ?label) 
+Where 
+{  
+  ?software purl:subject dbp-cat:Microsoft_Office ;
+			dbp-prop:genre dbpedia:Office_suite;
+            rdfs:label ?labels  .
+  FILTER(lang(?labels) = "en").
+}
+GROUP BY ?software ORDER BY ?software

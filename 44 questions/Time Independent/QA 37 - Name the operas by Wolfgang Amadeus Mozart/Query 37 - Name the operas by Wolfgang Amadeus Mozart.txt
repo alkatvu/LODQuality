@@ -1,0 +1,16 @@
+# 37_Name the operas by Wolfgang Amadeus Mozart [22/23 answers]
+# TIME INDEPENDENT
+PREFIX purl: <http://purl.org/dc/terms/> 
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX dbp-cat: <http://dbpedia.org/resource/Category:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?opera (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?opera purl:subject dbp-cat:Operas_by_Wolfgang_Amadeus_Mozart ;
+         a fb:base.catalog.cataloged_composition ;
+         rdfs:label ?labels ;
+         rdfs:comment ?comment .
+  FILTER(lang(?labels) = "en")
+}
+GROUP BY ?opera  ORDER BY ?labels

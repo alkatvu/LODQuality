@@ -1,0 +1,17 @@
+# 26_Name the teams of the 1st German football league Bundesliga (2008-09) [6/18 answers] [6 good answers]
+# TIME INDEPENDENT
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX dbp-prop: <http://dbpedia.org/property/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?team (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+ ?theLeague dbp-ont:league ?league ;
+            dbp-ont:team ?team ;
+            dbp-prop:season ?season .
+ ?team rdfs:label ?labels ;
+       rdfs:comment ?comment .
+ FILTER (?season = 2008 && lang(?labels) = "en" && 
+         regex(str(?league), "bundesliga","i") ).
+}
+GROUP BY ?team ORDER BY ?labels

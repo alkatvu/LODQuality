@@ -1,0 +1,19 @@
+# 27_Name the teams of the 2nd German football league 2. Bundesliga (2008-09) [21/18 answers]
+# TIME INDEPENDENT
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbp-prop: <http://dbpedia.org/property/>
+SELECT distinct ?team (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?Theleague dbp-ont:league ?league ;
+             dbp-prop:team ?team ;
+             dbp-prop:season ?season .             
+  ?team rdfs:label ?labels ;
+        rdfs:comment ?comment .
+  FILTER ( ?season = 2008 
+        && regex(str(?league), "bundesliga","i")
+        && regex(str(?league), "2","i") 
+        && lang(?labels) = "en" ) . 
+}
+GROUP BY ?team ORDER BY ?labels

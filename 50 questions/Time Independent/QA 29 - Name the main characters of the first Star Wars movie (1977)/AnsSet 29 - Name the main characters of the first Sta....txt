@@ -1,0 +1,14 @@
+# 29_Name the main characters of the first Star Wars movie (1977) [12/12 answers]
+QueryID	Concept	Label	HRank
+29.1	http://dbpedia.org/resource/Wedge_Antilles	wedge antilles	5
+29.2	http://dbpedia.org/resource/Princess_Leia	princess leia	5
+29.3	http://dbpedia.org/resource/Luke_Skywalker	luke skywalker	5
+29.4	http://dbpedia.org/resource/Darth_Vader	darth vader	5
+29.5	http://dbpedia.org/resource/Obi-Wan_Kenobi	obi-wan kenobi	5
+29.6	http://dbpedia.org/resource/R2-D2	r2-d2	5
+29.7	http://dbpedia.org/resource/C-3PO	c-3po	5
+29.8	http://dbpedia.org/resource/Grand_Moff_Tarkin	grand moff tarkin	5
+29.9	http://dbpedia.org/resource/Figrin_D'an_and_the_Modal_Nodes	figrin d'an and the modal nodes	2
+29.10	http://dbpedia.org/resource/Stormtrooper_(Star_Wars)	stormtrooper (star wars)	5
+29.11	http://dbpedia.org/resource/Chewbacca	chewbacca	5
+29.12	http://dbpedia.org/resource/Han_Solo	han solo	5

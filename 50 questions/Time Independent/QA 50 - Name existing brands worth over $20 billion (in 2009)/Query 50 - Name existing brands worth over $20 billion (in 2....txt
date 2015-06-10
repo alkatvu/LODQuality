@@ -1,0 +1,18 @@
+# 50_Name existing brands worth over $20 billion (in 2009)[OK] [38/? answers]
+# TIME INDEPENDENT & INCOMPLETE
+PREFIX dbp-ont: <http://dbpedia.org/ontology/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT distinct ?comp (GROUP_CONCAT(?labels; SEPARATOR="|") as ?label)
+WHERE 
+{
+  ?comp dbp-ont:equity ?equity ;
+		a fb:business.brand ;
+        foaf:name ?labels ;
+        rdfs:comment ?comment .
+  FILTER(lang(?labels) = "en") .
+  FILTER (xsd:double(str(?equity )) > 2e10) .
+}
+GROUP BY ?comp ORDER BY ?labels

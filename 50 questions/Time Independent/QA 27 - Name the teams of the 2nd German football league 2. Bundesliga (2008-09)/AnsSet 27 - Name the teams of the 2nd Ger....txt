@@ -1,0 +1,23 @@
+# 27_Name the teams of the 2nd German football league 2. Bundesliga (2008-09) [21/18 answers]
+QueryID	Concept	Label	HRank
+27.1	http://dbpedia.org/resource/FC_Bayern_Munich	fc bayern munich|fc bayern munich	5
+27.2	http://dbpedia.org/resource/Hannover_96	hannover 96|hannover 96	5
+27.3	http://dbpedia.org/resource/FC_Energie_Cottbus	fc energie cottbus|fc energie cottbus	5
+27.4	http://dbpedia.org/resource/Borussia_M%C3%B6nchengladbach	borussia mönchengladbach|borussia mönchengladbach	5
+27.5	http://dbpedia.org/resource/Borussia_Dortmund	borussia dortmund|borussia dortmund	5
+27.6	http://dbpedia.org/resource/FC_Schalke_04	fc schalke 04|fc schalke 04	5
+27.7	http://dbpedia.org/resource/1._FC_K%C3%B6ln	1. fc köln|1. fc köln	5
+27.8	http://dbpedia.org/resource/Bayer_04_Leverkusen	bayer 04 leverkusen|bayer 04 leverkusen	5
+27.9	http://dbpedia.org/resource/VfL_Bochum	vfl bochum|vfl bochum	5
+27.10	http://dbpedia.org/resource/Hamburger_SV	hamburger sv|hamburger sv	5
+27.11	http://dbpedia.org/resource/F.C._Hansa_Rostock	f.c. hansa rostock|f.c. hansa rostock	1
+27.12	http://dbpedia.org/resource/VfB_Stuttgart	vfb stuttgart|vfb stuttgart	5
+27.13	http://dbpedia.org/resource/Eintracht_Frankfurt	eintracht frankfurt|eintracht frankfurt	5
+27.14	http://dbpedia.org/resource/Hertha_BSC	hertha bsc|hertha bsc	5
+27.15	http://dbpedia.org/resource/VfL_Wolfsburg	vfl wolfsburg|vfl wolfsburg	5
+27.16	http://dbpedia.org/resource/Arminia_Bielefeld	arminia bielefeld|arminia bielefeld	5
+27.17	http://dbpedia.org/resource/Karlsruher_SC	karlsruher sc|karlsruher sc	5
+27.18	http://dbpedia.org/resource/TSG_1899_Hoffenheim	tsg 1899 hoffenheim|tsg 1899 hoffenheim	5
+27.19	http://dbpedia.org/resource/SV_Werder_Bremen	sv werder bremen|sv werder bremen	5
+27.20	http://dbpedia.org/resource/1._FC_Heidenheim	1. fc heidenheim|1. fc heidenheim	1
+27.21	http://dbpedia.org/resource/FC_Oberneuland	fc oberneuland|fc oberneuland	1
